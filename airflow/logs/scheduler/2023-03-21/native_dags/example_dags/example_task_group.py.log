@@ -1,0 +1,11 @@
+[2023-03-22T03:59:35.067+0400] {processor.py:153} INFO - Started process (PID=165074) to work on /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-03-22T03:59:35.068+0400] {processor.py:743} INFO - Processing file /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-03-22T03:59:35.068+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.068+0400] {dagbag.py:538} INFO - Filling up the DagBag from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-03-22T03:59:35.124+0400] {processor.py:753} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2023-03-22T03:59:35.187+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.187+0400] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-03-22T03:59:35.206+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.205+0400] {manager.py:504} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-03-22T03:59:35.216+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.216+0400] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-03-22T03:59:35.216+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.216+0400] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-22T03:59:35.225+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.225+0400] {dag.py:2711} INFO - Creating ORM DAG for example_task_group
+[2023-03-22T03:59:35.229+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:35.229+0400] {dag.py:3437} INFO - Setting next_dagrun for example_task_group to 2023-03-20T23:59:35.229768+00:00, run_after=2023-03-21T23:59:35.229768+00:00
+[2023-03-22T03:59:35.248+0400] {processor.py:175} INFO - Processing /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.184 seconds

@@ -1,0 +1,16 @@
+[2023-03-22T03:59:44.262+0400] {processor.py:153} INFO - Started process (PID=165222) to work on /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-03-22T03:59:44.263+0400] {processor.py:743} INFO - Processing file /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-03-22T03:59:44.263+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.263+0400] {dagbag.py:538} INFO - Filling up the DagBag from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-03-22T03:59:44.321+0400] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-03-22T03:59:44.378+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.378+0400] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2023-03-22T03:59:44.391+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.391+0400] {manager.py:504} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2023-03-22T03:59:44.403+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.403+0400] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2023-03-22T03:59:44.435+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.435+0400] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2023-03-22T03:59:44.451+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.451+0400] {manager.py:504} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2023-03-22T03:59:44.466+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.465+0400] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2023-03-22T03:59:44.466+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.466+0400] {dag.py:2690} INFO - Sync 2 DAGs
+[2023-03-22T03:59:44.476+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.475+0400] {dag.py:2711} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2023-03-22T03:59:44.476+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.476+0400] {dag.py:2711} INFO - Creating ORM DAG for example_xcom_args
+[2023-03-22T03:59:44.480+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.480+0400] {dag.py:3437} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-03-22T03:59:44.480+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:44.480+0400] {dag.py:3437} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-03-22T03:59:44.501+0400] {processor.py:175} INFO - Processing /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.243 seconds

@@ -1,0 +1,24 @@
+[2023-03-22T09:38:29.790+0400] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_gcp_12.format_to_parquet_task manual__2023-03-22T05:38:24.944988+00:00 [queued]>
+[2023-03-22T09:38:29.793+0400] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_gcp_12.format_to_parquet_task manual__2023-03-22T05:38:24.944988+00:00 [queued]>
+[2023-03-22T09:38:29.793+0400] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-22T09:38:29.793+0400] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2023-03-22T09:38:29.793+0400] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-22T09:38:29.805+0400] {taskinstance.py:1300} INFO - Executing <Task(PythonOperator): format_to_parquet_task> on 2023-03-22 05:38:24.944988+00:00
+[2023-03-22T09:38:29.807+0400] {standard_task_runner.py:55} INFO - Started process 675595 to run task
+[2023-03-22T09:38:29.809+0400] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'data_gcp_12', 'format_to_parquet_task', 'manual__2023-03-22T05:38:24.944988+00:00', '--job-id', '88', '--raw', '--subdir', 'DAGS_FOLDER/data_gsp.py', '--cfg-path', '/tmp/tmpsqeghug_']
+[2023-03-22T09:38:29.809+0400] {standard_task_runner.py:83} INFO - Job 88: Subtask format_to_parquet_task
+[2023-03-22T09:38:29.832+0400] {task_command.py:388} INFO - Running <TaskInstance: data_gcp_12.format_to_parquet_task manual__2023-03-22T05:38:24.944988+00:00 [running]> on host civispc
+[2023-03-22T09:38:29.864+0400] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=data_gcp_12
+AIRFLOW_CTX_TASK_ID=format_to_parquet_task
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-22T05:38:24.944988+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-03-22T05:38:24.944988+00:00
+[2023-03-22T09:38:32.610+0400] {logging_mixin.py:137} INFO - Deleted 'pq' directory successfully
+[2023-03-22T09:38:33.845+0400] {python.py:177} INFO - Done. Returned value was: None
+[2023-03-22T09:38:33.849+0400] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=data_gcp_12, task_id=format_to_parquet_task, execution_date=20230322T053824, start_date=20230322T053829, end_date=20230322T053833
+[2023-03-22T09:38:33.869+0400] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-03-22T09:38:33.877+0400] {taskinstance.py:2578} INFO - 1 downstream tasks scheduled from follow-on schedule check

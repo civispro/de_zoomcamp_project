@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "forward-cacao-374915",
+  "private_key_id": "7101584d8c65a640f9a0bf21f7f0d6f6cf8d98ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0ss+kVKhtuhM1\nZA7Fds5cjPRl4lZoeuVS1C0a6BKK0e2hAZvRonBTwdLXC+EZbDMo60Jr/YUnSQ7a\nw5dFesEu4lNRG2qv5gnmDsRuIxgUi3tv5KPi+wtEmJLv6qwuBEy3HMF4MNiGI1hi\nf85D0b9iTJNS4jBs/bi8k26q1lUq1zRUV/Q8AuDmGBlkQ/43LFOHicfYjjS7kEu/\n9FhrJ6i/hym1OnU0i5ZSUV+pK02uq0367LH0lFoguNY22U3Bu3IBGZBwEeJ/6zUA\nx1kpi13F63d1k4dlbK3westqa0NQ98gZJxry+8B5hvVvmhBGxy/LYykHO+wXSrVz\nFyaNuTDNAgMBAAECggEAMgB08t02Sj6+R/zrFXs9uWCL1JGgJYM0aAosfRCQ6PcU\nUYRXcNgJSzQMOtOfs2A8e+s10xoxOWC/CowrFN/WCzo3oe77Q7ddL9sQQgXWCQFb\n4+eZ7hpX0OCDcH44rPcln1oGs1KY5+1p7L++/QdSdUoJTlsm2VIQR6Zobj+nC5ZQ\nAV3++ettT3QaShzUS6DIz3s3SEnrea49KoGBHeFhfKR0hRj1XEWxnQ5g6HmBXdUW\nfoVAaE2eD6afAQOA6tTRcERvsOY5flkFS74QZIVoXFojrHB/aq6IeBOFpzf8stnM\nIXAK8uYa+aiFkqrmJUwPjD0Hs6KNumyaPetY99ijRQKBgQDp+HJhE/WfwHXy7JnW\nG/4PFuFJROI949YXhb0IfLp74MxkgPrQ7t1sCXMzQzXvWgOV/P682Kv8Dk4DMEDW\nRLXZVO5e3W835vd2G7ob+56e6KtTMY0wT3mnFYM8HF0vIKYASvDvc2ZXNnQdjWcd\nEcGZORlayJJI1RNf+ON9sFHlIwKBgQDFtk/duF8j4rAWM85CseZd2IME1I/OMXgS\nMk0rb2aJEEdd68v3QkqpH6JVsM/HZNcWrQELNRdFXVK37XJ7CnxMBQEytiOkVfoW\nxbjyxykb1oKPCJtMRSQX1CYiKTPI6JZYB2iaKEJWluO0nkdSkwxEc9ErDOYfBFqH\n2eqb7nnJTwKBgGd5cVxtr1uPipp8+SwwBRQ3UjtNM6Gbebu9cfSm9PKEYOCyCjsM\n6PA23bP2LYxFiwBye1aZnLZEvUu7s3EPwjzzytg5pk5a32ZkrNJjXat5ywtoBsEu\n5OZ4JSoYgT2uerv2aMf9iW1Yr9HCD7BTggN5tTTpL4j2czMmp7WWnSFxAoGAH8B4\nsRX0CZJVTyuAu4tQgM/Nss/kTGv7aYi0hf49DFQV8gp1Vj9KOEEBVBuyMsaKGHUu\nTrt3AkfLighTM1lqvtaq65b+wFyiblfQrQS5IGRh0VDDiAsukbkbaq8NRv27b2W5\nMdC3Xqqa5R3qPGOrO68R74UBzAdp9plTqTkyS9cCgYEAyecCh/RCdlXpGGKgzV8b\nR2CucY/z4JVuMDD0JvxsJ53rcsdBCsoVDJycMdeHHb1HQvuXIAbdrx0C9os98qza\npV38+cVruBgeIKNRDiFj/trRMipBjIfSgMN8mbyecbTu2cMAv56oJahvhvyE0ujX\n8W2tuJhbl/WFlp94d5DW9nU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "deuser@forward-cacao-374915.iam.gserviceaccount.com",
+  "client_id": "103906453385902546905",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deuser%40forward-cacao-374915.iam.gserviceaccount.com"
+}

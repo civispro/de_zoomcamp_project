@@ -1,0 +1,24 @@
+[2023-03-22T09:48:08.563+0400] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_gcp_14.external_table_pldb scheduled__2023-03-21T00:00:00+00:00 [queued]>
+[2023-03-22T09:48:08.566+0400] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: data_gcp_14.external_table_pldb scheduled__2023-03-21T00:00:00+00:00 [queued]>
+[2023-03-22T09:48:08.566+0400] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-22T09:48:08.566+0400] {taskinstance.py:1280} INFO - Starting attempt 1 of 2
+[2023-03-22T09:48:08.566+0400] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-22T09:48:08.578+0400] {taskinstance.py:1300} INFO - Executing <Task(BigQueryCreateExternalTableOperator): external_table_pldb> on 2023-03-21 00:00:00+00:00
+[2023-03-22T09:48:08.581+0400] {standard_task_runner.py:55} INFO - Started process 694179 to run task
+[2023-03-22T09:48:08.582+0400] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'data_gcp_14', 'external_table_pldb', 'scheduled__2023-03-21T00:00:00+00:00', '--job-id', '114', '--raw', '--subdir', 'DAGS_FOLDER/data_gsp.py', '--cfg-path', '/tmp/tmpvix4tl1t']
+[2023-03-22T09:48:08.583+0400] {standard_task_runner.py:83} INFO - Job 114: Subtask external_table_pldb
+[2023-03-22T09:48:08.616+0400] {task_command.py:388} INFO - Running <TaskInstance: data_gcp_14.external_table_pldb scheduled__2023-03-21T00:00:00+00:00 [running]> on host civispc
+[2023-03-22T09:48:08.650+0400] {taskinstance.py:1507} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=data_gcp_14
+AIRFLOW_CTX_TASK_ID=external_table_pldb
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-21T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-21T00:00:00+00:00
+[2023-03-22T09:48:08.652+0400] {base.py:73} INFO - Using connection ID 'google_cloud_default' for task execution.
+[2023-03-22T09:48:08.652+0400] {credentials_provider.py:323} INFO - Getting connection using `google.auth.default()` since no key file is defined for hook.
+[2023-03-22T09:48:09.252+0400] {taskinstance.py:1318} INFO - Marking task as SUCCESS. dag_id=data_gcp_14, task_id=external_table_pldb, execution_date=20230321T000000, start_date=20230322T054808, end_date=20230322T054809
+[2023-03-22T09:48:09.316+0400] {local_task_job.py:208} INFO - Task exited with return code 0
+[2023-03-22T09:48:09.325+0400] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,11 @@
+[2023-03-22T03:59:52.251+0400] {processor.py:153} INFO - Started process (PID=165374) to work on /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-22T03:59:52.251+0400] {processor.py:743} INFO - Processing file /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-03-22T03:59:52.251+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.251+0400] {dagbag.py:538} INFO - Filling up the DagBag from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-22T03:59:52.318+0400] {processor.py:753} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-03-22T03:59:52.380+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.380+0400] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2023-03-22T03:59:52.395+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.394+0400] {manager.py:504} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2023-03-22T03:59:52.408+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.407+0400] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2023-03-22T03:59:52.408+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.408+0400] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-22T03:59:52.416+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.416+0400] {dag.py:2711} INFO - Creating ORM DAG for example_skip_dag
+[2023-03-22T03:59:52.420+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:52.419+0400] {dag.py:3437} INFO - Setting next_dagrun for example_skip_dag to 2023-03-20T23:59:52.419886+00:00, run_after=2023-03-21T23:59:52.419886+00:00
+[2023-03-22T03:59:52.441+0400] {processor.py:175} INFO - Processing /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds

@@ -1,0 +1,11 @@
+[2023-03-22T03:59:36.311+0400] {processor.py:153} INFO - Started process (PID=165088) to work on /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-03-22T03:59:36.311+0400] {processor.py:743} INFO - Processing file /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2023-03-22T03:59:36.312+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.312+0400] {dagbag.py:538} INFO - Filling up the DagBag from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-03-22T03:59:36.367+0400] {processor.py:753} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2023-03-22T03:59:36.428+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.427+0400] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_short_circuit_operator
+[2023-03-22T03:59:36.441+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.441+0400] {manager.py:504} INFO - Created Permission View: can read on DAG:example_short_circuit_operator
+[2023-03-22T03:59:36.457+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.457+0400] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_short_circuit_operator
+[2023-03-22T03:59:36.458+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.457+0400] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-22T03:59:36.471+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.471+0400] {dag.py:2711} INFO - Creating ORM DAG for example_short_circuit_operator
+[2023-03-22T03:59:36.479+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:36.479+0400] {dag.py:3437} INFO - Setting next_dagrun for example_short_circuit_operator to 2023-03-20T23:59:36.479104+00:00, run_after=2023-03-21T23:59:36.479104+00:00
+[2023-03-22T03:59:36.504+0400] {processor.py:175} INFO - Processing /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.195 seconds

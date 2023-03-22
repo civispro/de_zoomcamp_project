@@ -1,0 +1,11 @@
+[2023-03-22T03:59:42.858+0400] {processor.py:153} INFO - Started process (PID=165195) to work on /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-03-22T03:59:42.859+0400] {processor.py:743} INFO - Processing file /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2023-03-22T03:59:42.859+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:42.859+0400] {dagbag.py:538} INFO - Filling up the DagBag from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-03-22T03:59:42.915+0400] {processor.py:753} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2023-03-22T03:59:42.977+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:42.977+0400] {manager.py:504} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2023-03-22T03:59:42.997+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:42.997+0400] {manager.py:504} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2023-03-22T03:59:43.014+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:43.014+0400] {manager.py:504} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2023-03-22T03:59:43.014+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:43.014+0400] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-03-22T03:59:43.024+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:43.024+0400] {dag.py:2711} INFO - Creating ORM DAG for latest_only_with_trigger
+[2023-03-22T03:59:43.028+0400] {logging_mixin.py:137} INFO - [2023-03-22T03:59:43.028+0400] {dag.py:3437} INFO - Setting next_dagrun for latest_only_with_trigger to 2023-03-21T19:59:43.028212+00:00, run_after=2023-03-21T23:59:43.028212+00:00
+[2023-03-22T03:59:43.049+0400] {processor.py:175} INFO - Processing /home/civis/anaconda3/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.191 seconds

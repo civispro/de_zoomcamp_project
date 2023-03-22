@@ -1,0 +1,4785 @@
+title,appeared,type,lastActivity,repos,country
+Java,1995,pl,2022,369548,United States
+JavaScript,1995,pl,2022,1099879,United States
+C,1972,pl,2022,292876,United States
+Python,1991,pl,2022,550171,Netherlands
+SQL,1974,queryLanguage,2022,641,United States
+C++,1985,pl,2022,277733,United States
+HTML,1991,textMarkup,2022,777550,Switzerland
+Linux,1991,os,2018,0,United States
+XML,1996,dataNotation,2022,2700,World
+PHP,1995,pl,2022,339509,Canada
+Perl,1987,pl,2022,101542,United States
+MATLAB,1984,pl,2022,2791,United States
+Ruby,1995,pl,2022,374367,Japan
+C#,2000,pl,2022,133078,United States
+Android,2008,os,2022,0,United States
+MySQL,1995,queryLanguage,2022,0,World
+Fortran,1957,pl,2022,2820,United States
+CSS,1996,stylesheetLanguage,2018,808537,Switzerland
+R,1993,pl,2022,29347,United States
+JSON,2001,dataNotation,2022,6,United States
+iOS,2007,os,2018,0,United States
+Go,2009,pl,2022,91470,World
+Scala,2004,pl,2022,34541,Switzerland
+Swift,2014,pl,2022,42531,World
+Ada,1980,pl,2022,2172,United States
+COBOL,1959,pl,2022,667,United States
+Rust,2010,pl,2023,15753,World
+PostgreSQL,1986,queryLanguage,2022,0,United States
+Kotlin,2011,pl,2023,7829,World
+Arduino Programming Language,2005,pl,2022,20461,Italy
+PowerShell,2006,pl,2022,33120,World
+Pascal,1970,pl,2022,10149,Switzerland
+Haskell,1990,pl,2022,29991,United States and United Kingdom
+TypeScript,2012,pl,2023,47650,World
+SAS,1976,pl,2022,1350,United States
+ARM,1985,assembly,2022,0,United Kingdom
+Lisp,1958,pl,2022,0,United States
+Lua,1993,pl,2022,34346,Brazil
+Julia,2012,pl,2023,5895,Various
+Prolog,1972,pl,2022,11137,United Kingdom and France
+Node.js,2009,pl,2022,0,United States
+HTTP,1989,protocol,2022,0,United States
+Objective-C,1984,pl,2022,167113,United States
+Clojure,2007,pl,2022,25889,United States
+Scheme,1970,pl,2022,7221,United States
+Assembly language,1960,assembly,2022,47629,World
+Erlang,1986,pl,2022,14920,Sweden
+Bash,1989,pl,2022,640005,United States
+JQuery,2006,library,2022,0,Various
+Mathematica,1988,pl,2022,2662,United States
+ISBN,1970,schema,2022,0,United Kingdom
+Elixir,2011,pl,2022,6816,United States
+CUDA,2007,pl,2018,4379,World
+Dart,2011,pl,2022,5727,World
+Emacs,1976,editor,2022,0,Various
+Modula-2,1978,pl,2022,115,Switzerland
+MongoDB,2009,application,2022,0,World
+Visual Basic,1991,pl,2022,10510,United States
+Tcl,1988,pl,2022,8111,World
+ActionScript,1998,pl,2022,8748,World
+VBA,1993,pl,2022,200,World
+Vim,1991,editor,2022,0,World
+Ruby on Rails,2005,framework,2022,0,Denmark
+WordPress,2003,application,2022,0,World
+BASIC,1964,pl,2022,66,United States
+Verilog,1984,hardwareDescriptionLanguage,2022,2985,United States
+awk,1977,pl,2022,20601,United States
+Delphi,1995,pl,2022,240,United States
+Solidity,2014,contractLanguage,2022,78,World
+ASCII,1963,characterEncoding,2001,0,United States
+AWS,2006,cloud,2018,0,United States
+F#,2005,pl,2022,5877,United Kingdom
+Regular Expressions,1951,queryLanguage,2022,0,United States
+OCaml,1996,pl,2022,5622,France
+ASP,1996,template,2022,32849,United States
+Eiffel,1986,pl,2023,721,Various
+Crystal,2014,pl,2022,1197,Argentina and Germany and Turkey
+Smalltalk,1972,pl,2022,5607,United States
+Yacc,1975,grammarLanguage,2018,13674,United States
+Git,2005,application,2022,0,Various
+Modula-3,1986,pl,2018,19,United States and Germany
+Elm,2012,pl,2022,2864,United States and France
+Racket,1994,pl,2022,3760,World
+Groovy,2003,pl,2022,27223,United States and Spain and France
+Unix,1969,os,1969,0,World
+D,2001,pl,2022,7198,United States
+Common Lisp,1984,pl,2022,5678,United States
+Reason,2016,pl,2022,24,World
+UML,1996,xmlFormat,2001,0,World
+Sage,2005,pl,2022,84,World
+Maple,1982,pl,2022,0,Canada
+Unicode,1987,characterEncoding,2017,0,World
+CoffeeScript,2009,pl,2022,68631,United States
+VHDL,1983,hardwareDescriptionLanguage,2022,2099,United States
+APL,1964,pl,2022,95,United States
+OpenCL,2009,pl,2018,0,World
+MediaWiki,2002,wikiMarkup,2022,0,United States
+Microsoft Azure,2010,cloud,2018,0,United States
+YAML,2001,dataNotation,2018,13,World
+DOI,2000,schema,2022,0,Switzerland
+REST,1996,protocol,2022,0,United States
+UTF-8,1993,characterEncoding,2009,0,World
+Microsoft Excel,1987,application,2001,0,United States
+XQuery,2007,pl,2022,1175,World
+PostScript,1982,textMarkup,2011,4145,United States
+Nginx,2004,configFormat,2022,8529,Russia
+GraphQL,2012,queryLanguage,2022,0,World
+SPSS,1968,pl,2022,0,United States
+PowerPC,1992,isa,2018,0,World
+Eclipse,2001,editor,2003,0,Canada
+TLS,1999,protocol,2001,0,World
+FTP,1971,protocol,2022,0,United States
+Visual Studio,1997,editor,2017,0,World
+SOAP,1998,xmlFormat,2022,0,World
+Matplotlib,2003,library,2022,0,Various
+Vue,2014,framework,2022,8639,World
+Literate CoffeeScript,2013,pl,2022,0,United States
+Rexx,1979,pl,2022,71,United Kingdom
+X86,1978,isa,2001,0,World
+TCP,1974,protocol,2009,0,World
+Nim,2008,pl,2022,472,Various
+ANTLR,1992,grammarLanguage,2022,2866,United States
+SciPy,2001,library,2022,0,World
+Scratch,2002,visual,2022,0,World
+Pug,2010,template,2022,575,Various
+LFE,2008,pl,2022,15,United States
+Smali,2010,assembly,2022,212,World
+LaTeX,1985,textMarkup,2022,0,United States
+Markdown,2004,textMarkup,2022,8,United States
+Visual Basic .NET,2001,pl,2022,322,World
+Liquid,2008,template,2022,1018,Canada
+Forth,1970,pl,2022,1910,United States
+SMTP,1982,protocol,2001,0,World
+PureBasic,1998,pl,2022,647,World
+ML,1973,pl,2022,0,United Kingdom
+Solaris,1992,os,1992,0,World
+Haxe,2005,pl,2022,3304,Unknown
+VBScript,1996,pl,2022,339,United States
+WebAssembly,2015,bytecode,2022,160,World
+CIL,2000,pl,2022,0,World
+Chapel,2004,pl,2022,55,United States
+Oberon,1986,pl,2022,0,Switzerland
+PDF,1993,binaryDataFormat,2018,0,United States
+LabVIEW G,1986,pl,2022,357,United States
+Applescript,1993,pl,2022,4075,United States
+Oz,1991,pl,2022,72,Germany
+Lasso,1995,pl,2022,435,Canada
+fish,2005,pl,2022,0,Various
+LLVM IR,2003,ir,2018,1345,Various
+ECMAScript,1997,pl,2022,0,Switzerland
+Red,2011,pl,2022,98,China
+Simula,1965,pl,2002,0,Norway
+Protocol Buffers,2008,idl,2022,11692,World
+Idris,2014,pl,2022,301,United Kingdom
+Logo,1967,pl,2022,0,United States
+SQLite,2000,queryLanguage,2022,0,World
+UDP,1980,protocol,2022,0,World
+AMPL,1985,pl,2022,852,United States
+OpenGL,1992,library,2022,0,World
+sed,1974,pl,2018,1075,United States
+PicoLisp,1988,pl,2022,99,Germany
+Visual Studio Code,2015,editor,2015,0,World
+Drupal,2000,application,2022,0,Various
+FreeBSD,1993,os,1993,0,United States
+Tex,1978,pl,2022,31515,United States
+V,2019,pl,2022,45,World
+BCPL,1966,pl,2001,0,United Kingdom
+PL/SQL,1991,pl,2017,6767,United States
+JVM,1994,vm,2006,0,World
+Standard ML,1990,pl,2017,2390,World
+Dylan,1992,pl,2022,112,United Kingdom
+REBOL,1997,pl,2022,1647,World
+Apache Maven,2004,application,2014,0,United States
+Unity,2005,library,2022,0,World
+Processing,2001,pl,2022,6773,United States
+Hack,2014,pl,2022,3242,World
+MIPS architecture,1985,isa,2022,0,World
+Algol,1958,pl,2001,0,World
+OWL,2004,xmlFormat,2018,642,United States
+URL,1994,schema,2001,0,World
+Org,2003,textMarkup,2022,1,The Netherlands and France
+PureScript,2013,pl,2022,826,World
+Brainfuck,1993,esolang,2017,832,Switzerland
+SVG,2001,textMarkup,2022,0,World
+Monaco Editor,2016,editor,2022,0,United States
+FAT,1977,filesystem,2001,0,United States
+DOT,2007,textMarkup,2015,68,United States
+FLUX,2014,pl,2022,853,United States
+Fantom,2005,pl,2022,38,United States
+Squirrel,2003,pl,2022,433,World
+EuLisp,1985,pl,2006,0,United States
+Monkey,2011,pl,2016,116,United States
+FLEX,1987,grammarLanguage,2022,0,United States
+AUTOCAD,1982,application,2001,0,United States
+Limbo,1995,pl,2003,367,United States
+Agda,2007,pl,2014,207,Sweden
+BlitzBasic,2000,pl,2016,492,New Zealand
+ABAP,1983,pl,2022,450,World
+MUMPS,1966,pl,2022,4908,United States
+Occam,1983,pl,2001,0,United Kingdom
+GAME,1977,pl,2001,0,Canada
+HAML,2006,template,2022,465,Canada
+Emacs Lisp,1985,pl,2018,16754,United States
+RDF,1997,dataNotation,2001,0,United States
+ColdFusion,1995,pl,2022,2061,World
+Jinja,2006,template,2022,981,Various
+Coq,1989,pl,2022,1013,France
+AutoIt,1999,pl,2022,650,Unknown
+Qt,1995,framework,2022,0,Finland
+x86 Assembly,1972,assembly,2017,0,World
+Makefile,1976,pl,2002,250693,United States
+Vala,2006,pl,2017,2046,World
+J,1990,pl,2022,151,United States
+Nearley,2014,grammarLanguage,2022,33,United States
+NewLisp,1991,pl,2022,812,United States
+Nemerle,2003,pl,2022,286,World
+Zig,2015,pl,2022,21,World
+MIME,1991,textDataFormat,2022,0,United States
+XAML,2008,xmlFormat,2022,0,World
+Jison,2009,pl,2022,0,Various
+MoonScript,2011,pl,2022,359,United States
+Icon,1977,pl,2001,0,United States
+Terra,2012,pl,2022,206,World
+TOML,2013,dataNotation,2022,0,World
+Scikit-learn,2007,library,2022,0,World
+X10,2004,pl,2022,19,United States
+Ballerina,2015,pl,2022,22,United States
+Scilab,1990,pl,2012,13048,World
+Flow,2014,pl,2022,0,United States
+Io,2002,pl,2022,624,United States and United Kingdom and Belarus
+Turing,1982,pl,2017,167,Canada
+idyll,2017,pl,2022,0,Various
+RPG,1959,pl,2004,0,World
+Mercury,1995,pl,2022,646,Australia
+Reverse Polish notation,1953,notation,2002,0,Germany
+QML,2009,pl,2014,5249,Finland
+IDL,1977,pl,2017,5298,United States
+Frege,2011,pl,2022,160,Switzerland and Germany and United States
+xBase,1986,pl,2017,350,United States
+GNU Octave,1988,pl,2022,0,United States
+Boo,2003,pl,2022,241,Brasil
+JSP,1999,template,2018,0,United States
+PostCSS,2013,textMarkup,2022,0,Various
+TensorFlow,2015,library,2022,0,World
+Object Pascal,1986,pl,2004,0,United States
+Slim,2011,template,2022,206,World
+MicroPython,2014,pl,2022,0,Australia and The Netherlands
+Hy,2013,pl,2022,180,Various
+highlight.js,2006,library,2022,0,Various
+ALGOL 60,1960,pl,2004,0,World
+Arc,2001,pl,2003,467,United States
+Zephir,2013,pl,2022,140,World
+SPARQL,2008,queryLanguage,2015,0,World
+Ceylon,2011,pl,2022,167,World
+Redis,2009,application,2022,0,United States
+LOLCODE,2007,esolang,2022,109,England
+Opa,2011,pl,2022,58,France
+SPARC,1987,isa,2002,0,World
+SuperCollider,1996,pl,2022,3713,World
+SystemVerilog,2002,pl,2005,1052,World
+QBasic,1991,pl,2001,0,United States
+Clean,1987,pl,2017,263,Netherlands
+Lean,2015,pl,2022,265,United States
+SNOBOL,1962,pl,2002,0,United States
+Cython,2007,pl,2022,580,Various
+RFC,1969,notation,2001,0,United States
+Bison,1985,grammarLanguage,2011,3641,United States
+XPath,1999,queryLanguage,2008,0,World
+WebGL,2011,library,2013,0,World
+Inform,1993,pl,2022,60,United Kingdom
+CLIPS,1985,pl,2022,991,United States
+Pony,2012,pl,2023,78,Various
+reStructuredText,2002,textMarkup,2018,0,Canada
+KiCad Legacy Layout,1992,application,2018,1099,France
+vi,1976,editor,2001,0,World
+RobotFramework,2013,pl,2022,515,Finland
+PL/pgSQL,1998,pl,2016,9239,United States
+Factor,2003,pl,2022,111,Unknown
+CMake,2000,application,2022,56490,United States
+NumPy,1995,library,2022,0,Various
+Self,1987,pl,2022,26,United States
+Stata,1985,pl,2022,1032,World
+Multi-User Forth,1995,pl,2004,0,United States
+Sublime Text,2008,editor,2022,0,World
+Nextflow,2013,pl,2022,62,Sweden and Spain and Brazil and South Africa
+JSON5,2012,dataNotation,2022,0,United States
+SI,1960,notation,2001,0,World
+Pike,1994,pl,2022,105,Sweden
+grep,1974,pl,2002,0,United States
+Deno,2018,compiler,2022,0,United States
+Metal,2014,library,2018,256,United States
+EDN,2012,dataNotation,2022,0,Unknown
+PL/I,1964,pl,2022,0,World
+Isabelle,1986,pl,2018,137,United Kingdom and Germany
+WSDL,2000,xmlFormat,2002,0,World
+Gzip,1992,binaryDataFormat,2016,0,World
+NetLogo,1999,pl,2022,154,United States
+D3.js,2011,library,2022,0,United States
+Magit,2013,application,2022,0,Unknown
+API Blueprint,2013,pl,2022,810,United States
+MiniD,2006,pl,2007,0,United States
+RAML,2013,yamlFormat,2022,472,United States
+HCL,2014,dataNotation,2022,2995,World
+Perl 6,2015,pl,2018,2002,Various
+Extensible Linking Format,1999,binaryExecutable,2001,0,United States
+Ace Editor,2010,editor,2022,0,World
+Click,1999,pl,2022,127,United States
+New Technology File System,1993,filesystem,2002,0,United States
+ATS,2013,pl,2022,46,United States
+AutoLISP,1986,pl,2001,0,United States
+S-algol,1979,pl,2006,0,World
+YANG,2014,application,2022,0,World
+IA-32,1985,isa,2001,0,United States
+Csound,1985,pl,2022,65,United States
+OpenRC runscript,2007,application,2023,0,England
+F*,2014,pl,2022,31,Unknown
+Ini,1987,dataNotation,2013,1,United States
+Sass,2006,stylesheetLanguage,2022,466,World
+Turtle,2011,dataNotation,2015,0,World
+Lex,1975,grammarLanguage,2002,12486,United States
+Subversion,2000,application,2002,0,World
+Gnuplot,1986,pl,2022,3204,Various
+Xojo,1996,pl,2022,68,World
+npm,2010,packageManager,2022,0,United States
+AGC,1966,assembly,2017,0,United States
+FoxPRO,1992,pl,2006,0,United States
+FlatBuffers,2014,idl,2022,0,World
+ClojureScript,2011,pl,2022,0,Various
+Ioke,2008,pl,2022,41,Ecuador
+Java Bytecode,1995,bytecode,2005,0,United States
+S-expressions,1960,dataNotation,2002,0,World
+INTERCAL,1972,pl,2001,0,United States
+E,1997,pl,2022,304,United States
+CodeMirror,2007,editor,2022,0,Germany
+Wren,2013,pl,2022,3,United States
+Alloy,1997,pl,2022,90,World
+odin,2016,pl,2022,6,The Netherlands and Denmark and Sweden and United States and Germany
+AXIOM,1992,pl,2001,0,United States
+LiveScript,2011,pl,2017,2273,United States
+RDoc,2004,textMarkup,2017,0,Japan
+CSP,1978,pl,2003,0,United Kingdom
+Modelica,1997,pl,2022,542,Sweden
+Gradle,2008,application,2022,0,Various
+Embedded Crystal,2016,template,2022,0,Argentina
+Office Open XML,2006,xmlFormat,2006,0,United States
+Wavefront Object,1988,application,2017,0,World
+POV-Ray SDL,1991,pl,2022,493,United States
+Microsoft BASIC,1975,pl,2002,0,World
+Clipper,1985,pl,2003,0,United States
+YARA,2008,pl,2022,46,World
+ERB,2004,template,2018,0,Various
+Batchfile,1985,pl,2022,97775,United States
+Django,2005,library,2014,0,United States
+MariaDB,2009,queryLanguage,2009,0,Finland and United States
+Whitespace,2003,esolang,2003,0,World
+GAMS,1963,pl,2005,49,United States
+DNS,1985,protocol,1985,0,United States
+SYMBOL,1971,pl,2002,0,World
+B,1969,pl,2001,0,United States
+AsciiDoc,2002,textMarkup,2022,0,World
+Pod,1997,textMarkup,2004,0,United States
+BPMN,2004,visual,2005,0,United States
+M4,1977,pl,2004,15666,United States
+Datalog,1977,pl,2004,0,Italy
+Objective-J,2008,pl,2014,340,United States and United Kingdom and Sweden
+Marko,2014,textMarkup,2022,12,United States
+Dafny,2009,pl,2022,1,World
+chevrotain,2015,library,2022,0,Germany
+C--,1997,pl,2005,0,United States
+Ninja,2012,template,2022,0,United States
+Dhall,2017,dataNotation,2022,60,Various
+Base64,1987,textEncodingFormat,1987,0,United States
+Wolfram Language,1988,pl,2022,0,World
+Oxygene,2002,pl,2022,35,United States
+Gambas,1999,pl,2003,0,France
+JSON-LD,2010,dataValidationLanguage,2022,0,Various
+Q,2003,pl,2022,170,World
+Microsoft Notepad,1983,editor,2002,0,United States
+PEG.js,2010,grammarLanguage,2022,63,Germany and United Kingdom
+Google Cloud Platform,2011,cloud,2014,0,United States
+HyperTalk,1987,pl,2002,0,United States
+SPARK,1988,pl,2017,0,United Kingdom
+halide,2010,pl,2022,0,United States
+TLA,1999,pl,2017,89,World
+Befunge,1993,esolang,2022,7,United States
+GDB,1986,application,2018,2603,World
+Puppet,2005,pl,2018,14936,United States
+Miranda,1985,pl,2002,0,United Kingdom
+Speedie,2022,pl,2023,0,United Kingdom
+Bicep,2020,jsonFormat,2022,17,World
+Bourne shell,1977,pl,2022,0,United States
+C3,2019,pl,2023,0,Sweden
+Visual FoxPro,1995,pl,2003,0,World
+Seed7,2005,pl,2012,0,World
+x86-64,2000,isa,2018,0,World
+PowerBuilder,2010,pl,2010,17,Germany
+BibTeX,1985,application,2003,0,United States
+Twig,2009,template,2022,811,World
+Less,2009,stylesheetLanguage,2022,2585,Various
+XS,2002,pl,2018,1945,World
+eC,2004,pl,2022,920,Canada
+SGML,1986,textMarkup,2001,0,United States
+Coconut,2014,pl,2022,0,Various
+Simulink,1984,pl,2017,0,World
+Oberon-2,1991,pl,2004,0,Switzerland
+G-code,1950,pl,2015,107,United States
+Genie,2008,pl,2009,17,United States
+QuickBASIC,1985,pl,2002,0,United States
+Maxima,1982,pl,2022,0,United States
+Thrift,2007,idl,2017,3526,World
+NATO phonetic alphabet,1956,notation,2001,0,Canada
+AutoHotkey,2003,pl,2022,1470,United States
+Classroom Object Oriented Language,1996,pl,2014,57,United States
+Turbo Pascal,1983,compiler,2002,0,United States
+PL/0,1976,pl,2004,0,Switzerland
+GW-BASIC,1983,pl,2002,0,United States
+Homebrew,2009,packageManager,2022,0,United States
+SETL,1969,pl,2004,0,United States
+LINQ,2007,queryLanguage,2007,0,World
+JSON Schema,2010,dataValidationLanguage,2022,0,Various
+Z notation,1974,notation,2001,0,World
+ECL,2000,pl,2023,25,United States
+Falcon,2003,pl,2022,0,Italy
+SaltStack,2011,pl,2022,1680,World
+ALGOL 68,1968,pl,2004,0,World
+XBase++,1997,pl,2005,0,World
+Netwide Assembler,1996,assembly,2022,0,United States and Russia
+Transact-SQL,1984,queryLanguage,2003,0,World
+v8,2008,vm,2022,0,World
+CLU,1975,pl,2001,0,United States
+Dc,1978,pl,2004,0,United States
+LiveCode,2001,pl,2022,0,Scotland
+COMTRAN,1957,pl,2006,0,United States
+Pandas,2008,library,2017,0,Various
+ASN.1,1984,idl,2016,0,United Kingdom
+HHVM,2011,vm,2022,0,United States
+wisp,2012,pl,2022,23,Unknown
+ink,2015,esolang,2022,0,United Kingdom
+ABC,1980,pl,2002,0,Netherlands
+Ext4,2008,filesystem,2008,0,United States
+DIAGRAM,1980,pl,2004,0,United States
+Mercurial,2005,application,2005,0,United States
+K,1993,pl,2022,0,United States
+YASnippet,2008,textMarkup,2022,264,World
+Scala.js,2013,pl,2022,0,World
+RStudio,2011,editor,2022,0,World
+Cap'n Proto,2013,idl,2022,690,United States and Portugal
+Squeak,1996,pl,2022,0,World
+React Native,2015,library,2022,0,United States
+PRQL,2022,queryLanguage,2022,0,South Africa and United States
+HyperCard,1987,pl,2001,0,United States
+Jython,2001,pl,2003,0,United States and United Kingdom
+Natural Language Toolkit,2001,library,2022,0,Various
+Bluespec,2000,pl,2015,51,United States
+Croc,2006,pl,2017,0,United States
+KaTeX,2013,textMarkup,2022,0,United States
+EJS,2010,template,2022,614,United Kingdom
+DBase,1979,application,2022,0,United States
+S,1976,pl,2004,0,World
+True BASIC,1983,pl,2001,0,World
+WxBasic,2002,pl,2004,0,World
+Markwhen,2022,textMarkup,2023,0,World
+Stylus,2010,stylesheetLanguage,2022,344,World
+Ion,2016,idl,2016,0,United States
+UrWeb,2008,pl,2022,64,World
+GAP,1986,pl,2022,4082,Germany
+Sather,1990,pl,2001,0,United States
+Vim script,1991,pl,2018,10963,World
+FreeBASIC,2004,pl,2016,41,Various
+MMX instruction set,1997,isa,2002,0,United States
+JScript,1996,pl,2003,0,World
+Pygments,2006,library,2022,0,Germany
+Parrot,2002,vm,2016,121,United States
+Wolfram Mathematica,1988,editor,2002,0,United States
+unison,2015,pl,2022,0,World
+CouchDB,2005,application,2022,0,World
+Pig Latin,2008,queryLanguage,2016,606,World
+TXL,1985,pl,2015,22,World
+RMarkdown,2014,textMarkup,2022,0,United States
+Graph Modeling Language,1997,application,2010,0,Germany
+chrysaLisp,2015,pl,2022,0,United Kingdom
+CIL,1994,pl,2004,0,United States
+EML,1974,textDataFormat,2018,0,United States
+starlark,2018,pl,2022,1141,World
+FASTQ,2000,textDataFormat,2009,0,United Kingdom
+Numba,2012,compiler,2022,0,United States and United Kingdom and Germany
+Punched tape,1943,notation,2002,0,France
+Latte,2008,template,2022,26,Czech Republic
+Smarty,2006,template,2022,17325,World
+Nu,2007,pl,2017,375,United States and Germany
+Multics,1967,pl,2001,0,Canada
+DTD,1996,grammarLanguage,2009,0,Switzerland
+Malbolge,1998,pl,2003,0,United States
+Tiny BASIC,1975,pl,2002,0,World
+Xtend,2011,pl,2014,834,World
+ALGOL W,1966,pl,2003,0,World
+IBM System z,2000,computingMachine,2018,0,World
+tornado,2009,template,2022,0,World
+JFlex,2003,grammarLanguage,2022,39,Switzerland and Australia
+DTrace,2005,pl,2022,2080,United States
+Ragel,2007,pl,2022,317,The Netherlands
+AspectJ,2001,pl,2017,793,Canada
+Caml,1985,pl,2005,0,France
+Fortress,2004,pl,2006,0,United States
+PARI/GP,1985,pl,2022,0,France
+jq,2012,queryLanguage,2022,39,Unknown
+Pure Data,1996,pl,2022,914,United States
+TRS-80 Color Computer,1980,computingMachine,2002,0,World
+Max,1990,jsonFormat,2016,1031,United States
+muPad,1997,pl,2018,71,Germany
+HLSL,2002,pl,2017,1654,United States
+Unicon,2008,pl,2022,0,World
+RDFa,2004,xmlFormat,2022,0,United States
+Ring,2016,pl,2017,3,Saudi Arabia
+HOPE,1978,pl,2004,0,United Kingdom
+Free Pascal,1997,pl,2004,0,Various
+XSLT,1998,xmlFormat,2018,32204,World
+RPL,1984,pl,2022,0,World
+Diff,1974,unixApplication,2018,561,United States
+NL,1993,application,2010,0,United States
+mlir,2019,ir,2022,30,Various
+Gosu,2002,pl,2017,539,United States
+OpenVera,2001,pl,2008,0,United States
+SIL,2012,ir,2012,0,World
+mermaid,2014,textMarkup,2022,0,Various
+High Level Assembly,2011,assembly,2011,0,United States
+commonmark,2014,textMarkup,2022,0,United States
+Atmel AVR,1996,pl,2018,0,Norway
+Eve,2016,pl,2022,0,United States
+Cue,2018,dataNotation,2022,0,United Kingdom and United States and Switzerland
+Fennel,2016,pl,2022,12,Various
+JCL,1964,pl,2003,0,United States
+RATFOR,1976,pl,2003,0,United States
+GLSL,1992,pl,2017,13882,United States
+Curry,1990,pl,2003,1,Germany
+MusicXML,2004,pl,2004,0,United States
+Slash,2012,pl,2022,427,World
+Enso,2015,pl,2022,0,Poland
+Luna,2015,pl,2022,0,United States and Poland
+Golo,2012,pl,2022,29,Unknown
+NSIS,2001,pl,2016,8095,United States
+Gerber Image,1980,application,2018,0,Belgium
+Expect,1990,pl,2004,0,Various
+BETA,1983,pl,2007,0,Norway
+Action!,1983,pl,2004,0,World
+TreeSheets,2019,visual,2022,0,World
+janet,2018,pl,2023,0,Czech Republic and New Zealand and United States
+AutoCAD DXF,1982,application,2001,0,United States
+Ladder Logic,1994,pl,2002,0,Switzerland
+beef-lang,2019,pl,2022,3,Unknown
+Hierarchical Data Format,1992,binaryDataFormat,2017,0,United States
+Inno Setup,1997,pl,2006,3719,United States
+Dogescript,2013,pl,2022,26,Various
+PL/M,1973,pl,2004,0,United States
+Cg,2003,pl,2012,0,United States
+LilyPond,1996,pl,2022,298,Various
+MPS,2010,grammarLanguage,2022,0,Czech Republic
+PEG,2002,grammarLanguage,2004,0,World
+FASTA,2004,textDataFormat,2011,0,United States
+datascript,2014,queryLanguage,2022,0,Germany
+Shakespeare,1993,esolang,2007,0,World
+QB64,2007,pl,2008,0,United States
+SWI Prolog,1987,pl,2023,0,World
+WDL,2012,pl,2022,30,World
+Korn shell,1983,pl,2022,0,United States
+Imba,2014,pl,2022,0,Norway and United States
+Koka,2012,pl,2022,0,United States
+Closure Templates,2009,template,2022,25,United States
+Altair BASIC,1975,pl,2001,0,World
+Eagle,1988,application,2018,2082,United States
+IGOR Pro,1993,pl,2018,80,United States
+PhyloXML,2009,xmlFormat,2009,0,United States
+CWL,2014,pl,2022,75,Various
+RISC-V,2010,isa,2014,0,United States
+UNLAMBDA,1999,pl,2002,0,United States
+gravity,2017,pl,2022,0,Various
+Augmented Backus-Naur Form,2008,grammarLanguage,2016,0,World
+Java EE version history,1998,pl,2007,0,United States
+Ron,2015,dataNotation,2022,0,Finland
+Zip file format,1989,binaryDataFormat,1989,0,World
+EBNF,1977,grammarLanguage,2016,0,World
+SourcePawn,2014,pl,2022,9023,World
+Textile,2002,textMarkup,2022,0,World
+Java Properties,1995,dataNotation,2018,0,United States
+OpenLisp,1988,pl,2012,0,Brazil
+Blitz3D,2001,pl,2008,0,New Zealand
+Ren'Py,2004,pl,2018,49,England
+Commodore BASIC,1977,pl,2003,0,World
+Taichi,2019,pl,2022,0,World
+PIR,2006,pl,2016,0,United States
+LPC,1995,pl,2017,0,Sweden
+Xtext,2006,grammarLanguage,2022,0,World
+Reia,2008,pl,2022,0,United States
+carp,2016,pl,2022,0,Various
+GAMS,1988,pl,2022,0,United States
+CWEB,1987,textMarkup,2002,53,Netherlands
+.dwg,1982,binaryDataFormat,2004,0,United States
+Euphoria,1993,pl,2022,47,Canada
+dynamo-visual-language,2011,visual,2022,0,United States
+Hjson,2014,dataNotation,2022,0,Austria
+BBCode,1998,textMarkup,2004,0,Unknown
+ExFAT,2006,filesystem,2006,0,United States
+Microsoft Small Basic,2008,pl,2022,0,World
+Guile,1993,pl,2005,0,United States
+GeoJSON,2008,jsonFormat,2022,0,United States and United Kingdom
+Argdown,2014,textMarkup,2022,0,Germany
+Velocity,2003,template,2005,0,World
+Qualcomm Hexagon,2006,assembly,2018,0,World
+RoboMind,2005,pl,2022,0,The Netherlands
+RUNOFF,1965,textMarkup,2018,7,United States
+Jule,2021,pl,2022,0,World
+Aith,2020,pl,2022,0,Unknown
+MDX,2017,textMarkup,2022,0,Various
+IMAP,1986,protocol,1986,0,United States
+Dockerfile,2013,pl,2017,26335,United States
+CFML,1995,pl,2004,0,United States
+KiXtart,1991,pl,2022,0,Various
+Pizza,2001,pl,2004,0,United Kingdom
+NewtonScript,1993,pl,2002,0,United States
+DDML,1999,xmlFormat,1999,0,Various
+AssemblyScript,2017,pl,2022,0,Ukraine and Germany
+Information Presentation Facility,1997,pl,2006,0,United States
+Manim,2015,framework,2023,0,United States
+Velato,2009,esolang,2009,0,World
+Emojicode,2016,pl,2022,0,Unknown
+Rust MIR,2016,ir,2022,0,World
+Plain English,2018,pl,2018,0,Unknown
+PIC microcontroller,1975,pl,2018,0,United States
+LotusScript,1996,pl,2003,0,United States
+DRAKON,1996,pl,2022,0,Russia
+Microsoft Macro Assembler,1981,assembly,2004,0,World
+PyTorch,2016,library,2022,0,Various
+Keras,2015,library,2022,0,United States
+SubRip Text,2005,application,2016,0,World
+beads-lang,2016,pl,2016,0,United States
+Jekyll,2008,application,2022,0,Various
+Yes It Is,2006,framework,2022,0,World
+LyX,1995,editor,2022,0,Various
+JADE,1996,pl,2005,0,New Zealand
+Pharo,2008,pl,2022,0,France
+flowchart.fun,2021,textMarkup,2022,0,Cananda
+Svelte,2019,pl,2022,0,World
+PROMETHEUS,2012,pl,2023,0,Germany
+Glyph Bitmap Distribution Format,1988,application,2018,0,United States
+Mirah,2009,pl,2022,43,United States
+Ghostscript,1988,pl,2002,0,United States
+Sqlalchemy,2006,queryLanguage,2022,0,United States
+CPL,1963,pl,2001,0,United Kingdom
+Modula,1975,pl,2002,0,Switzerland
+FFmpeg,2000,application,2023,0,World
+Asm.js,2013,ir,2022,0,World
+Microdata HTML,2013,schema,2013,0,United States
+BlitzPlus,2003,pl,2010,0,New Zealand
+Bel,2019,pl,2019,0,United States
+ACT-III,1956,pl,2005,0,United States
+Papyrus,2015,pl,2017,79,United States
+Clarion,1986,pl,2022,278,United States
+gogs-editor,2014,editor,2022,0,China
+VRML,1994,pl,2002,0,World
+tldr,2013,application,2022,0,World
+progsbase,2018,pl,2022,0,Norway
+CSV,1972,dataNotation,2004,0,World
+X PixMap,1989,application,2018,0,World
+Spin,2006,pl,2018,129,World
+XeTeX,2004,textMarkup,2004,0,World
+SQLPL,2009,pl,2016,5147,World
+ThinBasic,2004,pl,2015,0,World
+Readable,2018,textMarkup,2021,0,France
+KML,2007,xmlFormat,2007,0,United States
+ARexx,1987,pl,2005,0,United States
+CLOS,1988,pl,2007,0,World
+X BitMap,1989,application,2018,0,World
+PAWN,2006,pl,2022,502,The Netherlands
+Alice,2000,pl,2006,0,World
+emberjs-framework,2011,framework,2022,0,United States
+Uno,2002,pl,2022,37,World
+Futhark,2013,pl,2022,107,Denmark
+CSON,2011,dataNotation,2022,2,Australia
+JSON-stat,2011,jsonFormat,2022,0,Spain
+ALGOL 58,1958,pl,2004,0,World
+QR code,1994,barCodeFormat,1994,0,Japan
+JAI,2014,pl,2022,0,Various
+Nial,1981,pl,2001,0,Canada
+mochajs,2011,library,2022,0,Denmark and Republic of Korea and United States and Switzerland
+Godot,2014,library,2022,0,Various
+S3,1986,pl,2007,0,United Kingdom
+CodeQL,2018,queryLanguage,2022,25,World
+Yoix,2000,pl,2005,0,World
+Vcpkg,2016,packageManager,2022,0,World
+Bazel,2015,application,2022,0,United States
+mgmt,2015,pl,2022,0,Canada
+Varnish Configuration Language,2006,application,2017,428,World
+Simple Binary Encoding,2013,pl,2023,0,World
+Felix,2001,pl,2022,0,Australia
+Ext3,2001,filesystem,2002,0,United States
+kaitai,2016,idl,2022,0,Various
+MBASIC,1983,pl,2004,0,World
+Troff,1973,textMarkup,2001,0,United States
+JavaCC,1996,grammarLanguage,2018,0,United States
+FLOW-MATIC,1955,pl,2002,0,United States
+mustache,2009,template,2022,616,United States and France and Portugal and Croatia
+Roslyn compiler,2009,compiler,2022,0,World
+Slope,2021,pl,2021,0,United States
+NetLinx,2007,pl,2018,25,United States
+Concise Encoding,2018,dataNotation,2022,0,Czech Republic and Germany
+blockml,2014,textMarkup,2022,0,Germany
+Jakt,2022,pl,2022,0,Various
+BNF,1956,grammarLanguage,1956,0,United States
+Shapefile,1995,binaryDataFormat,2005,0,World
+chatterbot,2014,library,2022,0,United States
+Fuzzy Markup Language,2004,xmlFormat,2012,0,Italy
+Project Jupyter,2014,editor,2022,0,Various
+USB,1996,standard,1996,0,World
+P4,2014,pl,2022,38,United States
+Nushell,2019,pl,2022,0,Ecuador
+FIGlet Font,1991,application,2018,0,Unknown
+Curl,1998,pl,2022,0,United States
+Visual Prolog,1996,pl,2018,0,World
+GML,1969,xmlFormat,2005,0,United States
+Aldor,1990,pl,2022,0,United Kingdom
+micro-editor,2016,editor,2022,0,United States
+mavo,2015,template,2022,0,United States
+Mathcad,1986,pl,2005,0,United States
+Joy,2001,pl,2003,0,Australia
+QMake,2002,pl,2007,17519,Finland
+ProvideX,1992,pl,2005,0,Canada
+dgraph,2015,application,2022,0,United States
+XProc,1990,pl,2018,223,World
+Cobra,2006,pl,2022,0,United States
+jasmine,2008,library,2022,0,United States
+onnx,2017,binaryDataFormat,2022,0,United States
+HDMI,2002,standard,2002,0,United States
+Apache Hbase,2008,application,2022,0,World
+Cyclone,2001,pl,2002,0,United States
+Lisaac,2003,pl,2003,0,France
+Tiny C Compiler,2001,compiler,2022,0,World
+SymPy,2007,library,2022,0,World
+UTC,1960,timeFormat,1960,0,World
+Advanced Message Queuing Protocol,2003,protocol,2006,0,World
+Scoop,2013,packageManager,2022,0,World
+Pick operating system,1970,os,2004,0,United States
+TI MSP430,2009,isa,2009,0,World
+PgBouncer,2007,application,2022,0,unknown
+LookML,2012,pl,2018,185,World
+Asymptote,2004,application,2005,25,Canada
+Rockstar,2018,esolang,2022,0,United Kingdom
+Mindsdb,2018,application,2023,0,World
+JSFuck,2012,esolang,2022,0,Germany
+cloc,2006,application,2022,0,United States
+Angelscript,2003,pl,2018,286,World
+Dojo,2005,pl,2005,0,World
+Iterm2,1996,application,2022,0,World
+Apex,2007,pl,2018,778,World
+Triton,2021,pl,2022,0,World
+Pop-11,1999,pl,2004,0,United Kingdom
+Z shell,1990,pl,2022,0,United States
+MQL5,2005,pl,2016,38,Russia
+JMP,1989,application,2022,0,United States
+GIF,1987,binaryDataFormat,1987,0,United States
+Volt,2011,pl,2022,351,World
+CoNLL-U,2014,application,2018,0,Various
+mal,2014,interpreter,2022,0,United States
+BBC BASIC,1981,pl,2002,0,United Kingdom
+DisplayPort,2006,standard,2006,0,World
+DM,1994,pl,2016,394,Unknown
+Karel,1981,pl,2005,0,United States
+JSONiq,2011,queryLanguage,2016,423,Unknown
+wasmer,2018,vm,2022,0,World
+Prism,2012,library,2022,0,United States and Germany
+chaiscript,2009,pl,2022,0,United States and New Zealand
+DIGITAL Command Language,1997,pl,2004,3829,World
+capybara,2009,library,2022,0,United States
+Linden Scripting Language,2003,pl,2017,397,United States
+Tea,1997,pl,2015,15,World
+Kubernetes,2014,application,2014,0,United States
+Ant Build System,2000,application,2014,0,United States
+NCAR Command Language,1994,pl,2022,64,United States
+GNU Assembler,1986,compiler,2016,0,World
+gridstudio-editor,2018,editor,2022,0,The Netherlands
+J#,2002,pl,2004,0,United States
+fay,2012,pl,2022,0,Australia and Sweden and United States
+GDScript,2008,pl,2018,681,Various
+F Prime,2017,library,2022,0,United States
+BeanShell,1999,pl,2022,0,Various
+FutureBASIC,1992,pl,2016,0,United States
+Eclipse Command Language,2008,pl,2018,24,Canada
+GOLD,2012,grammarLanguage,2022,0,United States
+CSS Doodle,2017,pl,2022,0,Various
+PowerBASIC,1989,pl,2002,0,United States
+PIC,1988,textMarkup,2018,0,United States
+Turbo Basic,1987,pl,2002,0,World
+Kakoune,2011,editor,2022,0,Australia
+ShaderLab,2000,pl,2017,1210,World
+dat-protocol,2013,protocol,2022,0,Germany and United Kingdom
+Filebench WML,2011,pl,2022,19,United States
+Cloud Firestore Security Rules,2017,application,2018,0,United States
+BPEL,2001,xmlFormat,2003,0,United States
+Meson,2013,pl,2018,1153,Various
+docopt,2012,pl,2022,0,Various
+xsv-app,2014,application,2022,0,World
+Vimwiki,2008,wikiMarkup,2022,0,World
+TSV,1993,dataNotation,2005,0,World
+Nix,2003,packageManager,2017,2673,The Netherlands
+Dartmouth BASIC,1964,pl,2004,0,United States
+sizzle,2008,queryLanguage,2022,0,World
+Up-arrow notation,1976,notation,1976,0,World
+RetDec,2017,decompiler,2022,0,Czech Republic
+Desmos,2011,pl,2022,0,United States
+MD5,1991,hashFunction,1991,0,United States
+DNS Zone,2001,application,2017,0,World
+4G,2013,standard,2013,0,World
+edgedb,2017,database,2022,0,United States
+Ext2,1993,filesystem,2002,0,United States
+Gettext Catalog,1990,textMarkup,2014,650,United States
+METAFONT,1977,application,2002,0,United States
+StarOffice Basic,2000,pl,2012,0,World
+PCRE,1997,queryLanguage,2022,0,Unknown
+Creole,2007,textMarkup,2018,0,Denmark
+Semantic Versioning,2011,schema,2022,0,World
+UPC,2003,pl,2018,0,World
+noms-db,2015,database,2022,0,United States
+COLLADA,2004,application,2018,0,United States and Japan
+SHA-2,2001,hashFunction,2001,0,World
+Conan,2015,packageManager,2022,0,Spain
+ISLISP,2007,pl,2007,0,Switzerland
+htmx,2020,template,2022,0,United States
+XL,2000,pl,2022,0,World
+Automatically Programmed Tool,1956,pl,2006,0,United States
+binaryen,2015,compiler,2022,0,Various
+Harbour,1999,pl,2022,86,Various
+Cryptol,2014,pl,2022,0,United States
+SHA-1,1993,hashFunction,1993,0,World
+Digital Visual Interface,1999,standard,1999,0,World
+Rholang,2016,contractLanguage,2023,0,World
+pyret,2011,pl,2022,0,United States
+Network Time Protocol,1981,protocol,1985,0,United States
+COMPONENT PASCAL,1997,pl,2022,132,Switzerland
+zephyr-asdl,1997,grammarLanguage,1997,0,World
+SQL-92,1992,pl,2005,0,World
+Easybuild,2014,application,2022,0,Various
+Refal,1968,pl,2022,0,United States
+Yorick,1996,pl,2003,0,World
+Lightweight Directory Access Protocol,1997,protocol,1997,0,United States
+Mask,2012,template,2022,595,Germany
+Omgrofl,2006,esolang,2021,8,Lithuania
+carth,2018,pl,2022,0,Sweden
+mckeeman-form,2020,grammarLanguage,2020,0,United States
+Bucklescript,2010,pl,2022,0,Unknown
+Telnet,1969,protocol,1969,0,World
+chibicc,2019,compiler,2022,0,Singapore
+Mu,2014,pl,2022,0,United States
+TextMate,2004,editor,2022,0,World
+CartoCSS,2010,pl,2015,341,United States
+IcedCoffeeScript,2009,pl,2019,0,United States
+BMP file format,2000,binaryDataFormat,2000,0,United States
+Logica,2020,queryLanguage,2022,0,United States
+OPL,1984,pl,2004,0,United Kingdom
+Ravenscar profile,1997,pl,2012,0,United Kingdom
+WML,2006,template,2017,0,World
+TELCOMP,1966,pl,2004,0,World
+Carbon,2020,pl,2022,0,United States
+Jasmin,1997,pl,2014,204,United States
+RenderScript,2011,pl,2011,407,World
+Literate Agda,2009,pl,2009,0,Sweden
+Tagged Image File Format,1986,binaryDataFormat,1986,0,World
+JOVIAL,1960,pl,2003,0,United States
+Grammar,2017,grammarLanguage,2023,0,United States and Ireland and Norway and India
+SysML,2000,pl,2006,0,World
+Motif,1989,pl,2017,0,United States
+Zuo,2022,pl,2022,0,Various
+Thymeleaf,2011,template,2011,0,World
+bosque,2019,pl,2022,0,United States
+Spyder,2009,editor,2011,0,World
+contracts.coffee,2011,pl,2014,0,United States
+ICD-10-CM diagnosis,1983,schema,1983,0,Switzerland
+OpenSCAD,2010,pl,2017,1781,Norway
+Game Maker Language,1999,pl,2022,430,"Scotland, United Kingdom"
+SAM file format,2009,textDataFormat,2016,0,World
+penrose,2016,pl,2022,0,United States
+ToffeeScript,2013,pl,2018,0,China
+BlackCoffee,2014,pl,2014,0,The Netherlands
+heap.coffee,2012,pl,2012,0,Russia
+JRuby,2001,pl,2005,0,Various
+MarkovJunior,2022,pl,2022,0,Finland
+UberScript,2011,pl,2013,0,United Kingdom
+Caffeine,2012,pl,2013,0,Russia
+Not Quite C,2017,pl,2022,0,United States
+CLIST,1990,pl,2003,0,United States
+Context Diff,1981,diffFormat,1981,0,World
+tbox-lib,2010,library,2022,0,World
+BlitzMax,2014,pl,2022,52,New Zealand
+LuaJIT,2005,compiler,2022,0,Germany and Denmark
+Edje Data Collection,2010,jsonFormat,2016,0,Various
+Objective C++,1993,pl,2018,17925,United States
+vyper,2016,pl,2022,1,World
+skulpt,2009,pl,2022,0,World
+hasklig,2012,font,2022,0,Finland
+Speakeasy,2006,pl,2022,0,World
+codecept,2015,library,2022,0,Ukraine and India
+ooc,2009,pl,2022,126,United States and Germany and Switzerland
+Rascal,2013,grammarLanguage,2022,107,The Netherlands
+ALEF,1992,pl,2005,0,United States
+Message Queuing Telemetry Transport,1999,protocol,2022,0,United States
+Neko,2005,pl,2022,0,Unknown
+UNITY,1988,pl,2005,0,World
+omega,2005,pl,2005,0,United States
+BLISS,1969,pl,2003,0,United States
+Power BI,2011,application,2011,0,United States
+Elvish,2013,pl,2022,0,Unknown
+Tableau Software,2003,application,2022,0,World
+TiddlyWiki,2004,wikiMarkup,2005,0,World
+Google File System,2003,filesystem,2010,0,United States
+Lily,2011,pl,2022,0,Unknown
+Streem,2014,pl,2022,0,Japan
+Nit,2008,pl,2022,26,Canada
+m3db,2016,database,2022,0,United States
+Blender,1998,application,1998,0,Netherlands
+OX,1996,pl,2015,19,United Kingdom
+Alpine Abuild,2006,pl,2018,0,World
+Slice,2011,pl,2018,20,World
+Beatnik,2001,esolang,2001,0,United States
+clay,2010,pl,2022,0,Various
+Security Assertion Markup Language,2001,xmlFormat,2001,0,World
+Perl Data Language,1996,pl,2004,0,Various
+Sweet.js,2012,pl,2017,0,United States
+HFS Plus,1998,filesystem,2004,0,United States
+YoptaScript,2016,pl,2022,0,World
+ROFF,1971,textMarkup,2018,12001,United States
+HTTP/2,2015,protocol,2015,0,United States
+SimCode,1997,pl,2018,0,World
+EmberScript,2012,pl,2022,459,Various
+walt,2017,pl,2022,0,World
+ohm,2014,grammarLanguage,2022,0,Germany and United States
+xCard,2011,xmlFormat,2011,0,World
+SMIL,1997,pl,2001,0,World
+Stripe company,2011,webApi,2011,0,World
+gleam,2016,pl,2022,2,United States and United Kingdom
+GCC Machine Description,2001,pl,2018,878,United States
+Jupyter Notebook,2014,jsonFormat,2016,17210,World
+ActiveVFP,2001,pl,2013,0,World
+Tree Notation,2017,dataNotation,2023,0,World
+TI-BASIC,1970,pl,2004,0,World
+FM broadcasting,1950,standard,1950,0,World
+Ante,2015,pl,2022,0,World
+Atari BASIC,1983,pl,2002,0,United States
+UCSD Pascal,1978,pl,2001,0,United States
+Applesoft BASIC,1979,pl,2001,0,United States
+groff,1990,textMarkup,2022,25686,United States
+Cesil,1974,pl,2016,0,United Kingdom
+Praat Script,1997,pl,2022,0,The Netherlands
+Fibonacci,1991,pl,1991,0,Italy
+Whiley,2009,pl,2022,1,World
+Shen,2011,pl,2018,16,World
+netbeans-editor,2013,editor,2022,0,United States
+MVEL,2003,pl,2008,0,Italy and Canada
+skip,2018,pl,2022,0,World
+AsciiDots,2017,esolang,2022,0,World
+ArkScript,2019,pl,2022,0,France
+chef,2002,esolang,2002,0,Australia
+Melody,2022,pl,2022,0,Israel
+SHA-3,2015,hashFunction,2015,0,World
+UCL,2013,dataNotation,2022,0,World
+chisel,2015,hardwareDescriptionLanguage,2022,0,United States
+Brightscript,2010,pl,2015,98,World
+verona,2019,pl,2022,0,World
+SCSS,2006,stylesheetLanguage,2022,8503,World
+Geography Markup Language,2000,xmlFormat,2003,0,United States
+MATHLAB,1964,pl,2009,0,United States
+Stan,2012,pl,2022,154,World
+T,1980,pl,2004,0,United States
+IP Pascal,1990,pl,2005,0,United States
+Formulating On-Line Calculations in Algebraic Language,1968,pl,2004,0,United States
+Epigram,2004,pl,2005,0,United Kingdom
+SugarSS,2016,textMarkup,2022,0,World
+lmdb,2011,library,2022,0,United States
+Cell,2017,pl,2022,0,Various
+JOSS,1966,pl,2002,0,United States
+ColaScript,2012,pl,2015,0,Georgia
+Laravel,2011,framework,2011,0,Various
+xlwings-editor,2013,library,2022,0,World
+GraphIt,2017,pl,2022,0,United States
+Cycript,2008,pl,2022,66,United States
+Raku,2019,pl,2022,589,United States
+Large-scale Atomic/Molecular Massively Parallel Simulator Format,1995,application,1995,0,United States
+Tap code,1941,notation,2005,0,World
+Strips,1969,pl,2005,0,World
+ROOT,1994,library,2018,0,World
+Pure,2008,pl,2008,0,Germany
+Committee on Uniform Security Identification Procedures,1968,schema,2004,0,United States
+Ch,2003,pl,2018,95,United States
+LOGLAN,1982,pl,2001,0,Poland
+NetRexx,1996,pl,2007,0,United States
+winxed,2009,pl,2018,0,World
+Caché Basic,1997,queryLanguage,1997,0,United States
+svgbob,2016,textMarkup,2022,0,World
+Fancy,2010,pl,2022,113,Germany
+PogoScript,2011,pl,2022,12,United Kingdom
+rant,2014,pl,2022,0,United States
+manhood,2014,pl,2022,0,United States
+DokuWiki,2004,wikiMarkup,2022,0,United States and Germany
+SMT,2003,pl,2015,149,World
+Ezhil,2007,pl,2021,0,United States
+Real-time Transport Protocol,1996,protocol,1996,0,World
+VML,1998,xmlFormat,2007,0,World
+Not eXactly C,2006,pl,2008,0,United States
+Mary,1970,pl,2001,0,Norway
+zz,2019,pl,2022,0,World
+checked-c,2015,pl,2022,0,United States
+WebIDL,2012,idl,2015,120,World
+Compiler-Compiler,1963,pl,2002,0,World
+A-0 system,1951,compiler,2002,0,World
+Logtalk,1998,pl,2017,52,Portugal
+Mech,2018,pl,2022,0,United States
+DOML,2017,dataNotation,2021,0,Australia
+Open Data Protcol,2007,protocol,2022,0,United States
+storyscript,2017,pl,2022,0,World
+Cranelift,2016,ir,2022,0,Various
+mun-lang,2019,pl,2022,0,Various
+Nexus file,1997,textDataFormat,2006,0,United States
+Snowman,2015,decompiler,2022,0,World
+Creative Basic,2008,pl,2008,0,World
+FreeMarker,2000,template,2015,3564,Various
+TI Program,1970,assembly,1970,7,World
+Qalb,2012,pl,2022,0,United States
+packagist-pm,2011,packageManager,2022,0,The Netherlands and Canada and Germany and Switzerland and Moscow
+Hyperscript,2012,template,2022,0,United States
+SRecode Template,2000,textMarkup,2018,163,World
+Notepad++,2003,editor,2009,0,United States
+Observable,2017,pl,2022,0,World
+gluon,2014,pl,2022,0,Australia and Sweden
+Impala,2012,queryLanguage,2022,0,United States
+oil,2016,pl,2022,0,Various
+Jargon,1987,pl,1987,0,World
+MAXScript,1996,pl,2018,333,United States
+Sieve mail filtering language,2008,application,2008,9,World
+Common Object File Format,1983,binaryExecutable,2003,0,United States
+DOODLE,1992,pl,2002,0,Canada
+Esterel,1980,pl,2004,0,France
+PL360,1967,pl,2008,0,United States
+Pan,2011,pl,2022,150,Various
+LoomScript,2013,pl,2014,7,United States
+P,2013,pl,2022,0,United States
+Luna,2011,pl,2017,0,United Kingdom
+Apache Lucene,1999,queryLanguage,2010,0,United States
+Property list,2012,textMarkup,2012,0,United States
+Pep8,2009,assembly,2022,33,United States
+invokator,2004,pl,2022,0,France
+GFA BASIC,1986,pl,2004,0,Germany
+ActivityPub,2018,protocol,2022,0,United States
+Open Shading Language,2008,pl,2022,0,Canada
+Stencil,2018,template,2022,0,World
+Vigil,2013,esolang,2022,0,World
+Umple,2008,pl,2022,0,World
+mathics,2012,pl,2022,0,United States
+Basis Codec,2019,binaryDataFormat,2022,0,Unknown
+OpenEdge ABL,2006,pl,2016,2568,United States
+Pandoc,2006,application,2022,0,United States
+kitten,2012,pl,2022,0,United States
+Spatial,2018,pl,2022,0,World
+Type Language,2013,pl,2018,0,World
+Shakespeare,2001,pl,2015,0,World
+SQL/PSM,1996,pl,2007,0,World
+Flutter,2017,framework,2017,0,United States
+FP,1977,pl,2004,0,United States
+Please Build,2016,pl,2022,0,United Kingdom
+desktop,2008,application,2014,0,United States
+Windows Registry Entries,1992,application,2015,0,World
+MOO,1993,pl,2001,23,Canada
+Treelang,1988,pl,2008,0,World
+GRASS,1977,pl,2002,0,United States
+Programming Language for Business,1972,pl,2003,0,United Kingdom
+UBASIC,1991,pl,2005,0,World
+Unified Diff,1990,diffFormat,1990,0,World
+Almquist shell,1989,pl,2003,0,World
+AviSynth,2000,editor,2023,0,The Netherlands
+Parrot Assembly,2003,assembly,2003,0,United States
+WebP,2010,binaryDataFormat,2010,0,World
+TIScript,2007,pl,2007,0,Canada
+Hackett,2017,pl,2022,0,United States
+Kodu Game Lab,2009,pl,2022,0,United States
+XHTML,2000,dataNotation,2000,0,World
+Gopher,1991,protocol,2010,0,United States
+EXPRESS,2004,dataNotation,2004,0,Switzerland
+Arden syntax,1992,dataNotation,1992,0,United States
+Stutter,2018,esolang,2020,0,World
+ISWIM,1966,pl,2003,0,United Kingdom
+ARC processor,1995,isa,2015,0,World
+Video Graphics Array,1987,standard,1987,0,World
+json-graph-format,2014,jsonFormat,2022,0,United States
+Apache Cassandra,2008,database,2022,0,United States
+JSON with Comments,2001,dataNotation,2022,0,India
+jsil-compiler,2010,compiler,2022,0,United States
+Post Office Protocol,1957,protocol,1957,0,United States
+Script.NET,2007,pl,2022,0,World
+Jolie,2006,pl,2022,16,Italy
+bog,2020,pl,2023,0,World
+NATURAL,1971,pl,2018,0,Germany
+ColdFusion Components,1995,xmlFormat,1995,0,United States
+Blockly,2011,library,2014,0,United States
+InfiniBand,1999,standard,1999,0,United States
+Bun,2021,vm,2022,0,Various
+VHDL-AMS,1993,pl,2007,0,World
+Fable,2012,pl,2022,0,Various
+HeLang,2022,pl,2022,0,China
+Txt2tags,2001,textMarkup,2010,0,World
+Blade,2011,template,2018,372,United States
+RPM Spec,1997,application,2018,0,World
+pasukon,2020,grammarLanguage,2022,0,Argentina
+Extensible Embeddable Language,2005,pl,2006,0,Sweden
+Operational Control Language,1986,pl,2006,0,United States
+Sheep,2000,pl,2000,0,World
+MATH-MATIC,1957,pl,2003,0,United States
+Autodesk Revit,1997,application,1997,0,United States
+TECO,1963,pl,2022,0,United States
+Handel-C,1996,pl,2006,0,United Kingdom
+Turbo Assembler,1989,pl,2004,0,World
+souper,2014,optimizingCompiler,2022,0,World
+dexvis,2012,application,2022,0,United States
+M4Sugar,2003,pl,2003,0,United States
+llhd,2016,hardwareDescriptionLanguage,2016,0,United Kingdom
+hurl,2020,application,2022,0,France
+Opal,1994,pl,2020,10,Germany
+EGL,2008,pl,2008,0,World
+Touch,2020,textMarkup,2022,0,World
+FML,2012,pl,2012,0,United States
+C2,2012,pl,2022,0,The Netherlands
+VCF,2011,textDataFormat,2015,0,World
+Cypher Query Language,2011,queryLanguage,2014,0,Various
+Lingo,1988,pl,2004,0,United States
+MXML,2004,xmlFormat,2004,0,United States
+Hyperscript,2020,pl,2022,0,United States
+BQN,2020,pl,2023,0,World
+plot,2019,template,2022,0,Poland
+asterius-compiler,2017,compiler,2022,0,France and United Kingdom and Cyprus
+HL7,1989,pl,2022,0,United States
+Smiles,1988,textDataFormat,1988,0,World
+ACL2,1990,pl,2002,0,United States
+Object Rexx,1988,pl,2022,0,United States
+Locomotive BASIC,1984,pl,2003,0,United Kingdom
+Quaint,2014,textMarkup,2022,0,Canada
+tidyverse,2016,library,2022,0,World
+Open Database Connectivity,1990,protocol,1990,0,United States and Canada
+SRL,2016,queryLanguage,2022,0,World
+XBLite,2001,pl,2008,0,World
+PEARL,1977,pl,2005,0,Germany
+opam-pm,2012,packageManager,2022,0,Various
+SSI,2004,template,2010,0,World
+WHOIS,1970,protocol,1970,0,World
+Lamdu,2011,pl,2022,0,Israel
+lamdu-editor,2011,editor,2022,0,Israel
+Jison Lex,2013,pl,2022,0,United States and The Netherlands and Germany
+Maya Embedded Language,2013,pl,2013,0,United States
+Logos,2010,pl,2016,4497,United States
+Carpet,1997,pl,1997,0,Italy
+Molfile,1979,textDataFormat,1979,0,United States
+Google Apps Script,2009,pl,2011,0,United States
+erg,2022,pl,2022,0,China and Japan
+Flix,2016,pl,2023,0,World
+Kaggle,2010,application,2022,0,Unknown
+Linotte,2005,pl,2022,0,France
+Rpm,1997,packageManager,2022,0,World
+I-expressions,2003,dataNotation,2003,0,Sweden
+Speedcoding,1953,pl,2006,0,World
+Wasp,2019,pl,2022,0,World
+ALGO,1958,pl,2004,0,World
+OpenNN,2003,library,2022,0,World
+SmallBASIC,2001,pl,2022,0,World
+bpkg-pm,2017,packageManager,2022,0,Various
+crush,2020,pl,2022,0,Sweden
+spry,2015,pl,2022,0,World
+Reko,2007,decompiler,2022,0,Sweden
+Query by Example,1969,pl,2005,0,United States
+network embedded systems C,2002,pl,2022,468,United States
+HiveQL,2011,queryLanguage,2017,143,World
+Dak,2022,pl,2022,0,World
+comby,2019,grammarLanguage,2022,0,United States
+XC,2005,pl,2015,444,World
+X Font Directory Index,1991,application,2018,0,World
+XCompose,2006,application,2016,0,World
+BlooP,1979,esolang,2004,0,United States
+Violent ES,2022,pl,2022,0,Unknown
+YAWL,2006,pl,2022,0,World
+Roc,2020,pl,2023,0,World
+Newick format,1986,textDataFormat,2006,0,United States and Canada
+IBM 1620,1959,assembly,2002,0,World
+leo-editor,2013,editor,2022,0,United States and Canada
+Genshi,2006,template,2006,115,Sweden and Japan and United States and France and Germany and Switzerland
+Xgboost,2014,binaryDataFormat,2016,0,World
+PDP-11,1970,computingMachine,1975,0,United States
+ELLA,1979,pl,2008,0,United Kingdom
+Guix Workflow Language,2017,pl,2017,0,United States
+tiledb,2017,database,2022,0,World
+haste,2014,pl,2022,0,Sweden
+Ternary numeral system,2001,notation,2001,0,World
+Cyber,2022,pl,2023,0,World
+EEX,2012,template,2018,0,Various
+JSX,2013,template,2022,0,United States
+MACRO-10,1978,pl,2009,0,United States
+snakemake,2012,pl,2012,0,World
+Flow9,2010,pl,2022,0,Unknown
+femtolisp,2008,pl,2022,0,United States
+Swallow,2021,pl,2022,0,World
+Glicol,2020,musicalNotation,2022,0,Norway
+Spline Font Database,2004,application,2018,0,World
+KRL,1976,pl,2002,30,United States
+Q#,2017,pl,2017,4,United States
+roy,2011,pl,2022,0,World
+Sweave,2002,template,2008,0,World
+Newspeak,2006,pl,2017,0,United States
+NS Basic,1994,pl,2018,0,Canada
+astroml,2012,library,2022,0,United States
+kona,2010,pl,2022,0,United States
+Lux,2014,pl,2022,0,Dominican Republic
+GNU nano,2000,editor,2022,0,United States
+3DS,1990,binaryDataFormat,2009,0,World
+CFEngine,1993,application,2022,0,Norway
+Plus,1976,pl,2010,0,Canada
+exkited,2018,template,2020,0,United States
+Module Management System,2005,pl,2005,1322,Australia
+turnstile,2017,grammarLanguage,2017,0,World
+lobster,2011,pl,2022,0,United States
+XML Binding Language,2000,xmlFormat,2004,0,World
+Superjson,2014,dataNotation,2022,0,World
+clash,2015,pl,2023,0,The Netherlands
+Punycode,2003,characterEncoding,2003,0,United States
+1C Enterprise Script,2002,pl,2018,274,Russia
+tht,2017,pl,2022,0,World
+monte,2014,pl,2022,0,United States
+dslx,2020,pl,2020,0,United States
+PLZ,1979,pl,1979,0,United States
+fetlang,2017,esolang,2022,0,United States
+General Purpose Simulation System,1960,pl,2004,0,United States
+CLISP,1973,pl,2004,0,United States
+Earl Grey,2014,pl,2017,0,Canada
+Rc,1989,pl,2003,0,United States
+F,1996,pl,2004,0,United States
+rason,2015,pl,2022,0,United States
+Berry,2018,pl,2022,0,China
+Ć,2011,pl,2022,0,Unknown
+Xbasic,1988,pl,2006,0,World
+Markus,2020,queryLanguage,2021,0,World
+Mesa,1970,pl,2001,0,United States
+DNS over HTTPS,2018,protocol,2018,0,United States
+TAP,1988,protocol,2022,0,World
+Sinclair BASIC,1979,pl,2003,0,World
+PLANNER,1969,pl,2002,0,United States
+HP BASIC for OpenVMS,1982,pl,2005,0,United States
+SuperBASIC,1984,pl,2004,0,World
+Asterisk,1999,application,2004,0,United States
+MurmurHash,2008,hashFunction,2008,0,United States
+Differential Datalog,2018,pl,2022,0,United States
+XPages,2008,application,2018,33,World
+Gentoo Ebuild,1999,pl,2018,0,United States
+Vale,2017,assembly,2022,0,World
+MIRC scripting language,1995,pl,2022,0,Great Britain
+HXML,2009,application,2018,0,Unknown
+gentee,2018,pl,2022,0,Russia
+PROMAL,1986,pl,2004,0,United States
+Executable JSON,2013,pl,2013,0,United Kingdom
+relax,2000,grammarLanguage,2000,0,Japan
+Rescript,2020,pl,2022,54,World
+Stackless Python,1998,interpreter,2005,0,World
+kasaya,2018,application,2020,0,Sri Lanka
+dex,2018,pl,2022,0,United States
+MASM,1981,pl,2022,0,United States
+miniML_error,2013,plzoo,2022,0,Slovenia
+lem-editor,2015,editor,2022,0,Japan
+harlan,2011,pl,2022,0,United States
+sile,2012,textMarkup,2022,0,World
+FOCUS,1997,pl,2004,0,United States
+AsciiMath,2014,textMarkup,2022,0,World
+spider,2014,pl,2017,0,Unknown
+XUML,2002,pl,2006,0,World
+Z-machine,1980,pl,2001,0,World
+Interlisp,1966,pl,2003,0,United States
+NestedText,2020,dataNotation,2022,0,United States
+JAL compiler,2000,compiler,2023,0,The Netherlands
+Frost,2017,pl,2022,0,Unknown
+Cali-Lang,2015,pl,2021,0,Unknown
+Em,2020,textMarkup,2020,0,Unknown
+FAUST,2002,pl,2015,22,France
+Template Attribute Language,2007,template,2007,0,World
+GLBasic,2003,pl,2022,0,Unknown
+EXEC,1966,pl,2007,0,United States
+Zonnon,2003,pl,2013,0,World
+reflex-framework,2015,framework,2022,0,United States
+tea,2021,packageManager,2022,0,United States
+Knitr,2012,template,2013,0,United States
+Typed Lua,2019,pl,2022,0,World
+hobbes,2017,pl,2022,0,United States
+Ch computer programming,2001,pl,2022,0,United States
+WML,1998,xmlFormat,2002,0,World
+Hocon,2011,dataNotation,2015,0,United States
+CIR,2020,ir,2022,0,United States
+Parrot BASIC,2009,pl,2016,0,United States
+circle-lang,2019,pl,2022,0,United States
+cityhash-hash-function,2011,hashFunction,2022,0,United States
+Google Sheets,2006,application,2014,0,United States
+Autocode,1954,pl,2005,0,England
+Smartsheet,2006,application,2006,0,World
+lispyscript,2012,pl,2022,0,India
+UnrealScript,1998,pl,2018,9501,World
+Grammatical Framework,1998,grammarLanguage,2018,37,France
+Parser 3,1997,pl,2022,0,Russia
+BARE,2020,idl,2020,0,Various
+Hierarchical File System,1985,filesystem,2002,0,United States
+ferret,2017,pl,2022,0,North Cyprus
+score,2013,pl,2022,0,World
+International System of Quantities,2009,schema,2009,0,France
+XSD,2001,dataValidationLanguage,2001,0,World
+Assembly CLI,2005,library,2008,0,United States
+COMAL,1973,pl,2003,0,Denmark
+AL,2016,pl,2022,0,World
+Mako,2006,template,2022,4341,United States
+Rapira,1987,pl,2022,0,Russia
+Simple Actor Language System and Architecture,2001,pl,2005,0,World
+Adept,2018,pl,2022,0,Unknown
+Frink,2001,pl,2022,0,United States
+Nios II,2000,isa,2005,0,World
+dub-pm,2012,packageManager,2022,0,United States
+atomspace,2008,application,2022,0,Various
+bee,2019,pl,2022,0,United States
+Object Linking and Embedding,1990,protocol,1990,0,United States
+NGS,2013,pl,2022,0,Israel and Portugal
+.QL,2007,pl,2007,0,England
+fo,2018,pl,2022,0,United States
+BitBake,2004,pl,2008,1040,Various
+Noweb,1989,textMarkup,2022,0,United States
+Gherkin,2008,pl,2017,4844,United States
+flagship,1986,pl,2022,0,Germany
+Swagger,2011,framework,2022,0,World
+Scroll,2020,textMarkup,2022,0,World
+LUCID,1976,pl,2005,0,Canada and United States
+Cayenne,1998,pl,2006,0,Sweden
+Fully Automated Compiling Technique,1959,pl,2008,0,United States
+Schema.org,2011,dataValidationLanguage,2022,0,World
+Pyret,2012,pl,2022,0,United States
+curv,2016,pl,2022,0,Canada
+Confluence,2004,textMarkup,2022,0,Australia
+XBRL,2003,xmlFormat,2003,0,World
+mpl,1988,pl,1988,0,United States
+SATySFi,2015,textMarkup,2022,0,World
+Sam Coupé,1989,pl,2003,0,World
+Mond,2014,pl,2022,0,Canada
+Handlebars,2010,template,2022,7598,Austria and China
+ObjDump,1991,application,2014,0,United States
+ApacheConf,1995,application,2016,68565,United States
+tcsh,1983,pl,2018,0,United States
+Orc,2004,pl,2007,0,United States
+Caltech Intermediate Form,1980,pl,2006,0,United States
+Recfiles,1994,dataNotation,1994,0,United States
+ddfql,2016,queryLanguage,2016,0,Various
+Fast Healthcare Interoperability Resources,2011,standard,2017,0,United States
+BASIC Stamp,1990,pl,2004,0,United States
+NuGet,2010,packageManager,2022,0,United States
+Gerbil Scheme,2016,pl,2022,0,Unknown
+basic calculator,1975,pl,2004,0,United States
+Revolution,1993,pl,2022,0,United Kingdom
+GN,2015,application,2022,0,Unknown
+Subleq,2009,isa,2022,0,World
+Qore,2006,pl,2022,0,Czech Republic
+Avail,2010,pl,2022,0,United States
+neeilang,2019,pl,2022,0,Unknown
+hilvl,2015,pl,2021,0,Unknown
+PowerQuery M,2015,queryLanguage,2015,0,World
+Ren,2013,dataNotation,2014,0,United States
+Pomsky,2022,pl,2023,0,Germany
+Dale,2013,pl,2022,0,Unknown
+BASIC Programming,1979,pl,2003,0,United States
+Wyvern,2012,pl,2022,0,World
+Connection Machine,1990,pl,2002,0,United States
+Extended file system,1992,filesystem,2004,0,United States
+hamler,2019,pl,2022,0,China
+xodio,2015,visual,2022,0,World
+kitlang,2018,pl,2022,0,United States
+Passerine,2021,pl,2022,0,United States
+Integer BASIC,1977,pl,2003,0,United States
+AMOS,1990,pl,2001,0,World
+Z++,1991,pl,2002,0,World
+CFScript,1999,pl,2006,0,World
+SdlBasic,2002,pl,2007,0,World
+CSVw,2014,dataValidationLanguage,2022,0,Various
+Yet Another Scripting Language,2017,pl,2022,0,World
+Aheui,2012,esolang,2022,0,Korea
+Formatted Table,1990,dataNotation,1990,0,World
+holyc,2005,pl,2005,9,United States
+hashlink,2015,bytecode,2022,0,Various
+Redcode,1984,pl,2003,109,United States
+JavaFX Script,2005,pl,2007,0,World
+Etoys,1996,pl,2006,0,United States
+Caramel,2020,pl,2022,0,Sweden
+SFC,1993,pl,2008,0,World
+neut,2018,pl,2022,0,Unknown
+International Chemical Identifier,2005,textDataFormat,2005,0,United Kingdom
+Memex,1945,computingMachine,1959,0,United States
+vdscript,2000,pl,2013,0,United States
+SQF,2002,pl,2018,609,World
+txr,2009,pl,2009,0,World
+Zimpl,2004,pl,2004,37,World
+Genero Business Development Language,2010,pl,2010,14,United States
+firrtl,2015,ir,2022,0,United States and China
+Snap!,2011,pl,2011,0,World
+Semantic Patch Language,2006,grammarLanguage,2022,120,World
+CORAL,1964,pl,2002,0,United Kingdom
+SISAL,1983,pl,2002,0,United Kingdom
+bloom,2010,pl,2022,0,United States
+APT Debian,1998,packageManager,1998,0,United State
+djangoql,2017,pl,2022,0,Russia and Ukraine amd Lithuania and Serbia
+mochi,2014,pl,2022,0,Japan
+General feature format,2006,textDataFormat,2006,0,United Kingdom and United States
+koara,2016,textMarkup,2018,0,Belgium
+fe,2019,pl,2022,0,Unknown
+Oxyl,2019,pl,2019,0,South Africa
+RELAX NG,2001,grammarLanguage,2022,0,Japan
+Cirru,2012,pl,2015,288,China
+Nymph,2017,pl,2022,0,United States
+Ubercode,2005,pl,2005,0,World
+Jsonnet,2014,dataNotation,2022,190,United States
+Boron,2009,pl,2009,0,World
+ballerina-central-pm,2015,packageManager,2015,0,United States
+Atmel AVR instruction set,1996,isa,2005,0,United States
+S-PLUS,1988,pl,2006,0,World
+Tuple space,1988,pl,2005,0,World
+Michigan Algorithm Decoder,1959,pl,2002,0,United States
+WDDX,1998,pl,2004,0,World
+Liberty BASIC,1992,pl,2002,0,United States
+Spec Sharp,2004,pl,2005,0,World
+COWSEL,1964,pl,2002,0,United Kingdom
+Lisp Machine Lisp,1974,pl,2002,0,United States
+muon,2019,pl,2022,0,Unknown
+F-Script,2009,pl,2022,0,United States
+Catala,2019,pl,2022,0,Various
+TELOS,1990,pl,2004,0,World
+Egison,2013,pl,2022,0,Japan
+Lustre,1993,pl,2005,0,France and United States
+GNU Data Language,2004,idl,2005,0,Various
+NESL,1993,pl,2004,0,United States
+TextMate Language,2004,grammarLanguage,2004,0,World
+OCL,1997,pl,2008,0,United States
+Grace,2010,pl,2017,15,United States
+Adobe Font Metrics,1987,application,2018,0,World
+Crema,2014,pl,2015,0,United States
+Mouse,1970,pl,2006,0,United States
+NWScript,2004,pl,2004,1,World
+p4p,2010,pl,2022,0,United States
+Language Server Index Format,2019,jsonFormat,2022,0,United States
+Hare,2020,pl,2022,0,Various
+Ligo,2019,contractLanguage,2022,0,France
+HAGGIS,2010,pl,2016,0,Scotland
+Bucardo,2009,application,2023,0,United States
+Flavors,1980,pl,2004,0,United States
+noulith,2022,pl,2023,0,United States
+Livr,2012,dataValidationLanguage,2022,0,United States
+QuakeC,1996,pl,2001,0,United States
+Amiga E,1993,pl,2002,0,World
+JSON Query Language,2019,queryLanguage,2022,0,Poland
+BIND,2000,application,2000,0,United States
+Potion,2007,pl,2023,0,United States and Germany and The Netherlands
+spiral,2017,pl,2022,0,World
+Adventure Game Studio Script,2001,pl,2018,674,World
+C shell,1978,pl,2002,0,United States
+Charity,1992,pl,2005,10,Canada
+MIMIC,1964,pl,2006,0,United States
+Pawn,1998,pl,1998,330,The Netherlands
+dlvm,2017,ir,2022,0,United States
+epsilon,1967,pl,1967,0,Canada
+lav-format,2004,textDataFormat,2004,0,United States
+GraphQL Schema Definition Language,2018,idl,2018,0,Various
+noisecraft,2021,pl,2022,0,Canada
+visdown,2016,textMarkup,2022,0,World
+Edge Side Includes,2001,pl,2005,0,United States and New Zealand
+raptorjit,2009,pl,2022,0,Unknown
+Marp,2018,textMarkup,2023,0,World
+eff,2012,pl,2022,0,Slovenia
+Linda,1986,pl,2004,0,United States
+Yum,1999,packageManager,2011,0,World
+XML Metadata Interchange,2015,xmlFormat,2015,0,World
+CMS-2,1968,pl,2004,0,United States
+Djot,2022,textMarkup,2022,0,United States
+OPS5,1977,pl,2004,0,United States
+Scribe,1980,pl,2007,0,United States
+humanhash-hash-function,2011,hashFunction,2022,0,United States
+Bioconductor,2001,packageManager,2022,0,United States
+ark-lang,2014,pl,2022,0,World
+jayfor,2014,pl,2022,0,Denmark and New Zealand and United Kingdom
+RDF Schema,1998,grammarLanguage,1998,0,United States
+DAX,2009,queryLanguage,2012,0,World
+Z,2012,pl,2022,0,World
+Kit,2012,template,2018,67,United States
+PeopleCode,2008,pl,2008,0,World
+JS++,2011,pl,2011,0,United Kingdom
+PILOT,1962,pl,2002,0,United States
+SCRIPT markup,1999,pl,2006,0,World
+Yacas,1999,pl,2015,0,World
+Q,1991,pl,2008,0,Germany
+Kid templating language,1999,template,2006,0,Germany and United States
+REDUCE,2011,pl,2022,0,United States
+Flowgorithm,2014,visual,2022,0,Italy
+Pact,2016,contractLanguage,2023,0,United States
+Acorn Atom,1980,pl,2003,0,World
+Sibelius,1998,pl,2018,0,World
+Vale,2020,pl,2022,0,World
+tsquery,2018,queryLanguage,2022,0,World
+ink-lang,2019,pl,2022,0,United States
+SIMSCRIPT,1963,pl,2004,0,United States
+POP-2,1967,pl,2004,0,United Kingdom
+NixOS,2003,os,2003,0,The Netherlands
+sixten,2014,pl,2022,0,World
+MACRO,1979,pl,2006,0,United States
+oden,2016,pl,2022,0,Sweden
+Family BASIC,1984,pl,2005,0,Japan
+abs,2018,pl,2022,0,United Arab Emirates
+Groovy Server Pages,2008,template,2018,0,United States and Spain and France
+Fun,2010,pl,2013,0,United States
+Uniform eXchange Format,2022,dataNotation,2022,0,United Kingdom
+HMMM,2006,assembly,2006,0,United States
+VisualWorks,1985,pl,2004,0,World
+05AB1E,2015,esolang,2022,0,World
+Plankalkul,1948,pl,2002,0,Germany
+WATFIV,1968,pl,2004,0,World
+Cadence SKILL,1990,pl,2006,0,United States
+MiniZinc,2012,pl,2022,0,Australia
+Parallax Propeller,2006,isa,2006,0,United States
+Jank,2015,pl,2022,0,United States
+MUSIC/SP,1972,pl,2003,0,Canada
+MXF,2004,binaryDataFormat,2004,0,Switzerland and United States
+Watcom,1988,pl,2003,0,World
+JSLT,2017,pl,2022,0,Norway
+Oak,1991,pl,2008,0,United States
+Berkeley DB,1994,library,1994,0,United States
+hacspec,2018,pl,2022,0,Germany
+manool,2018,pl,2022,0,Colombia
+Judoscript,2001,pl,2007,0,Unknown
+parasail,2009,pl,2012,0,United States
+ArchieML,2015,dataNotation,2015,0,United States
+Finite State Language,2016,pl,2016,0,Various
+Soy,2008,template,2008,0,World
+Airtable,2012,application,2022,0,World
+Deb file format,2003,binaryDataFormat,2003,0,United States
+GraphML,2001,xmlFormat,2006,0,Various
+Umka,2020,pl,2022,0,World
+pie-lang,2018,pl,2022,0,Denmark
+Go!,2003,pl,2003,0,United Kingdom and United States
+StarLogo,2008,pl,2011,0,World
+Morfik,2000,pl,2010,0,Australia
+Numbers,2007,application,2007,0,United States
+astro,2016,pl,2022,4,Nigeria
+multicodec,2015,standard,2022,0,Various
+AmigaBASIC,1985,pl,2005,0,World
+XPL,1967,pl,2004,0,World
+MSX BASIC,1984,pl,2003,0,United States
+Facelets,2005,template,2008,0,United States
+ToonTalk,1995,pl,2022,0,World
+TOM object-oriented,1999,pl,2007,0,World
+RSS,1999,protocol,1999,0,World
+Note,2012,dataNotation,2017,0,United States
+CHIP-8,1970,pl,2004,0,United States
+Property Specification Language,2004,pl,2004,0,United States
+HAL/S,1972,assembly,2003,0,United States
+Thue,2004,esolang,2004,0,World
+GEL Genius,1997,pl,2009,0,United States
+silk,2019,pl,2022,0,World
+Augeas,2007,pl,2022,293,United States
+Claro,2021,pl,2022,0,United States
+Vely,2022,pl,2022,0,World
+Business Basic,1970,pl,2004,0,United States
+PBASIC,1988,pl,2005,0,United States
+KRC,1981,pl,2002,0,United Kingdom
+QUEL,1976,queryLanguage,2003,0,United States
+Casio BASIC,2006,pl,2006,0,Japan
+TRAC,1964,pl,2003,0,United States
+Vvvv,1998,application,2022,0,World
+Structured text,2019,pl,2019,0,World
+BLAKE,2012,hashFunction,2012,0,Switzerland and Malaysia and Germany
+partiql,2019,queryLanguage,2022,0,United States
+OpenType Feature File,1996,application,2018,0,United States
+Fjölnir,1986,pl,2005,0,Iceland
+Nice,2006,pl,2006,0,France
+z80,1976,assembly,1976,0,World
+JSON Graph Spec,2013,jsonFormat,2022,0,United States
+owen-lang,2019,pl,2022,0,Denmark
+Zot,2015,pl,2017,0,World
+Sublime Syntax Test Lang,2008,grammarLanguage,2008,0,World
+verifpal,2019,pl,2022,0,World
+StruQL,1999,queryLanguage,1999,0,World
+Yedalog,2015,queryLanguage,2015,0,World
+Coco,2010,pl,2014,0,Japan
+pikelet,2017,pl,2022,0,Australia
+forest-lang,2017,pl,2022,0,New Zealand
+k-framework,2013,grammarLanguage,2022,0,Various
+Standard Portable Intermediate Representation,2014,ir,2014,0,World
+scribble,1997,pl,2022,0,World
+Sketchpad,1962,pl,1963,0,World
+Newsqueak,1990,pl,2009,0,United States
+hazel,2016,pl,2022,0,United States
+Li-Chen Wang,1976,pl,2002,0,United States
+Janus,1982,pl,2016,0,United States
+NeXML format,2007,xmlFormat,2022,0,The Netherlands and United States and Canada and India
+Basic-256,2007,pl,2014,0,United States
+XOTcl,2000,pl,2004,0,World
+JSL,1989,pl,1989,0,United States
+[x]it!,2022,dataNotation,2022,0,World
+Metalang99,2021,pl,2022,0,Kazakhstan
+Hodor,2015,esolang,2022,0,United States
+popr,2012,pl,2022,0,United States
+Wavefront Material,1988,application,2017,0,World
+Alma,2014,pl,2021,0,Sweden
+IBM i Control Language,1993,pl,2014,0,World
+Battlestar,2014,pl,2022,0,Norway
+kai,2016,pl,2020,0,The Netherlands
+Toi,2015,pl,2021,0,World
+BANCStar,1996,pl,2007,0,United States
+BuddyScript,2002,pl,2009,0,United States
+latino,2015,pl,2022,0,Mexico
+fizz,2017,pl,2017,0,United States
+BALGOL,1959,pl,1959,0,World
+Linux Kernel Module,1996,application,1996,0,United States
+LOLA,1991,pl,1991,0,Germany
+net-format,2006,textDataFormat,2006,0,United States
+BASIC-PLUS,1975,pl,2004,0,United States
+VSXu,2004,visual,2022,0,World
+lemon,2017,pl,2022,0,Singapore
+Lucidchart,2008,application,2022,0,United States
+Information Processing Language,1954,pl,2003,0,United States
+Hush,2021,pl,2022,0,Brazil
+co-dfns,2012,pl,2022,0,United States
+Strongtalk,1994,pl,2006,0,United States
+Joule,1996,pl,2004,0,United States
+Euler,1965,pl,2004,0,United States and Switzerland
+RubyGems,2018,packageManager,2022,0,World
+MultiDimensional eXpressions,1997,queryLanguage,1997,0,United States
+httplang,2015,pl,2021,0,United States and Kazakhstan
+VisSim,1989,pl,2005,0,World
+IBM POWER Instruction Set Architecture,1998,isa,2017,0,United States
+ldpl,2019,pl,2022,0,Unknown
+pointless,2020,pl,2022,0,United States
+JSON Lines,2013,dataNotation,2022,0,Canada
+FaCT,2017,pl,2022,0,United States and Germany and France and Spain
+MDL,1971,pl,2004,0,United States
+zenscript,2014,pl,2022,8,World
+Gödel (Goedel),1992,pl,2004,0,United Kingdom
+parenthetic,2012,esolang,2022,0,Unknown
+cor,2016,pl,2022,0,United States
+OEM,1995,schema,1995,0,United States
+UCG,2017,dataNotation,2022,0,World
+Invisible XML,2020,grammarLanguage,2022,0,The Netherlands
+Xidoc,2021,textMarkup,2022,0,Czech Republic
+Project Mentat,2016,queryLanguage,2022,0,United States
+Velocity Template Language,2000,template,2000,4,World
+Conceptual,2019,pl,2021,0,Unknown
+Aime,2013,pl,2013,0,Unknown
+GAML,1991,pl,1991,3,France
+Bro,1994,pl,2022,149,United States
+myia,2017,pl,2022,0,Canada
+YARV,2007,vm,2007,0,World
+ASDF,2015,pl,2022,0,United States
+Geany,2005,editor,2022,0,Various
+Algebraic modeling language,1980,pl,2007,0,World
+Mangle,2022,pl,2022,0,World
+multiaddr,2014,schema,2022,0,Various
+MyBB,2002,pl,2011,0,Australia
+RAPID,1994,pl,2010,0,World
+FRACTRAN,1996,esolang,2007,0,United Kingdom
+HP Time-Shared BASIC,1969,pl,2005,0,United States
+Coco/R,1990,grammarLanguage,2004,0,Austria
+NELIAC,1958,pl,2004,0,United States
+psyche-c,2016,compiler,2022,0,Brazil
+RTL/2,1972,pl,2010,0,World
+Zope,1999,application,1999,0,World
+STOS BASIC,1988,pl,2005,0,World
+Sibilant,2010,pl,2020,0,United States
+Function block diagram,2001,pl,2001,0,World
+OpenEXR,1999,binaryDataFormat,1999,0,United States
+Gwion,2016,pl,2022,0,The Netherlands and United States and Turkey and France
+BPML,2002,pl,2006,0,World
+micro-mitten,2020,pl,2022,0,United Kingdom
+Lil,2022,pl,2023,0,United States
+JSON lambda,2017,queryLanguage,2022,0,England and Canada
+fleck,2019,pl,2022,0,United States
+TriG syntax,2007,dataNotation,2007,0,World
+cat,2016,pl,2022,0,Canada
+DataWeave,2014,pl,2017,9,Argentina
+Easytrieve,1969,pl,2009,0,United States
+Lite-C,2007,pl,2007,0,Germany
+dyvil,2014,pl,2022,0,Germany
+Draco,1987,pl,2004,0,United States
+File Oriented Interpretive Language,1967,pl,2004,0,United States
+M2001,2001,pl,2004,0,United States
+Zimbu,2009,pl,2022,0,World
+Promela,1997,pl,1997,21,United States
+Z-flat,2021,pl,2021,0,World
+Incipit,2021,textMarkup,2021,0,Brazil
+Mscgen,2016,textMarkup,2016,0,United Kingdom
+Picat,2012,pl,2022,0,World
+Explorer,2020,visual,2020,0,World
+orca-pl,2018,esolang,2022,0,Unknown
+CBOR,2013,binaryDataFormat,2022,0,Germany and United States
+Text Adventure Development System,1988,application,2022,0,World
+A#,2004,pl,2005,0,United States
+topshell,2018,pl,2022,0,World
+Textadept,2007,editor,2023,0,World
+AIMMS,1993,pl,2011,0,World
+LinearML,2010,pl,2014,0,United States
+Cone,2017,pl,2022,0,Australia and Belgium and France and Sweden and Indonesia
+Boomerang Decompiler,2002,decompiler,2022,0,Australia
+N-Triples,2014,dataNotation,2014,0,United States
+COMIT,1957,pl,2004,0,United States
+Basic4ppc,2005,pl,2009,0,Israel
+hakaru,2014,pl,2022,0,United States
+Rouge,2012,pl,2021,12,World
+cuneiform,2015,pl,2022,0,European Union
+World of Warcraft Addon Data,2012,application,2016,0,World
+tao3d,2003,pl,2022,0,World
+Caché ObjectScript,1997,pl,2005,0,United States
+elena,2013,pl,2019,0,Germany
+Sophia,2018,contractLanguage,2022,0,World
+Document Structure Description,2000,xmlFormat,2000,0,United States and Denmark
+Breccia,2019,textMarkup,2021,0,Canada
+Atomese,2007,pl,2007,0,Various
+Jevko,2021,dataNotation,2021,0,Poland
+mint,2018,pl,2022,0,Poland and Hungary and United States
+Goal,2022,pl,2022,0,World
+Manchester syntax,2006,dataNotation,2006,0,United Kingdom
+Maude,1990,pl,1990,0,Spain and United States
+WMLScript,1998,pl,2011,0,World
+april,2017,pl,2022,0,World
+plam,2017,pl,2022,0,Croatia
+POPLOG,1992,pl,2002,0,United Kingdom
+Quicken Interchange Format,2000,textDataFormat,2000,0,United States
+quicklisp-pm,2010,packageManager,2022,0,United States
+Executive Systems Problem Oriented Language,1967,pl,2004,0,United States
+Color BASIC,1980,pl,2005,0,United States
+QtScript,2008,pl,2008,0,World
+Interchange File Format,1985,binaryDataFormat,1985,0,United States
+Bython,2016,pl,2022,0,Norway
+Tao,2020,pl,2022,0,World
+HuJSON,2019,dataNotation,2022,0,Various
+Kal,2012,pl,2014,0,United States
+Visual Objects,1994,pl,2012,0,World
+THEOS,1977,pl,1977,0,World
+titan,2017,pl,2022,0,World
+STON,2012,application,2022,0,World
+bamboo,2016,pl,2022,0,World
+Wu,2018,pl,2022,0,World
+LC-3,2003,pl,2007,0,United States
+mirth,2019,pl,2022,0,Switzerland and United States
+dedukti,2009,pl,2022,0,France
+Uniface,1994,pl,2005,0,World
+tangledown,2011,template,2022,0,World
+Pod6,2019,textMarkup,2022,0,Unknown
+Fuzuli,2012,pl,2020,0,Turkey
+Topaz,2021,pl,2021,0,Unknown
+concurnas,2018,pl,2018,0,England
+PML,1986,textMarkup,1986,0,Unknown
+tremor-query,2019,queryLanguage,2019,0,World
+Austral,2018,pl,2023,0,World
+Turbo-Basic XL,1985,pl,2005,0,World
+stoneknifeforth,2008,pl,2022,0,World
+minikanren,2013,pl,2022,0,United States
+PTX,2009,assembly,2009,0,World
+FL,1989,pl,2004,0,United States
+Jeeves,2013,pl,2018,0,United States
+MAGMA,1993,pl,2022,0,Australia
+TAL,2008,pl,2008,0,World
+ASIC,1992,pl,2005,0,United States
+Zeek,1994,pl,2022,17,World
+infusion-framework,2007,framework,2022,0,Various
+buzz,2021,pl,2022,0,France
+Pyrex,2002,pl,2005,0,New Zealand
+AUTOCODER,1955,assembly,2005,0,United States
+ulisp,2016,pl,2022,0,World
+KUKA Robot Language,2010,pl,2016,0,Germany
+Structured Query Reporter,1980,pl,2005,0,World
+orange,2014,pl,2018,0,United States
+reforth,2013,pl,2022,0,Unknown
+Heron,2016,pl,2022,0,Canada
+taf,2012,pl,2022,0,World
+Blacklight,2015,pl,2022,0,Unknown
+jiyu,2019,pl,2020,0,Unknown
+gura,2012,pl,2022,0,Japan
+Visual Tool Markup Language,1997,pl,2006,0,World
+CEEMAC,1980,pl,2011,0,United States
+swizzle,2018,esolang,2022,0,World
+hoon,2011,pl,2011,3,Unknown
+Filterscript,2012,pl,2012,0,World
+xTAO Modeling Language,2005,xmlFormat,2005,0,World
+MessagePack,2009,binaryDataFormat,2022,0,Various
+t2b,2018,pl,2022,0,World
+pipelines,2018,pl,2022,0,United States
+Links,2006,pl,2022,0,United Kingdom and France
+multibase,2016,standard,2022,0,Various
+Model 204,1972,pl,2004,0,United States
+Matrix protocol,2014,protocol,2014,0,United States
+Notation3,1998,dataNotation,2008,0,United States
+Euclid,1970,pl,2004,0,Canada
+Semantic Web Rule Language,2004,xmlFormat,2005,0,World
+OK,2021,pl,2022,0,Australia
+ELFE,2003,pl,2021,0,France
+Parlog,1983,pl,2011,0,United Kingdom
+CSpydr,2021,pl,2022,0,Germany
+Ripple,2014,pl,2017,0,Japan
+maraca-lang,2018,pl,2021,0,United Kingdom
+Ook,2005,esolang,2005,0,Australia
+Data Communications ALGOL,1970,pl,1970,0,World
+jcard,2014,jsonFormat,2014,0,United States
+jplace,2012,jsonFormat,2012,0,United States and Germany
+Reactive Plan Language,1993,pl,1993,0,World
+GorillaScript,2013,pl,2013,0,United States
+baysick,2009,esolang,2022,0,United States
+C/AL,1987,pl,2007,0,United States
+HyTime,1991,pl,2005,0,Switzerland and United Kingdom
+Linden Scripting Language,2003,pl,2004,0,United States
+PLEX,1975,pl,2009,0,Sweden
+datafun,2015,pl,2022,0,United Kingdom and Canada
+son,2017,textMarkup,2022,0,World
+GEORGE,1957,pl,2012,0,Australia
+Matrix Market Coordinate Format,1996,textDataFormat,2010,0,United States
+praxis-lang,2011,pl,2011,0,United Kingdom
+SYNAPSE,1990,pl,2011,0,World
+Optimized Systems Software,1981,pl,2005,0,United States
+NEWP,1985,pl,2006,0,United States
+fructure-editor,2017,pl,2022,0,United States and United Kingdom
+Smile data interchange format,2010,binaryDataFormat,2022,0,World
+Fossil,2006,application,2022,0,United States
+SipHash,2011,hashFunction,2011,0,World
+GNU Guix,2013,distribution,2019,0,United States
+SDF,1989,grammarLanguage,2003,0,World
+HyPhy,2008,pl,2022,73,United States
+mimium,2019,pl,2022,0,Japan
+Quake,2001,pl,2018,0,United States
+Ohayo,2017,pl,2022,0,United States
+SMX,1998,pl,2009,0,World
+Action Code Script,2004,pl,2004,0,World
+CobolScript,1999,pl,2016,0,United States
+Đ,2019,pl,2020,0,China
+Truth,2019,dataNotation,2023,0,World
+DAP FORTRAN,1975,pl,2007,0,United Kingdom
+Project MAC’s SYmbolic MAnipulator,1968,pl,2006,0,United States
+BeBasic,2009,pl,2022,0,China
+Aardvark,2020,pl,2022,0,South Korea
+LispWorks,1989,pl,1989,0,United Kingdom
+Processor Technology,1975,pl,2006,0,United States
+Haxe Library Manager,2013,packageManager,2023,0,Unknown
+ko,2018,pl,2022,0,The Netherlands and United States
+Visual Paradigm,2002,application,2002,0,World
+X BitMap,1989,textDataFormat,1989,0,World
+Gremlin,2009,queryLanguage,2011,0,Various
+Winbatch,1989,pl,2022,0,World
+Small-C,1980,pl,2002,0,World
+Functional PHP Preprocessor,2018,pl,2021,0,Paraguay
+SDTM,2004,standard,2004,0,World
+Conway chained arrow notation,1996,notation,1996,0,United Kingdom
+crmsh,2008,pl,2022,0,Various
+juvix,2017,pl,2022,0,Various
+Lucid,2014,template,2022,0,England
+Kuroko,2020,pl,2022,0,World
+DML,2005,pl,2007,0,United States
+Parenscript,2009,pl,2022,0,United States and Italy
+Virgil,2006,pl,2022,0,World
+hexagony,2015,esolang,2022,0,Germany
+Scala Markup Language,2010,template,2015,7,World
+ODRL,2000,pl,2004,0,Australia
+Forte 4GL,1994,pl,2006,0,United States
+XPL0,1976,pl,2008,0,World
+GLMS,2022,pl,2023,0,World
+kumir,2011,pl,2022,0,Russia
+ISETL,1989,pl,2014,0,United States
+P*,2013,pl,2020,0,Norway
+Boogie,2008,pl,2008,4,World
+BrightScript,2008,pl,2008,0,Australia
+Hspec,1990,pl,2022,0,Various
+Markdeep,2015,textMarkup,2015,0,Canada
+opengraph,2010,xmlFormat,2022,0,United States
+rosette-lang,2013,pl,2013,0,World
+xsharp,2015,pl,2015,0,World
+Linker Script,1991,application,1991,0,United States
+rbs,2020,headerLang,2020,0,United States
+vega-editor-app,2015,application,2022,0,World
+Short Code computer language,1949,pl,2006,0,World
+Simplicity,2017,pl,2022,0,World
+Edinburgh IMP,2002,pl,2004,0,United Kingdom
+never,2018,pl,2022,0,Spain
+expresso,2012,pl,2022,0,United Kingdom
+Gist,1977,pl,2005,0,United States
+WinWrap Basic,1993,pl,2009,0,World
+Sawzall,2003,pl,2007,0,World
+Irvine Dataflow,1975,pl,2008,0,United States
+ALGOL 68-R,1970,pl,2006,0,World
+jeebox,2012,pl,2022,0,Unknown
+ARM Templates,2017,jsonFormat,2017,0,World
+Continuity of Care Document,2008,xmlFormat,2008,0,United States
+CBASIC,1982,pl,2006,0,United States
+Atlas Autocode,1965,pl,2002,0,England
+solid,2013,pl,2022,0,World
+DATABUS,1972,pl,1972,0,United States
+OGNL,2007,pl,2011,0,United States
+Sublime Syntax,2008,grammarLanguage,2008,0,World
+sporth,2015,pl,2019,0,World
+Pycket,2022,pl,2022,0,Germany
+Energy Systems Language,1950,notation,2005,0,United States
+Flowcode,2002,pl,2018,0,United Kingdom
+Kuin,2016,pl,2022,0,Japan
+Rocky Mountain BASIC,1988,pl,2005,0,United States
+Python for S60,2006,pl,2008,0,United States
+Pharen,2009,pl,2018,0,United States
+A+,1988,pl,2022,0,United States
+Clinical Document Architecture,1996,xmlFormat,1996,0,United States
+Axiom,1992,pl,2004,0,Various
+Vyxal,2020,esolang,2023,0,Australia
+xxl,2016,pl,2022,0,World
+Literate Haskell,1991,pl,2018,0,United States
+RHTML,2004,template,2018,0,Various
+Homa,2018,protocol,2022,0,United States
+Gellish,2005,textMarkup,2006,0,United Kingdom and Switzerland
+ObjectScript,2012,pl,2022,13,Russia
+aretext,2020,editor,2022,0,United States
+Candy,2020,pl,2022,0,Germany
+Pnuts,1997,pl,2008,0,Japan
+Interactive C Interpreter,1980,pl,2004,0,Australia
+ApeScript,1995,pl,2006,0,World
+Speech Synthesis Markup Language,2010,xmlFormat,2010,0,World
+Céu,2011,pl,2022,0,Brazil
+Bla,1994,pl,1994,0,Netherlands
+D2,1995,textMarkup,1995,0,United States
+dbml,2019,textMarkup,2019,0,World
+False,1993,pl,1993,0,United States
+Lexon,2018,contractLanguage,2018,0,Uruguay
+Low*,2008,pl,2008,0,United States and France
+Sitemap,2001,xmlFormat,2022,0,World
+2-pak,1975,pl,1975,0,World
+Portable Bit Map Format,1986,textDataFormat,1986,0,Unknown
+Graphics BASIC,1983,pl,2005,0,United States
+IMP,1968,pl,2004,0,United States
+Lazy ML,1980,pl,2008,0,Sweden
+Mortran,1973,pl,2008,0,United States
+EXEC 2,1970,pl,2007,0,United States
+Phel,2020,pl,2022,0,United States
+ΜC++,1992,pl,2022,0,Canada
+Instruction list,2000,pl,2000,0,Switzerland
+DDA,1979,pl,2004,0,United States
+Synon,1986,pl,2004,0,World
+XCAS,2001,pl,2007,0,World
+PL/P,1978,pl,2009,0,United States
+categorical-query-language,2019,queryLanguage,2022,0,The Netherlands
+Simons' BASIC,1983,pl,2005,0,World
+MetaComCo,1981,pl,2002,0,England
+jinx,2016,pl,2022,0,Unknown
+Tabloid,2020,esolang,2022,0,World
+Laning and Zierler system,1953,pl,2005,0,United States
+Armed Bear Common Lisp,2008,pl,2022,0,World
+redprl,2016,pl,2022,0,Various
+Advanced Authoring Format,2002,binaryDataFormat,2002,0,World
+SAC,1994,pl,2005,0,World
+IDL specification language,1980,idl,2004,0,United States and Canada
+yeti,2007,pl,2022,0,World
+inko,2015,pl,2022,0,The Netherlands
+tampio,2017,pl,2022,0,World
+Glyph,2007,pl,2013,11,United States
+WebDNA,1995,pl,2009,0,World
+Scsh,2002,pl,2003,0,World
+Kamby,2022,pl,2023,0,Brazil
+Nickle,2001,pl,2006,0,United States
+Sugar,2006,pl,2017,0,New Zealand
+ten,2019,pl,2022,0,World
+Nuua,2018,pl,2022,0,Spain
+Toy,2018,pl,2022,0,World
+Urbiscript,2003,pl,2011,0,World
+Mudlle,1998,pl,2021,0,Switzerland
+blz,2015,pl,2021,0,United States
+FOAF,2007,xmlFormat,2007,0,Various
+G-Portugol,2005,pl,2017,0,Portugal
+YESS,2022,protocol,2022,0,World
+Macchiato,2019,pl,2019,0,Japan
+The Dog Programming Language,2011,pl,2011,0,United States
+world,2011,pl,2022,0,World
+ca65 Assembly,1998,assembly,1998,0,Germany
+ctalk-lang,1989,pl,1989,0,France
+GUIDE,1994,pl,1994,0,France
+IRC chat logs,1988,application,1988,0,United States
+v8torque,2018,pl,2018,0,World
+Zork Implementation Language,1988,pl,1988,0,World
+MLAB,1975,pl,2013,0,United States
+g-fu,2019,pl,2022,0,Unknown
+CHICKEN,1994,pl,2006,0,Various
+Tahoe-LAFS,2007,filesystem,2018,0,World
+3D Manufacturing Format,2015,xmlFormat,2015,0,World
+little,2016,pl,2022,0,United States
+Yabasic,1995,pl,2018,0,World
+CRAM file format,2011,binaryDataFormat,2018,0,Canada
+BEAM Erlang virtual machine,2011,vm,2011,0,Sweden
+MHEG-5,1997,schema,2003,0,Switzerland
+Chinese BASIC,1980,pl,2005,0,Taiwan
+lift,2014,pl,2022,0,Scotland and Germany
+Basic4android,2011,pl,2018,0,Israel
+SequenceL,1989,pl,2012,0,World
+Atari Microsoft BASIC,1981,pl,2004,0,World
+Le-Lisp,1984,pl,2004,0,France
+PL/C,1973,pl,2003,0,United States
+Google Data Protcol,2007,protocol,2007,0,United States
+Frank,2017,pl,2022,0,United Kingdom
+clarity,2019,contractLanguage,2023,0,United States
+Pyth,2014,pl,2014,0,World
+TMTP,2017,protocol,2022,0,World
+De Bruijn index,1972,notation,1972,0,Netherlands
+Pro*C,1996,pl,2007,0,United States
+SP/k,1974,pl,2004,0,Canada
+FloScript,2013,pl,2021,0,United States
+hr-code,2019,barCodeFormat,2022,0,Turkey
+Binary Alignment Map,2009,binaryDataFormat,2016,0,Various
+Atari ST BASIC,1985,pl,2005,0,England
+Obliq,1993,pl,2004,0,World
+PEAR,1999,packageManager,1999,0,Unknown
+CYCL,1988,pl,2002,0,United States
+Wing,2022,pl,2023,0,World
+A++,1996,pl,2001,0,Germany
+Unity3D Asset,2005,application,2018,0,World
+Prograph,1983,pl,2004,0,Canada
+Gren,2012,pl,2022,0,Unknown
+ATLAS Transformation Language,2005,pl,2005,0,Canada
+Tandem Advanced Command Language,1999,pl,2005,0,World
+Stockholm format,1997,textDataFormat,2008,0,World
+Miva,1996,pl,2008,0,United States
+CLAIRE,2004,pl,2004,0,France
+Rebeca Modeling Language,2004,pl,2022,0,Iran
+CLPR,1986,pl,2007,0,Australia
+ProbeVue,2008,pl,2008,0,United States
+iCalendar,1998,textDataFormat,1998,0,Canada
+Space,2013,dataNotation,2017,0,World
+dllup,2015,textMarkup,2022,0,United States
+Dashrep,2011,pl,2022,0,United States
+Acme,1994,pl,1994,0,United States
+AspectC++,2001,pl,2022,0,Various countries in Western Europe
+frame,2013,pl,2013,0,United States
+Plot,2006,pl,2006,0,United States
+4th Dimension,1987,pl,1987,0,World
+Fortran 90,1990,pl,1990,0,United Kingdom
+Netpbm grayscale image format,1988,textDataFormat,1988,0,Unknown
+ESC/P,1992,pl,2007,0,Japan
+OQL,1986,queryLanguage,1986,0,United States
+Coda web development software,2007,editor,2007,0,United States
+Hotdog,2001,pl,2001,0,New Zealand
+Apple ProDOS,1983,os,2003,0,United States
+Meta Expressions,1960,dataNotation,1960,0,United States
+Kaffeine,2010,pl,2012,0,Ireland
+General-purpose macro processor,1995,grammarLanguage,1995,0,Various
+SenseTalk,2001,pl,2022,0,World
+CodeGear Delphi,1995,pl,2009,0,United States
+Ruby Document format,1995,textMarkup,2005,0,World
+Dink Smallwood,1998,pl,2004,0,Japan
+Nadesiko,2008,pl,2022,0,Japan
+Netlib,1985,library,2022,0,United States
+MAI Basic Four,1974,pl,2007,0,United States
+Crystallographic Information File,1991,textDataFormat,1991,0,United Kingdom and Germany
+candor,2012,pl,2022,0,United States
+Dasm,1988,assembly,2022,0,United States and Germany and Canada
+ARITH-MATIC,1954,pl,2002,0,United States
+IBM BASICA,1981,pl,2011,0,United States
+ABC 80,1978,pl,2003,0,World
+Lawvere,2021,pl,2022,0,Japan
+Margin,2019,textMarkup,2022,0,United States
+ecsharp,2008,pl,2022,0,Canada
+SpiderBasic,2015,pl,2022,0,France
+Silicon Graphics Image,1996,binaryDataFormat,1996,0,United States
+Schematron,1999,xmlFormat,2016,0,World
+METAPOST,1994,pl,1994,0,Various
+IBM Informix-4GL,1985,queryLanguage,2003,0,World
+zolang,2018,pl,2022,0,World
+video,2016,pl,2022,0,United States
+Wart,2010,pl,2019,0,World
+hamdown,2018,textMarkup,2022,0,Serbia
+MUDDL,1988,pl,2022,0,United Kingdom
+Dolittle,1952,pl,2013,0,Japan
+Sing Sharp,2005,pl,2005,0,World
+Leda,1995,pl,2022,0,United States
+MACRO-11,1974,pl,2005,0,United States
+json->url,2017,jsonFormat,2022,0,Canada
+MakeDoc,2000,textMarkup,2009,0,United States
+Namespace-based Validation Dispatching Language,2006,xmlFormat,2006,0,United States and Canada
+Chrome,2008,pl,2008,0,United States
+Nord Programming Language,1974,pl,2006,0,Norway
+funl,2020,pl,2022,0,Finland
+FCL,1989,pl,1989,0,Denmark
+TI-89 series,1998,pl,1998,0,World
+plink-ped-format,2007,textDataFormat,2022,0,South Korea
+texti,2017,textMarkup,2021,0,World
+Blox,2018,pl,2018,0,World
+Binary Lambda Calculus,2004,esolang,2004,0,Netherlands
+myrddin,2016,pl,2017,0,United States
+nimrod,2013,pl,2013,601,World
+OMG IDL,2018,idl,2018,0,United States
+stella,1999,pl,1999,0,World
+bml,2014,dataNotation,2014,0,World
+chain-format,2013,textDataFormat,2013,0,United States
+Y,1981,pl,1981,0,World
+elymas,2012,pl,2022,0,Germany
+HAL Format,2012,binaryDataFormat,2022,0,Unknown
+Chipmunk Basic,1989,pl,2015,0,United States
+ILBM,1985,binaryDataFormat,1985,0,United States
+FXML,2011,xmlFormat,2011,0,United States
+Daisy Systems,1983,pl,2004,0,United States
+Preferred Executable Format,1994,pl,2004,0,United States
+Common Data Format,1985,binaryDataFormat,2004,0,United States
+SCM,1990,pl,2006,0,World
+Split-C,1995,pl,2006,0,World
+RapidQ,2000,pl,2004,0,Unknown
+tamgu,2019,pl,2022,0,World
+arret,2017,pl,2022,0,World
+GRAAL,1986,pl,2004,0,France
+Charcoal,2016,esolang,2022,0,Unknown
+ultralisp-pm,2018,packageManager,2022,0,World
+Beta BASIC,1983,pl,2005,0,United States
+CECIL,1992,pl,2004,0,United States
+Meditech Interpretive Information System,1986,pl,2005,0,United States
+Ease,1991,pl,2005,0,United States and France
+JOSS Extended and Adapted for Nineteen-hundred,1960,pl,2009,0,United Kingdom
+ELAN,1974,pl,2004,0,Germany
+IPTSCRAE,1994,pl,2005,0,United States
+moinmoin,2000,textMarkup,2000,0,Germany
+CodeStudAssembler,2017,assembly,2017,0,Various
+Run BASIC,2008,pl,2008,0,World
+Magik,1989,pl,2005,0,United Kingdom
+moya,2015,pl,2022,0,United Kingdom
+TUTOR,1969,pl,2005,0,World
+Refer,1978,textMarkup,1978,0,United States
+RLaB,1998,pl,2004,0,United States
+Flatline,2013,pl,2022,0,United States
+OptimJ,2006,pl,2010,0,World
+Kaleidoscope,1994,pl,2006,0,United States
+Small,1980,pl,2005,0,World
+3APL,1998,pl,2006,0,World
+Enterprise Mashup Markup Language,2001,pl,2009,0,United States
+System Automatycznego Kodowania Operacji,1960,pl,2013,0,Poland
+mimix-stream-language,2018,pl,2021,0,United States
+TQL,2023,queryLanguage,2023,0,World
+AmbientTalk,2006,pl,2006,0,Belgium
+Devicetree,2009,dataNotation,2022,0,England
+Objective-S,1980,pl,1980,0,Germany
+protium,2007,pl,2019,0,Australia
+><>,2009,esolang,2009,0,Unknown
+Make,1977,application,1977,0,United States
+Robots.txt,1994,configFormat,1994,0,United Kingdom
+WHIRL,1997,pl,1997,0,World
+Augment,1974,pl,2002,0,United States
+IBM BASIC,1981,pl,2002,0,United States
+DarkBASIC,2000,pl,2004,0,United Kingdom
+Apple BASIC,1978,pl,2006,0,United States
+Cambridge Algebra System,1973,pl,2012,0,England
+PACT I,1955,pl,2010,0,United States
+LINC 4GL,1980,pl,2006,0,United States
+Spice Lisp,1980,pl,2006,0,World
+Dataflex,1982,pl,1982,0,United States
+wah,2017,pl,2022,0,World
+semicolon,2012,esolang,2022,0,India
+lever,2015,pl,2022,0,Finland
+Wonkey,2021,pl,2022,0,World
+Kalyn,2020,pl,2022,0,United States
+Piet,1990,esolang,2004,0,Australia
+Slony,2004,application,2020,0,United States
+obsidian,2018,pl,2022,0,United States
+Text Executive Programming Language,1979,pl,2007,0,World
+Wirth syntax notation,1977,grammarLanguage,1977,0,World
+egel,2016,interpreter,2022,0,Unknown
+QOIR,2022,binaryDataFormat,2022,0,Australia
+Formula language,1989,pl,2003,0,United States
+NilScript,2013,pl,2018,0,United States
+OBJ,1976,pl,2004,0,United States
+CMS Pipelines,1986,pl,1986,0,World
+DEVIL,2000,pl,2006,0,China
+SQRL,2018,queryLanguage,2023,0,World
+X PixMap,1989,textDataFormat,1989,0,World
+mdl,2019,isa,2022,0,United States
+JCOF,2022,dataNotation,2022,0,Norway
+IPL,2013,pl,2022,0,Switzerland
+Astatine,2022,pl,2022,0,Germany
+jasper,2014,pl,2021,0,Germany
+emfatic,2004,pl,2004,0,Canada
+git-config,2005,application,2005,0,United States
+LARP,2003,pl,2003,0,Canada
+Lazy K,2002,esolang,2002,0,The Netherlands
+Liso,2014,dataNotation,2014,0,Canada
+CBOR data definition language,2017,idl,2017,0,Germany
+hop,2006,pl,2006,0,France
+Ion Schema Language,2018,grammarLanguage,2018,0,United States
+ppm-format,1988,textDataFormat,1988,0,United States
+Portable Standard Lisp,1980,pl,2006,0,United States
+Polymorphic Programming Language,1969,pl,2006,0,United States
+Stalin,2006,compiler,2006,0,World
+Cullinet,1968,pl,2005,0,United States
+Knowledge Interchange Format,1990,pl,2006,0,United States
+Nimskull,2021,pl,2022,0,Various
+clike,2014,pl,2022,0,World
+Tynker,2012,visual,2022,0,World
+XBEL,2006,pl,2006,0,World
+HP-GL,1986,pl,2002,0,United States
+Game Oriented Assembly Lisp,1993,pl,2006,0,United States
+P′′,1964,pl,2005,0,Italy
+Ecstasy,2015,pl,2022,0,World
+Steinhaus-Moser notation,1969,notation,1969,0,World
+MML,1982,standard,2009,0,Switzerland
+Content Assembly Mechanism,2002,xmlFormat,2002,0,United States
+ColorForth,1992,pl,1992,0,United States
+ZBasic,1980,pl,2007,0,World
+SIGNAL,1982,pl,2011,0,France
+MARK IV,1985,pl,2006,0,United States
+TTM,1968,pl,2012,0,World
+Corman Common Lisp,1995,pl,2009,0,United States
+QUIKSCRIPT,1965,pl,2004,0,United States
+co2,2016,pl,2022,0,United States
+Ren-C,2012,pl,2022,0,Unknown
+rhine,2014,pl,2022,0,France
+ISBL,1980,pl,2006,0,United States
+Croma,2005,pl,2014,0,Ireland
+Mobl,2010,pl,2013,0,The Netherlands
+UBJSON,2017,binaryDataFormat,2017,0,World
+cperl,2017,pl,2022,0,Various
+Tree and Tabular Combined Notation,1992,pl,2004,0,World
+keli,2018,pl,2022,0,Malaysia and Germany
+BASIC A+,1983,pl,2004,0,United States
+Mallard BASIC,1985,pl,2004,0,United Kingdom
+Janus,1990,pl,2006,0,United States
+LISP 2,1963,pl,2007,0,United States
+Ratfiv,1980,pl,2004,0,United States
+mlatu,2021,pl,2022,0,United States
+a Lisp Environment,2019,pl,2022,0,World
+Steel Bank Common Lisp,1999,pl,2022,0,World
+JIS X 0201,1969,characterEncoding,2005,0,Japan
+Just Another Scripting Syntax,2009,pl,2009,0,United States
+Forml,2011,pl,2013,0,United States
+Ciel,2010,pl,2022,0,United States
+Ciao,1984,pl,2013,0,Spain and United States
+PICO,1997,pl,2003,0,Belgium
+Slideshow,2000,textMarkup,2023,0,United States
+Join Java,2000,pl,2005,0,Australia
+juniper,2016,pl,2022,0,United States
+RascalMPL,2010,pl,2022,0,The Netherlands
+TScript,2012,pl,2012,0,World
+huginn,2015,pl,2022,0,Poland
+Alumina,2021,pl,2022,0,World
+tuplemarkup,2012,textMarkup,2021,0,World
+VlibTemplate,2003,template,2005,0,World
+Dern,2008,pl,2022,0,Unknown
+YAMP,2019,dataNotation,2022,0,World
+HCard,2009,xmlFormat,2009,0,United States
+Amazon Redshift,2012,queryLanguage,2012,0,World
+strat,2018,pl,2022,0,World
+Fardlang,2022,esolang,2022,0,South Korea and United States
+lila-lang,2019,pl,2019,0,Unknown
+HUGO,1995,pl,2021,0,Unknown
+BML,2007,xmlFormat,2007,0,Various
+coherence,2009,pl,2020,0,World
+Procfile,2012,pl,2012,1041,United States
+quorum,2013,pl,2022,0,United States
+USD,2016,pl,2016,0,World
+wescheme,2009,pl,2022,0,World
+Worst,2001,pl,2001,0,World
+Joyfully Universal Language for (Inline) Assembly,2016,pl,2016,0,United States
+LIFE,1987,pl,1987,0,United States
+Myghty,2006,pl,2006,59,United States
+UIML,2005,xmlFormat,2007,0,World
+Chomski,2007,pl,2008,0,World
+Visual Test,1992,pl,2006,0,World
+Argus,1982,pl,2010,0,United States
+GameMonkey Script,2002,pl,2004,0,Australia
+LiteScript,2013,pl,2020,0,Argentina
+Om,2012,pl,2022,0,Canada
+Avionics Architecture Design Language,2003,pl,2011,0,World
+Trellis,1985,pl,2004,0,World
+Kawa,1996,pl,2007,0,United States
+Data General Business Basic,1970,pl,2004,0,United States
+SnapTag,2011,barCodeFormat,2011,0,World
+Transaction Language 1,1984,pl,2004,0,World
+Gene transfer format,2006,textDataFormat,2006,0,United Kingdom
+MEDUSA,2002,pl,2009,0,United Kingdom
+ana,2018,pl,2022,0,World
+polyglot-compiler,2003,compiler,2022,0,United States
+Savi,2018,pl,2022,0,World
+Aztec C,1980,pl,2007,0,United States
+ΛProlog,1986,pl,2006,0,France
+Scratchpad,1971,pl,2004,0,World
+l2,2017,pl,2022,0,Unknown
+Vilnius BASIC,1986,pl,2004,0,World
+Jisp,2014,pl,2015,0,Unknown
+mys,2020,pl,2022,0,Iran
+Integrated Data Store,1964,queryLanguage,1964,0,United States
+DYNAMO,1959,pl,2010,0,United States
+Eurisko,1978,pl,2014,0,United States
+RamdaScript,2016,pl,2018,0,United States
+hivemind,2015,pl,2022,0,Bulgaria
+Gforth,1992,pl,1992,0,Various
+mythryl,2006,pl,2022,0,Unknown
+tablam,2020,queryLanguage,2022,0,World
+Alma-0,1997,pl,2004,0,World
+CHILL,1980,pl,2004,0,Switzerland
+Abbreviated Test Language for All Systems,1984,pl,2002,0,World
+Ante,2013,esolang,2022,0,World
+Proteus,1998,pl,2011,0,Italy
+Rita,2019,pl,2022,0,Lithuania
+JSONScript,2016,pl,2022,0,United Kingdom
+CGOL,1973,pl,1973,0,United States
+ZENO,1995,pl,2004,0,United States
+Z,2019,pl,2022,0,World
+Little Implementation Language,1974,pl,2012,0,United States
+Daplex,1979,pl,2007,0,United States
+NXT-G,2006,pl,2011,0,Denmark
+vCard,1998,textDataFormat,1998,0,World
+h,2019,esolang,2022,0,Canada
+Blue,1977,pl,1977,0,United States
+pinto,2016,pl,2021,0,United States
+TAO,2020,dataNotation,2021,0,World
+nydp,2014,pl,2021,0,United States
+JLang,2016,pl,2016,0,Brazil
+Link,2021,pl,2022,0,United States
+lain,2017,pl,2017,0,Unknown
+luau,2020,pl,2020,0,United States
+Marine Trading Markup Language,2000,xmlFormat,2000,12,United Kingdom
+Trex,2001,grammarLanguage,2001,0,World
+z2,2015,pl,2019,0,World
+APL2,1984,pl,1984,0,Australia
+bioscript,2019,pl,2019,0,United States
+blue,2009,pl,2009,0,United States
+EFL,1979,pl,1979,0,United States
+Emerald,1987,pl,1987,0,United States and Denmark
+QCL,2005,pl,2005,0,Austria
+sora,2019,pl,2019,0,World
+specrtl,2011,pl,2011,0,World
+SubX,2019,assembly,2019,0,World
+B32 Business Basic,1986,pl,2004,0,New Zealand
+Sun Raster,1989,binaryDataFormat,1989,0,World
+UPIC,2018,pl,2018,0,World
+MAPPER,1960,pl,2006,0,United States
+WFL,1961,pl,2005,0,World
+AgentSpeak,1994,pl,2009,0,World
+BCX,1999,pl,2005,0,Unknown
+Cornell University Programming Language,1967,pl,2010,0,United States
+MacBASIC,1985,pl,2009,0,United States
+Jet Propulsion Laboratory Display Information System,1973,pl,2006,0,United States
+FastTrack Scripting Host,2006,pl,2012,0,Denmark
+PS-algol,1981,pl,2011,0,United Kingdom
+vivaldi,2015,pl,2019,0,World
+PascalABC.NET,2002,pl,2022,0,Russia
+kei,2019,pl,2022,0,Brazil and Belgium
+mages,2016,pl,2022,0,Germany
+BASICODE,1980,pl,2006,0,Netherlands
+Knowledge Query and Manipulation Language,1993,queryLanguage,2002,0,United States
+Harwell-Boeing file format,1989,textDataFormat,2009,0,United States
+SPITBOL,1971,pl,2003,0,United States
+Ikarus Scheme implementation,2007,pl,2007,0,United States
+LYaPAS,1964,pl,2008,0,Union of Soviet Socialist Republics or Russia
+ObjectLOGO,1993,pl,2008,0,United States
+SAOL,1999,pl,2006,0,World
+Southampton BASIC System,1960,pl,2009,0,World
+Extended ML,1985,pl,2004,0,United Kingdom
+BASIC-E,1976,pl,2006,0,United States
+UniVerse,1997,pl,2006,0,World
+Post production,1941,grammarLanguage,1941,0,United States
+6gunz,2018,pl,2022,0,New Zealand
+edgelisp,2008,pl,2022,0,Austria
+jonprl,2015,pl,2022,0,Denmark and United Kingdom and Australia and United States
+D data language specification,1994,queryLanguage,2005,0,United Kingdom
+CONVERT,1966,pl,2012,0,Mexico
+GeneXus,1988,pl,2005,0,Uruguay
+unseemly,2016,pl,2022,0,World
+txtzyme,2010,pl,2022,0,World
+typecobol,2015,pl,2022,0,World
+Alternate Instruction Set,2001,isa,2018,0,World
+loci,2013,pl,2022,0,United Kingdom
+r4,2009,pl,2022,0,Argentina
+Lava,2001,pl,2005,0,Germany
+ScriptBasic,1999,pl,2002,0,World
+Fenix Project,2006,pl,2010,0,United States
+BASIC09,1978,pl,2002,0,World
+Encore,2014,pl,2022,0,World
+Brain-Flak,2016,esolang,2018,0,Unknown
+R++,1990,pl,2006,0,World
+ktexteditor-editor,2014,editor,2022,0,Germany
+hrqr,2015,barCodeFormat,2022,0,United States
+Election Markup Language,2001,xmlFormat,2008,0,United States
+RenderMan Shading Language,1989,pl,2006,0,United States
+DragonBASIC,2003,pl,2022,0,United States
+Langage Sans Espoir,1971,pl,2007,0,France
+fp,2022,pl,2022,0,Finland
+Flapjax,2006,pl,2022,0,United States
+Little b,2004,pl,2021,0,United States
+CheetahTemplate,2001,template,2005,0,Various
+Lithe,1982,pl,2004,0,United States
+Plaid,2009,pl,2022,0,United States
+adamant,2018,pl,2021,0,World
+nianiolang,2015,pl,2019,0,United States
+flua,2012,pl,2018,0,Japan or Korea
+Ferite,2000,pl,2000,0,World
+KAML,2018,dataNotation,2020,0,Switzerland
+Kami,2022,textMarkup,2022,0,Unknown
+alan,2018,pl,2018,0,World
+avro,2012,idl,2012,0,Various
+beautiful-report-language,2003,pl,2003,0,World
+Copilot,2021,pl,2021,0,United States
+MathLingua,2019,pl,2019,0,United States
+Nasal,2002,pl,2002,12,United States
+plantuml,2010,textMarkup,2022,0,United States
+s-lang,1992,pl,1992,0,World
+Sweet Expressions,2013,dataNotation,2013,0,World
+verve,2017,pl,2020,0,World
+CP,1987,pl,1987,0,United States
+Darcs Advanced Revision Control System,2003,application,2003,0,United States
+rise,2020,pl,2020,0,United Kingdom
+SHIFT,1997,pl,1997,0,World
+webql,2001,queryLanguage,2001,0,World
+Continuity of Care Record,2007,xmlFormat,2007,0,United States
+AUI,2002,pl,2003,0,Canada
+Amigas,1989,pl,2011,0,World
+SPIP,1977,pl,2007,0,World
+Hopscotch,2016,pl,2016,0,United States
+Nomad software,1976,pl,2005,0,United States
+Visual Smalltalk Enterprise,1992,pl,2006,0,World
+PV-Wave,1988,pl,2008,0,World
+APLX,1985,pl,2004,0,United Kingdom
+ABSET,1969,pl,2002,0,United Kingdom
+Agora,1993,pl,2004,0,World
+MapBasic,1997,pl,2016,0,United States
+TMG,1968,grammarLanguage,2012,0,World
+Bounce,2016,pl,2022,0,World
+Pascal Script,2000,pl,2000,0,United States
+ircis,2019,esolang,2022,0,Germany
+Elliott ALGOL,1962,pl,2004,0,United Kingdom
+SNOOP,1988,pl,2005,0,World
+Concurrent ML,1993,pl,1993,0,United States
+DML,1992,pl,2004,0,Sweden
+THINK C,1986,pl,2006,0,World
+OpenROAD,1990,pl,2006,0,United States
+GUIDO music notation,1998,textDataFormat,1998,0,Germany and Canada
+SIMPL,1990,pl,2012,0,World
+EasyLanguage,1995,pl,2009,0,United States
+Data Catalog Vocabulary,2014,schema,2014,0,World
+Meta II,1962,grammarLanguage,1963,0,United States
+Omnis Studio,1982,pl,2006,0,World
+V,2016,esolang,2019,0,Unknown
+Easy Programming Language,2004,pl,2004,0,China
+Systems Biology Markup Language,2006,xmlFormat,2006,0,World
+ITL,1981,pl,2003,0,United States
+Protel,1975,pl,2007,0,Canada
+Agilent VEE,1991,pl,2016,0,United States
+Digital Interactive Business Oriented Language,1970,pl,2004,0,United States
+lambda-zero,2018,pl,2022,0,United States
+Algebraic Logic Functional,1990,pl,2004,0,Germany
+Onyx,1989,pl,2005,0,Unknown
+D4,2001,pl,2005,0,Unknown
+zl,2012,pl,2021,0,World
+Texy!,2004,textMarkup,2022,0,World
+Alphard,1974,pl,2005,0,World
+OpenComal,2006,pl,2022,0,The Netherlands
+nylo,2017,pl,2021,0,Italy
+CLiX markup,1998,xmlFormat,1998,0,England
+LEAP,1969,pl,2004,0,United States
+orca,1985,pl,2021,0,Korea
+RTF,1987,textMarkup,1987,966,World
+rpscript,2018,pl,2022,0,World
+awl,2014,pl,2021,0,United States
+juicy,2017,pl,2019,0,New Zealand
+leaf,2013,pl,2022,0,Unknown
+RapidBatch,2017,pl,2022,0,Germany
+starpial,2012,pl,2020,0,World
+kerf,2015,pl,2022,0,United States
+GolfScript,2007,esolang,2007,0,United States
+Indental,2017,dataNotation,2017,0,Unknown
+LES,2012,grammarLanguage,2012,0,Canada
+The New Hampshire X Format,1999,textDataFormat,1999,0,United States
+Patient-Oriented Prescription Programming Language,2015,pl,2015,0,United States
+PromQL,2014,queryLanguage,2014,0,Germany
+slim,2010,pl,2022,0,World
+srv,2010,idl,2010,0,World
+Eden,1995,pl,1995,0,Germany and Spain
+emoticon,2004,esolang,2004,0,"Scotland, United Kingdom"
+kivy-lang,2010,pl,2010,0,Various
+mmix,1999,assembly,1999,0,Germany
+Red,1972,pl,1972,0,United States
+Structured Control Language,1998,pl,1998,0,World
+ALGOL N,1967,pl,2004,0,World
+Galaksija BASIC,1983,pl,2006,0,United States
+APSE,1980,pl,2004,0,United States
+String diagram,2007,notation,2007,0,World
+Intuit Interchange Format,2004,textDataFormat,2004,0,United States
+PALASM,1980,pl,2004,0,United States
+WOL,1997,pl,2004,0,World
+Framework office suite,1983,pl,2003,0,United States
+Star,2021,pl,2022,0,World
+Jazz,2019,pl,2022,0,Uzbekistan
+Twelf,2006,pl,2006,0,World
+TASM,1989,pl,1989,0,World
+Tosh,2015,pl,2022,0,World
+Statsplorer,2014,visual,2021,0,World
+FpgaC,1996,pl,2006,0,Canada
+Object-Z,1991,pl,2004,0,Australia
+SYMPL,1970,pl,2006,0,United States
+Basic4GL,2002,pl,2007,0,New Zealand
+GNU E,1991,pl,2010,0,United States
+Nested Context Language,2000,xmlFormat,2005,0,Brazil
+SAM76,1970,pl,2006,0,United States
+SuperTalk,1989,pl,2009,0,World
+CommonLoops,1986,pl,2006,0,United States
+CA-Realizer,1992,pl,2007,0,United States
+FLACC,1977,pl,2005,0,United States
+Object Oberon,1990,pl,2004,0,Switzerland
+Ramis software,1960,pl,2007,0,United States
+Batari Basic,2007,pl,2010,0,United States
+Bywater BASIC,1992,pl,2003,0,Canada
+NorthStar BASIC,1977,pl,2010,0,United States
+Todotxt,2006,dataNotation,2006,0,World
+Visual DataFlex,1982,pl,2004,0,World
+Rexon,1978,pl,2007,0,United States
+Structured Product Labeling,2004,xmlFormat,2004,0,World
+aplette,2014,pl,2021,0,World
+RuleML,2002,pl,2005,0,World
+GARP,1988,pl,2006,0,United States
+CS-Script,2004,pl,2013,0,Australia
+PROIV,1976,pl,2004,0,United Kingdom
+SLIP,1960,pl,2006,0,World
+DEMOS,1978,pl,2006,0,Canada
+Flex language,1967,pl,2013,0,United States
+AlphaBasic,1976,pl,2005,0,World
+BASIC-11,1976,pl,2006,0,United States
+mycroft,2013,pl,2022,0,United States
+glush,2019,grammarLanguage,2022,0,Norway
+Taijilang,2014,pl,2015,0,Unknown
+ralph,2010,pl,2022,0,Canada
+CMU Common Lisp,1980,pl,1980,0,United States
+Common Lisp with Arc Macros and Procedures,2014,pl,2022,0,United States
+I,2012,pl,2022,0,United States
+TOM,2001,pl,2008,0,World
+Langage Implementation Systeme,1980,pl,2007,0,France
+rainbow,2009,pl,2022,0,United States
+fjs,2013,pl,2022,0,United States
+phorth,2016,pl,2022,0,United States
+z-lang,2019,pl,2022,0,World
+PLEXIL,2005,pl,2008,0,World
+WCPS,2008,pl,2008,0,World
+BRUIN,1968,pl,2005,0,United States
+icarus,2015,pl,2020,0,Australia
+Ham,2013,pl,2013,0,Canada
+DIANA,1980,ir,2008,0,United States
+WSFN,1983,pl,2008,0,World
+badlanguage,2017,pl,2021,0,Australia
+rel-lang,2015,pl,2017,0,United States
+KonsolScript,2005,pl,2010,0,Canada
+gintonic,2018,queryLanguage,2022,0,Norway
+jedlang,2015,pl,2019,0,Unknown
+blur-markup-language,2017,textMarkup,2022,0,United States
+formality,2019,pl,2021,0,Unknown
+ramen,2017,pl,2022,0,Germany
+ASP.NET,2002,pl,2002,543,World
+corescript,2018,pl,2020,0,Germany
+MathML,1998,xmlFormat,1998,0,United States
+Namespace Routing Language,2003,xmlFormat,2003,0,Thailand
+lezer,2019,grammarLanguage,2022,0,Germany
+emesh,2014,esolang,2016,0,Israel
+flownote,2019,pl,2019,0,United States
+oopsilon,2017,esolang,2017,0,Scotland
+U,2013,pl,2021,0,World
+elegance,2017,pl,2018,0,United States
+albatross,2015,pl,2015,0,World
+empirical,2019,pl,2019,0,United States
+hecl,2004,pl,2004,0,United States
+qed-lang,2015,pl,2015,0,United States
+Slick,2020,pl,2021,0,World
+Bossam Rule Language,2004,queryLanguage,2004,0,South Korea
+CSL,1966,pl,1966,0,United States and United Kingdom
+phylip,1991,textDataFormat,1991,0,United States
+Public Key File,1995,application,1995,0,United States
+REALBasic (now Xojo),1996,pl,1996,17,United States
+Standard for Exchange of Non-clinical Data,2002,standard,2016,0,World
+VAL,1980,pl,2008,0,World
+Robot Battle,1994,pl,2004,0,United States
+INFER,1992,pl,2004,0,United States
+S/SL,1980,pl,2004,0,Canada
+ALCOR,1959,pl,2006,0,World
+Larceny Scheme implementation,2017,pl,2017,0,United States
+Acornsoft Logo,1985,pl,2011,0,World
+Napier88,1989,pl,2006,0,Scotland
+Tymshare SuperBasic,1968,pl,2016,0,World
+eco-editor,2012,editor,2022,0,United Kingdom
+sham,2016,grammarLanguage,2022,0,World
+Dexterity,1991,pl,1991,0,United States
+DARPA Agent Markup Language,1999,xmlFormat,1999,0,United States
+PASCAL/MT+,1988,pl,1988,0,United States
+LIMDEP,1980,pl,1980,0,United States
+SASL,1972,pl,2004,0,World
+Atom,2007,pl,2009,0,World
+grid-notation,2013,textDataFormat,2022,0,United States and Finland
+fork-lang,2014,pl,2022,0,Italy
+MewMew,2020,esolang,2022,0,India
+Snit,2002,pl,2018,0,World
+NCAR Command Language,1990,pl,2016,0,United States
+Khepri,2012,pl,2015,0,United States
+Typographical Number Theory,1979,notation,1979,0,World
+SISC,2007,pl,2007,0,World
+Scheme 2-D,2021,pl,2022,0,World
+Secure Operations Language,1970,pl,2006,0,World
+UNCOL,1958,ir,2004,0,World
+sugartex,2018,textMarkup,2020,0,World
+Alpha,1971,pl,2006,0,World
+ALTRAN,1968,pl,2005,0,United States
+PowerHouse,1988,pl,2006,0,United States
+ed,1973,editor,1973,0,World
+y-lang,2019,pl,2022,0,World
+Calypso,2020,pl,2022,0,Unknown
+Mama,2010,pl,2010,0,Israel
+ZigZag,1965,knowledgeBase,1965,0,World
+Actor,1988,pl,1988,0,World
+Gello Expression Language,2001,pl,2001,0,United States
+OMeta,2007,grammarLanguage,2007,0,United States
+NPL,1977,pl,1977,0,United Kingdom
+SR,1988,pl,2008,0,World
+IFPS,1970,pl,2007,0,United States
+Matita,1999,pl,1999,0,Italy
+Abstract State Machine Language,2001,pl,2006,0,World
+CA-Telon,1981,pl,2006,0,United States
+Lynx,1984,pl,2001,0,United States
+PIKT,1998,pl,2007,0,United States
+Snowball,1971,pl,2006,0,World
+whack,2018,pl,2022,0,World
+Distributed Application Specification Language,1999,pl,2007,0,United States
+preforth,2018,pl,2022,0,Germany
+Smalltalk MT,1994,pl,2007,0,World
+MINC,1985,pl,2004,0,United States
+OWBasic,2000,pl,2010,0,Germany
+Phoenix Object Basic,2001,pl,2002,0,United States and The Netherlands
+Occam π,2005,pl,2006,0,United Kingdom
+quaint-lang,2015,pl,2021,0,Bulgaria
+Gauche Scheme implementation,1998,pl,2018,0,United States
+Ecological Metadata Language,1997,xmlFormat,2005,0,United States
+muMath,1978,pl,2004,0,United States
+PALcode,1996,isa,2006,0,United States
+PICT,1992,pl,2006,0,United Kingdom
+YAP,1985,pl,2013,0,World
+IBM HAScript,1990,pl,2004,0,United States
+PL-11,1971,pl,2004,0,Switzerland
+ROOP,1995,pl,2004,0,China
+ZOPL,1979,pl,2006,0,United States
+Kermeta,2012,pl,2012,0,France
+FX-87,1987,pl,2002,0,United States
+JAWS Scripting Language,2008,pl,2011,0,United States
+MacroML,2001,pl,2005,0,United States
+remix,2016,pl,2022,0,United States
+ShEx,2012,grammarLanguage,2013,0,World
+Business Object Notation,1989,notation,2005,0,United States
+CYBIL,1980,pl,2011,0,United States
+Datapoint's Advanced Systems Language,1982,pl,2004,0,United States
+FORMAC,1993,pl,2005,0,United States
+neutron,2019,pl,2022,0,Canada
+emerald-lang,2019,pl,2022,0,United States
+tibet,1997,framework,2022,0,World
+Ad-hoc,2017,pl,2019,0,World
+polymath,2020,textMarkup,2022,0,Unknown
+Edina,2022,pl,2022,0,Germany
+rocket,2018,pl,2019,0,United States
+Jammy,2021,pl,2021,0,Unknown
+nlpl,2018,pl,2021,0,Mexico
+lsd,2016,textMarkup,2019,0,Unknown
+Calc4,2018,pl,2022,0,Japan
+eskew,2019,pl,2021,0,United States
+Serious,2021,pl,2022,0,Unknown
+boa,2013,plzoo,2013,0,Slovenia
+c-talk,1999,pl,1999,0,Russia
+Freefem,2000,pl,2022,0,France
+hilbert,2014,pl,2014,0,Japan and Canada
+Lush,2002,pl,2002,0,World
+Pickle,1995,binaryDataFormat,1995,0,United States
+pikachu,2017,esolang,2017,0,Unknown
+Spice,2021,pl,2021,0,World
+ttsneo,2006,pl,2006,0,Japan
+Typoscript,1998,dataNotation,1998,0,World
+Algae,1997,pl,1997,0,World
+ASCII Armor,2007,textEncodingFormat,2007,0,World
+Homespring,2003,pl,2003,0,United States
+PLAIN,1976,pl,1976,0,The Netherlands and United States
+Post-X,1980,grammarLanguage,1980,0,Australia
+prompter,2011,pl,2011,0,United Kingdom
+ssl-lang,1976,pl,1976,0,World
+Squire,2021,pl,2022,0,World
+Subtext,2005,pl,2009,0,World
+CAL Actor Language,2001,pl,2001,0,United States
+FuzzyCLIPS,1995,knowledgeBase,2011,0,Canada
+Tektronix 4050,1980,pl,2004,0,World
+IBM 1401 Symbolic Programming System,1959,compiler,2007,0,United States
+Information Algebra,1962,pl,2006,0,United States
+PVS,1992,pl,1992,0,United States
+Real-time Cmix,1992,pl,2004,0,United States
+Strand,1989,pl,2006,0,World
+Actor-Based Concurrent Language,1986,pl,2007,0,World
+SBASIC,1983,pl,2016,0,World
+Tiger-BASIC,1986,pl,2010,0,World
+IBM Rational SQABasic,1996,pl,2009,0,United States
+High Tech BASIC,1988,pl,2007,0,United States
+Mentat,1987,pl,1987,0,United States
+BlazeX,2020,pl,2022,0,Unknown
+setlx,2011,pl,2022,0,World
+Knight,2021,pl,2022,0,United States
+Hook,2021,pl,2022,0,Brazil
+Hummingbird QuickScript,1990,pl,2012,0,Canada
+Stratego/XT,1998,grammarLanguage,1998,0,World
+DAML+OIL,2001,pl,2006,0,United States
+SIMPLE,1980,pl,2014,0,World
+XCore Architecture,2007,isa,2009,0,World
+Advanced Continuous Simulation Language,1967,pl,2006,0,World
+Averest,2005,pl,2011,0,Germany
+EUMEL,1979,pl,2005,0,Germany
+Secure Scuttlebutt,2014,protocol,2014,0,World
+MathType,1987,application,2022,0,Spain
+flame-ir,2015,ir,2022,0,Canada
+toki sona,2021,pl,2022,0,World
+CokeScript,2015,pl,2022,0,Switzerland
+QED,1967,editor,1967,0,World
+Common Log Format,1995,textDataFormat,1995,0,World
+Ethernet,1973,protocol,1973,0,United States
+JPEG,1992,binaryDataFormat,1992,0,United States
+Open Financial Exchange,1997,xmlFormat,1997,0,United States
+patch,1985,unixApplication,1985,0,World
+ex,1978,editor,1978,0,World
+Mass Energy Equation,1905,equation,1905,0,World
+Autoconf,1991,configFormat,1991,0,Various	
+Interpress,1986,textMarkup,1986,0,United States
+XGMML,2006,pl,2006,0,World
+FILETAB,1966,pl,1986,0,United States
+Service Modeling Language,2009,pl,2009,0,World
+SA-C,1998,pl,2007,0,World
+BEFLIX,1963,pl,2006,0,United States
+Data Access Language,1990,pl,2005,0,United States
+CorVision,1986,pl,2006,0,United States
+IAL,1958,pl,2002,0,United States
+Joe-E,2004,pl,2009,0,United States
+O-Matrix,1994,pl,2006,0,United States
+CHIP,1985,pl,2006,0,Germany
+DATATRIEVE,1970,queryLanguage,2005,0,United States
+AIML,2001,dataNotation,2022,0,World
+System 2,2008,pl,2008,0,World
+AMBIT,1964,pl,2011,0,World
+Insitux,2021,pl,2022,0,United Kingdom
+o:XML,2002,pl,2004,0,United Kingdom
+Cane,2022,musicalNotation,2022,0,Ireland
+sill,2015,pl,2020,0,World
+Business application language,1974,pl,2006,0,United States
+IITRAN,1969,pl,2004,0,United States
+r3,2021,pl,2022,0,Argentina
+Tefkat,2004,pl,2006,0,World
+Compact Application Solution Language,1997,pl,2005,0,United States
+FXScript,2002,pl,2010,0,United States
+ProSet,1990,pl,2004,0,Germany
+Minilang,2016,interpreter,2022,0,Ireland
+runiq,2015,pl,2020,0,World
+20-GATE,1961,pl,2001,0,World
+Citrine,2014,pl,2014,0,The Netherlands
+PCrap,2021,pl,2022,0,Unknown
+RigC,2021,pl,2022,0,Poland
+Chika,2019,pl,2022,0,United Kingdom
+latte-js,2012,pl,2015,0,United Kingdom
+duro,2003,queryLanguage,2020,0,Unknown
+Lesma,2022,pl,2022,0,The Netherlands
+HuwCode,2018,pl,2022,0,United Kingdom
+penguor,2020,pl,2022,0,Unknown
+taxa,2014,pl,2021,0,World
+acorn-lang,2015,pl,2022,0,World
+newclay,2011,pl,2016,0,United States
+Idio,2015,pl,2022,0,World
+Mewl,2022,esolang,2022,0,India
+codeflow,2014,pl,2019,0,Unknown
+Storymatic,2022,pl,2022,0,Unknown
+Esoteric Reaction,2020,esolang,2022,0,Unknown
+Horse64,2020,pl,2022,0,Unknown
+passambler,2015,pl,2015,0,Belgium
+rockstar-rkt,2019,pl,2019,0,Unknown
+Workfl,2019,textMarkup,2021,0,World
+GamerLanguage,2021,pl,2021,0,United States
+Entropy,2021,esolang,2021,0,United States
+links,2016,pl,2016,0,World
+Loom,1987,knowledgeBase,1987,0,United States
+o42a,2010,pl,2010,0,Russia
+operon,2018,queryLanguage,2018,0,Finland
+Planguage,2001,dataNotation,2001,0,Norway
+runic,2017,template,2017,0,World
+SARL,2013,pl,2013,0,World
+Suneido,2000,pl,2022,0,Canada
+whalecalf,2000,grammarLanguage,2000,0,World
+DAS,1962,pl,1962,0,United States
+g-expressions,2012,pl,2012,0,Various
+Metaweb Query Language,2006,queryLanguage,2006,0,United States
+Newton,1977,pl,1977,0,Switzerland
+Pandora,1989,pl,1989,0,United Kingdom
+PSI,2013,pl,2013,0,Germany
+rapidgen-rpl,1983,pl,1983,0,United Kingdom
+rbscript,1996,pl,1996,0,World
+Rust HIR,2015,ir,2015,0,World
+WebAssembly Text Format,2015,pl,2015,0,World
+xduce,2003,pl,2003,0,World
+euboea,2018,pl,2019,0,World
+WLambda,2019,pl,2022,0,World
+zlang,2017,pl,2022,0,World
+Nuprl,1984,pl,1984,0,United States
+ABSYS,1966,pl,2002,0,World
+KL0,1982,pl,1986,0,Japan
+AIL,2016,ir,2022,0,World
+cql,1998,pl,2007,0,United States
+nulan,2012,pl,2021,0,Unknown
+QUTE,1986,pl,2014,0,Japan
+Hot Cocoa Lisp,2013,pl,2015,0,United States
+XDR Schema,1998,xmlFormat,1998,0,World
+Schema for Object-Oriented XML,1998,xmlFormat,1998,0,World
+LEXX,1985,editor,1985,0,United States
+COFFEE Cinema 4D,1992,pl,2006,0,Germany
+Visual DialogScript,2000,pl,2002,0,World
+Bayer Expressions,2018,dataNotation,2018,0,World
+ed script,1973,diffFormat,1973,0,World
+Datomic,2012,queryLanguage,2012,0,United States
+cytosol,2020,pl,2022,0,World
+IpTables Rope,2005,pl,2005,0,United Kingdom
+Sort Merge Generator,1951,pl,2007,0,World
+CLX,1985,pl,1985,0,Various
+Scriptol,2001,pl,2008,0,World
+Adenine,1999,pl,2007,0,World
+Lagoona,1997,pl,2005,0,United States
+TACPOL,1976,pl,2005,0,World
+MARIA XML,2009,xmlFormat,2011,0,Italy
+BBj,2001,pl,2001,0,United States
+BBx,1985,pl,1985,0,United States
+Yakou Lang,2021,pl,2022,0,World
+Typecast.js,2013,pl,2014,0,United States
+Curly,2021,pl,2022,0,Unknown
+Rye,2019,pl,2022,0,World
+R2ML,2003,xmlFormat,2003,0,Germany
+JSML,2001,xmlFormat,2004,0,United States
+SYMBOLIC ASSEMBLY,1956,assembly,1956,0,World
+SheerPower4GL,2000,pl,2006,0,World
+FleXML,2001,pl,2005,0,France
+GRML,2003,pl,2005,0,World
+Robic,1975,pl,2010,0,Former USSR
+ThingLab,1979,pl,2006,0,World
+51forth,1980,pl,2001,0,World
+Concurrent METATEM,1993,pl,2009,0,United Kingdom
+LispMe,2008,pl,2008,0,Germany
+Met-English,1950,pl,2005,0,United States
+ObjectPAL,1993,pl,2002,0,United States
+Tag Line Commands,2015,pl,2022,0,Unknown
+daonode,2011,pl,2015,0,Unknown
+RustScript,2021,pl,2022,0,World
+mawk,1991,pl,1991,0,Unknown
+shadama,2017,pl,2021,0,World
+rio,2017,pl,2022,0,United States
+RicScript,2019,pl,2022,0,World
+RunRev,2003,pl,2016,0,World
+XMTC,1990,pl,2007,0,World
+APE100,1995,pl,2011,0,Italy
+BasicX,1998,pl,2006,0,United States
+RASP,1988,pl,2016,0,Yugoslavia
+CaPSL,1989,pl,2009,0,Japan
+CorbaScript,1998,pl,2011,0,France
+Bizubee,2015,pl,2017,0,United States
+KavaScript,2021,pl,2022,0,Canada
+Octune,2021,pl,2022,0,Canada
+Baby modula-3,1993,pl,2018,0,United States
+Hbasic,2007,pl,2007,0,Germany
+mlpolyr,2016,pl,2021,0,France
+Multi-user BASIC,1980,pl,2006,0,United States
+Riff,2020,pl,2022,0,World
+GeoGebra,2001,application,2022,0,Austria
+Cotton,2021,pl,2022,0,Unknown
+ForthScript,2020,pl,2022,0,Unknown
+lamderp,2013,pl,2013,0,Canada
+Iode,2015,pl,2020,0,Canada
+PearScript,2016,pl,2016,0,Malta
+woe,2009,pl,2021,0,World
+H++,2013,pl,2019,0,Dominican Republic
+Jingo,2020,pl,2022,0,United Kingdom
+Hina,2020,pl,2021,0,Unknown
+microl,2021,pl,2022,0,Russia
+Fern,2022,pl,2022,0,Canada
+MeanscriptCLI,2020,pl,2021,0,Unknown
+cosh,2022,pl,2023,0,World
+mountain,2019,pl,2022,0,Unknown
+lambcalc,2019,pl,2019,0,Canada
+Broccoli,2020,pl,2020,0,Unknown
+draconian,2021,pl,2022,0,United States
+mai,2019,pl,2020,0,Egypt
+8th,2014,pl,2022,0,World
+arvelie-format,2017,timeFormat,2017,0,Unknown
+converge,2004,pl,2004,0,United Kingdom
+Flare,2001,pl,2001,0,World
+michelson,2017,pl,2017,0,United States
+MINI OBJECT-ORIENTED LANGUAGE,2010,pl,2010,0,Portugal
+plasma,2015,pl,2017,0,Australia
+Timpani,2017,textMarkup,2017,0,World
+AArch64,2011,assembly,2011,0,World
+CLASS,1970,pl,1970,0,United States
+Edison,1992,pl,1992,0,France
+Electre,1983,pl,1983,0,France
+EverParse3D,2022,idl,2022,0,World
+GRIN,1977,pl,1977,0,Switzerland
+guru,2009,pl,2009,0,United States and Spain
+iikuse,2010,esolang,2010,0,Unknown
+manticore,2009,pl,2009,0,United States
+Nelua,2019,pl,2019,0,United States
+PLEASE,1984,pl,1984,0,United States
+Seq,2019,pl,2019,0,World
+strudel,2011,textDataFormat,2011,0,World
+V,1997,pl,1997,0,World
+XML Query Language,1998,queryLanguage,1998,0,World
+xt3d,2000,grammarLanguage,2000,0,World
+MathJax,2008,textMarkup,2022,0,United States
+nirvana,2018,pl,2019,0,World
+truck,2019,pl,2022,0,World
+X-BASIC,1987,pl,2005,0,World
+t-lang,2019,pl,2022,0,World
+Xupdate,2000,pl,2006,0,World
+LSP,2016,protocol,2016,0,World
+root-format,1994,binaryDataFormat,1994,0,Switzerland
+DomainKeys Identified Mail,2004,standard,2004,0,United States
+GHC,1992,compiler,1992,0,Scotland
+JMAP,2019,protocol,2019,0,United States
+PSYCO,2007,grammarLanguage,2007,0,Switzerland
+alfred,1972,pl,2010,0,World
+Boost C++ libraries,1998,library,2022,0,Interstellar Space
+Docker,2013,application,2022,0,United States
+parquet,2014,binaryDataFormat,2014,0,United States
+Linoleum (L.in.oleum),1996,pl,1996,0,Italy
+GraphQL+-,2017,queryLanguage,2017,0,United States
+mockingbird-notation,1996,notation,1996,0,Australia
+kernel,2009,pl,2009,0,United States
+Soulver,2005,editor,2005,0,World
+Sourcetree,2010,application,2010,0,USA
+ADS-B,2006,standard,2006,0,World
+Bit array,2004,dataStructure,2004,0,World
+Fast Fourier Transform Equation,1965,equation,1965,0,World
+Feynman diagram,1948,notation,1948,0,World
+SPARQCode,2010,barCodeFormat,2010,0,World
+Sender Policy Framework,2000,standard,2000,0,World
+ALOHAnet,1971,protocol,1971,0,World
+CueCat,2000,barCodeFormat,2000,0,World
+Visual J++,1996,pl,1996,0,World
+MonoDevelop,2003,editor,2003,0,World
+SK8,1988,pl,1988,0,World
+Vienna Development Method Specification Language,1996,pl,1996,0,World
+Address,1955,pl,1955,0,World
+AFS,1982,filesystem,1982,0,World
+Ampère's Circuital Equation,1961,equation,1961,0,World
+Apple I,1976,computingMachine,1976,0,United States
+Atom,2014,editor,2014,0,United States
+Steinberg Cubase,1989,application,1989,0,Germany
+HCCB,2007,barCodeFormat,2007,0,United States
+HLASM,1992,assembly,1992,0,World
+IMac,1998,computingMachine,1998,0,United States
+Ingres database,1974,database,1974,0,United States
+IPad,2010,computingMachine,2010,0,United States
+IPhone,2007,computingMachine,2007,0,United States
+IPv4,1984,protocol,1984,0,United States
+Language H,1962,pl,1962,0,United States
+MacBook Air,2008,computingMachine,2008,0,United States
+Macintosh,1984,computingMachine,1984,0,United States
+MP3,1993,binaryDataFormat,1993,0,Germany
+OpenDoc,1993,protocol,1993,0,United States
+PL/I,1981,pl,1981,0,World
+Price Equation,1967,equation,1967,0,United Kingdom
+Set-builder notation,1942,notation,1942,0,World
+Sprite Operating System,1984,os,1984,0,World
+COM Structured Storage,2010,binaryDataFormat,2010,0,World
+SYBYL line notation,1997,textDataFormat,1997,0,World
+Wiswesser line notation,1949,textDataFormat,1949,0,World
+Information Theory Equation,1948,equation,1948,0,United States
+InterPlanetary File System,2015,protocol,2015,0,United States
+nroff,1972,textMarkup,1972,0,World
+PHIGS,1988,library,1988,0,United States and Switzerland
+PNG,1996,binaryDataFormat,1996,0,United States
+QFX file format,1997,textDataFormat,1997,0,United States
+Razor,2010,template,2010,0,United States
+Schoonschip,1963,pl,1963,0,World
+Setun,1958,computingMachine,1958,0,World
+SQUOZE,1958,binaryDataFormat,1959,0,World
+STRINGCOMP,1967,pl,2009,0,World
+WATBOL,1969,compiler,2011,0,World
+ALGOL X,1963,pl,1963,0,World
+Energy Momentum Equation,1928,equation,1928,0,World
+HEIC,2015,binaryDataFormat,2015,0,Italy
+Lincos,1961,notation,1961,0,United States
+Molecular Query Language,2007,queryLanguage,2007,0,Germany
+Semi-Thue,1914,grammarLanguage,1914,0,World
+SHRDLU,1968,application,1968,0,World
+Superplan,1951,pl,1951,0,Germany
+Advice Taker,1958,pl,1958,0,World
+BBN-LISP,1960,pl,1960,0,United States
+eqn,1974,textMarkup,1974,0,United States
+GENSTAT,1968,application,2017,0,United Kingdom
+HyperFun,1999,pl,2002,0,Various
+Kyma,1986,pl,1986,0,United States
+Macintosh Common Lisp,1984,pl,1984,0,United States
+Object Definition Language,1991,pl,1991,0,United States
+ObjVlisp,1984,pl,1984,0,France
+PM2,1989,pl,2005,0,France
+Prolog++,1994,pl,1994,0,United Kingdom
+FLANG,1988,pl,1988,0,Various
+General Activity Simulation Program,1961,pl,1961,0,United States
+Iota-and-jot,2001,esolang,2001,0,United States
+Little Smalltalk,1987,pl,1987,0,United States
+Optimization Programming Language,1999,pl,1999,0,United States
+Parasolid,2000,application,2000,0,United States
+Shared Dataspace Language,1988,pl,1990,0,World
+DAD,2015,pl,2015,0,Canada
+Gofer,1994,pl,1994,0,United States
+Programming Language for the University of Maryland,1978,pl,2016,0,United States
+Interscript,1984,textMarkup,1984,0,United States
+ISO 8601,1988,standard,2022,0,Switzerland
+Nyquist,1997,pl,1997,0,United States
+Rosetta-2,2006,pl,2006,0,United State
+Definite clause grammar,1980,grammarLanguage,1980,0,World
+Language for Your Remote Instruction by Computer,1966,pl,2003,0,Unknown
+ZPL,1993,pl,1993,0,World
+Swym,2012,pl,2017,0,Unknown
+LOGIN,1986,pl,1986,0,United States
+Bistro,1999,pl,1999,0,United States
+gfoo,2020,pl,2021,0,Unknown
+SMILES arbitrary target specification,1987,textDataFormat,1987,0,World
+Moescript,2012,pl,2012,0,China
+tridash,2018,pl,2021,0,World
+wats,2017,pl,2021,0,World
+weebasic,2021,pl,2022,0,Canada
+FutureScript,2015,pl,2021,0,Thailand
+TextFrame,2008,textMarkup,2021,0,World
+Broccoli,2008,pl,2018,0,United States
+stacklang,2018,pl,2021,0,World
+psyche,2018,pl,2022,0,Japan
+Broccoli,2022,esolang,2022,0,France
+clox,2020,pl,2022,0,Italy
+rlox,2004,pl,2022,0,Italia
+Biological Expression Language,2003,textDataFormat,2011,0,United States
+datev,2017,pl,2017,0,Germany
+dynamo-pm,2013,packageManager,2022,0,United States
+eta,2017,pl,2022,0,India
+foundry,2013,pl,2013,0,Nigeria
+grain,2017,pl,2022,0,United States and United Kingdom and France
+habit,2016,pl,2016,0,United States
+Linked Markdown,2022,textMarkup,2022,0,World
+liquidity,2017,pl,2022,0,France
+mypy,2012,pl,2022,0,United Kingdom
+NumPad,2022,editor,2022,0,United Kingdom
+package-control-pm,2014,packageManager,2022,0,United States
+ScriptEase,2001,pl,2001,0,World
+tablatal,2017,pl,2017,0,World
+Afnix,2003,pl,2003,0,World
+arrow,2015,pl,2015,0,World
+axt-format,2004,textDataFormat,2004,0,United States
+Browser Extensible Data Format,2004,textDataFormat,2004,0,United States
+DUEL,1993,pl,1993,0,United States
+EQS,1978,pl,1978,0,United States
+EZ,1984,pl,1984,0,United States
+Interleaved Notation,2022,pl,2022,0,New Zealand
+OASIS,1994,pl,1994,0,Denmark
+PAMELA,1992,pl,1992,0,The Netherlands
+System V ABI,1983,binaryExecutable,1983,0,World
+Titanium,1998,pl,1998,0,World
+w,2019,pl,2019,0,World
+Moby,1998,pl,1998,0,United States
+algobox,2011,pl,2020,0,France
+COMSOL Script,1998,pl,1998,0,United States
+Nosica,2002,pl,2002,0,France
+beagle,2019,pl,2022,0,World
+BitC,2004,pl,2004,0,World
+Boxx,2002,pl,2002,0,World
+Hyper Basic,1985,pl,1985,0,World
+MetaL,2001,pl,2001,0,World
+Monesa,2002,pl,2002,0,World
+Scieneer Common Lisp,2002,pl,2002,0,World
+Smalltalk YX,2007,pl,2007,0,World
+Tibbo BASIC,2000,pl,2000,0,World
+TouchDevelop,2012,pl,2012,0,World
+UJML,2000,pl,2000,0,World
+WinDev,1993,pl,1993,0,World
+Wlanguage,1992,pl,1992,0,World
+XProfan,1990,pl,1990,0,World
+Bigwig Programming Language,1998,pl,1998,0,World
+Deesel,2005,pl,2005,0,World
+Seph,2010,pl,2010,0,World
+Simkin,1995,pl,1995,0,World
+Timber,1999,pl,1999,0,World
+Micro-PROLOG,1980,pl,1980,0,United Kingdom
+Superx++,2001,pl,2007,0,World
+CHAIN,1981,pl,1981,0,United Kingdom
+Escapade,1977,pl,1977,0,Unknown
+Izibasic,2004,pl,2004,0,United States
+M,2008,pl,2008,0,United Kingdom
+Mocklisp,1981,pl,1981,0,United States
+Moonrock Basic Compiler,1994,pl,1994,0,Australia
+Omikron BASIC,1985,pl,1985,0,Germany
+PROC procedure language,1986,pl,1986,0,United States
+Bon,1967,pl,1967,0,United States
+Marmot,2000,pl,2000,0,United States
+Portal langage,1978,pl,1978,0,Switzerland
+PowerLanguage,1997,pl,1997,0,United States
+HTTP/3,2018,protocol,2018,0,United States
+MUSP,1960,pl,1960,0,United States
+NGL,2001,pl,2001,0,Unknown
+Klerer-May System,1964,pl,1964,0,United States
+Legal Knowledge Interchange Format,2007,xmlFormat,2007,0,The Netherlands
+OPL,1989,pl,1989,0,United Kingdom
+iScript,2008,pl,2008,0,United States
+SNOBOL4,1967,pl,1967,0,World
+tsar,2019,pl,2022,0,World
+RoyalScript,2016,pl,2017,0,United States
+dreamlisp,2019,pl,2021,0,World
+Tawa,2021,pl,2022,0,World
+Sugi,2021,pl,2022,0,World
+bag-format,2010,binaryDataFormat,2010,0,United States
+calc,2013,plzoo,2013,0,Slovenia
+clojars-pm,2009,packageManager,2022,0,New Zealand and United States
+cocoapods-pm,2011,packageManager,2022,0,Various
+cpan-pm,1995,packageManager,2022,0,Various
+crates-pm,2014,packageManager,2022,0,Various
+ctan-pm,1998,packageManager,2022,0,United States
+darklang,2019,pl,2022,0,United States
+dio,2020,pl,2020,0,World
+enso,2011,pl,2011,0,United States
+Extempore,2011,pl,2022,0,Unknown
+goose,2018,pl,2018,0,World
+grunt,2011,library,2022,0,Various
+imp-lang,2019,pl,2019,0,United States
+JMESPath,2013,pl,2022,0,United States
+juttle,2014,pl,2014,0,World
+kilo-lisp,2019,pl,2019,0,Germany
+lasp,2015,pl,2022,0,Belgium
+Leazy,1990,compiler,2022,0,United Kingdom
+melpha-pm,2014,packageManager,2022,0,France and Switzerland and United States
+PacmanConf,2019,configFormat,2019,0,Unknown
+Omega,2019,pl,2019,0,United States
+pgql,2016,pl,2022,0,United States
+PickCode,2021,visual,2022,0,United States
+PkgConfig,2000,configFormat,2000,0,United States
+plink-bed-format,2007,binaryDataFormat,2007,0,Various
+plumb,2014,pl,2014,0,Unknown
+powershell-gallery-pm,2014,packageManager,2022,0,United States
+PSeInt,2003,pl,2003,0,Argentina
+robotc,2005,pl,2022,0,United States
+rosie,2015,queryLanguage,2016,0,World
+versioned-text-markup-language,1999,textMarkup,1999,0,World
+ABEL,1979,pl,1979,0,World
+BOLT,1981,pl,1981,0,United States
+CCS,1999,pl,1999,0,United States
+Chimera,1994,pl,1994,0,Italy and The Netherlands
+Descartes,1983,pl,1983,0,United States
+DINO,1990,pl,1990,0,United States
+DLP,1992,pl,1992,0,United States
+HScript,1996,pl,1996,0,Canada
+Lila,2017,pl,2017,0,Belgium
+Lorel,1996,queryLanguage,1996,0,United States
+MDL,1992,pl,1992,0,Taiwan and United States
+PAISley,1982,pl,1982,0,United States
+Relational Data File,1965,queryLanguage,1965,0,World
+RAISE Specification Language,1992,pl,1992,0,World
+SCAN,1987,pl,1987,0,World
+Statement List,1993,assembly,1993,0,World
+Timeless Instruction Set (TL ISA),2022,isa,2022,0,Norway
+UnQL,2000,queryLanguage,2000,0,World
+WATFOR,1966,pl,1966,0,World
+Wikitax,2002,wikiMarkup,2002,0,World
+IT,1955,pl,1955,0,United States
+SQHTML,2022,pl,2022,0,United States
+Hedy,2020,pl,2020,0,World
+Floral,2020,pl,2020,0,World
+unlws,2010,notation,2010,0,World
+WebStorm,2010,editor,2010,0,World
+REC Studio,2010,decompiler,2010,0,World
+thune,2014,pl,2014,0,World
+BIPLAN,2017,pl,2017,0,Italy
+bytecode-modeling-language,2008,bytecode,2008,0,France and Poland
+coi-protocol,2019,protocol,2019,0,World
+Datalisp,2020,pl,2020,0,World
+Farcaster,2021,protocol,2021,0,World
+iqr,1994,barCodeFormat,1994,0,United States
+jedit-editor,1998,editor,1998,0,Various
+lunar,2017,pl,2017,0,World
+marten,1980,visual,1980,0,United States
+Nova,2019,editor,2019,0,United States
+PhpStorm,2011,editor,2011,0,Czech Republic
+Plush,2017,pl,2017,0,Canada
+resharper-editor,2004,editor,2004,0,Czechia
+rider-editor,2017,editor,2017,0,Czechia
+rsharp,2003,pl,2003,0,World
+ruby-mine-editor,2008,editor,2008,0,World
+scopes,2016,pl,2016,0,World
+solaris-pm,2004,packageManager,2004,0,World
+stx,1999,pl,1999,0,World
+tetruss-app,1996,application,1996,0,World
+unicon-adl,1996,pl,1996,0,World
+Vortex,2020,pl,2020,0,World
+aubit-4gl,2001,pl,2001,0,England and Wales
+AUR,2015,packageManager,2015,0,World
+bscript-interpreter,1999,interpreter,1999,0,World
+BScript,1999,pl,1999,0,World
+chicken-lang,2013,esolang,2013,0,World
+cixl,2018,pl,2018,0,World
+clickpath,2011,queryLanguage,2011,0,World
+Coral,2017,pl,2017,0,United States
+domino,1989,pl,1989,0,United States
+frtime,2004,pl,2004,0,United States
+hac,2007,pl,2007,0,United States
+hsaml-format,2013,xmlFormat,2013,0,United Kingdom
+Imandra Protocol Language,2017,pl,2017,0,United Kingdom
+klisp,1958,pl,1958,0,Germany
+kvsapi,2019,standard,2019,0,United States
+Lanai,2016,isa,2016,0,World
+lazarus-editor,2012,editor,2012,0,United States
+listdown,2017,textMarkup,2017,0,World
+Mascara,2009,pl,2009,0,Denmark
+Multihash,2017,hashFunction,2017,0,Various
+paperalgo,2014,notation,2014,0,Argentina
+powerloom-knowledgeBase,1999,knowledgeBase,1999,0,United States
+quicksight-app,2015,application,2015,0,United States
+rlmeta,2018,grammarLanguage,2018,0,Sweden
+sepi,2012,pl,2012,0,World
+shade,2012,pl,2012,0,World
+shml,2015,textMarkup,2015,0,World
+SmartGameFormat,1987,pl,1987,0,World
+SNBT,2011,pl,2011,0,World
+tab,2015,pl,2015,0,World
+tarot,2017,compiler,2017,0,World
+teal,1987,pl,1987,0,World
+underlay,2018,protocol,2018,0,World
+Vim Scripts,2001,packageManager,2001,0,World
+Visual Studio Marketplace,2015,packageManager,2015,0,World
+yinyang,2013,pl,2013,0,World
+Arturo,2019,pl,2019,0,World
+BRL,1997,pl,1997,0,United States
+business-rule-language,2012,pl,2012,0,World
+bx,1990,pl,1990,0,United States
+Cheri,2010,isa,2010,0,England
+ctalk,2006,pl,2006,0,United States
+dec64,2009,numeralSystem,2009,0,United States
+gemini-protocol,2020,protocol,2020,0,Various
+Gnome Basic,1999,pl,1999,0,United States
+google-data-studio-app,2016,application,2016,0,United States
+General purpose,2015,pl,2015,0,Germany
+helium,2003,pl,2003,0,The Netherlands
+holonforth,1989,pl,1997,0,Switzerland
+JuliaHub Packages,2014,packageManager,2014,0,Various
+MathWorks File Exchange,1997,packageManager,1997,0,United States
+miso-framework,2016,framework,2016,0,United States
+objective-modula-2,2009,pl,2009,0,Various
+qbe,2015,pl,2015,0,Unknown
+Radish,2022,pl,2022,0,United States
+readable-lisp,2013,pl,2013,0,United States
+redpanda-app,2009,application,2009,0,United States
+rhoscript,2013,pl,2013,0,World
+Restricted Python,2007,pl,2007,0,World
+sharpscript,2019,pl,2022,0,World
+sierra,2018,pl,2018,0,World
+slim-pl,1999,pl,1999,0,World
+smalltalkhub-pm,2011,packageManager,2011,0,World
+Boston College Statistical Software Components,1996,packageManager,1996,0,World
+tengo,2019,pl,2019,0,World
+tinygo-compiler,2018,compiler,2022,0,World
+Lambda Diagrams,2014,notation,2014,0,World
+uml2-sp,2018,pl,2018,0,World
+Wolfram Data Framework,2014,dataNotation,2014,0,World
+atomo,2010,pl,2022,0,World
+B3 IR,2016,ir,2016,0,World
+blank,2018,esolang,2018,0,Poland
+Blueprints,2014,visual,2014,0,United States
+C^3,2009,pl,2009,0,World
+c-smile,2002,pl,2002,0,Unknown
+calc_var,2013,plzoo,2013,0,Slovenia
+chaos-lang,2020,pl,2020,0,Various
+Cobol.NET,2002,pl,2002,0,United States
+coffeepp,2017,pl,2017,0,Germany
+Conan Center,2016,packageManager,2016,0,United States
+dart-pm,2011,packageManager,2011,0,United States
+dfns,2014,pl,2014,0,United Kingdom
+dss,2018,pl,2021,0,World
+Elm Packages,2012,packageManager,2012,0,United States and France
+emu,2019,pl,2019,0,United States
+fmj,2003,pl,2003,0,United States
+Genshi Text,2020,pl,2020,0,Sweden and Japan and United States and France and Germany and Switzerland
+GNU Linear Programming Kit,2000,library,2000,0,United States
+hackage-pm,2007,packageManager,2007,0,England
+High-Level Virtual Machine,2009,vm,2009,0,United Kingdom
+Kefir,2021,compiler,2021,0,Latvia
+klong,2015,pl,2015,0,Germany
+kogut,2004,pl,2004,0,Poland
+koi,2010,pl,2010,0,Canada
+lllpg,2012,library,2012,0,Canada
+Maven Central Repository,2018,packageManager,2018,0,Various
+minihaskell,2013,plzoo,2013,0,Slovenia
+miniprolog,2013,plzoo,2013,0,Slovenia
+mir,2015,ir,2015,0,United States
+mlite,2004,pl,2004,0,Germany
+Optimized Row Columnar,2016,binaryDataFormat,2016,0,United States
+piccola,2002,pl,2002,0,Switzerland
+Pursuit PureScript Package Repository,2014,packageManager,2014,0,Various
+pyke,2008,knowledgeBase,2008,0,Australia and United States
+Python Format Specification,2008,template,2008,0,United States
+ra,2015,pl,2015,0,World
+raco-pm,2012,packageManager,2012,0,Various
+redscript,2013,pl,2021,0,World
+retroforth,2000,pl,2004,0,United States
+The Synthetic Biology Open Language,2010,xmlFormat,2022,0,World
+sentient,2016,pl,2016,0,World
+seph,2013,pl,2013,0,World
+simit,2016,pl,2016,0,World
+singular,1987,pl,1987,0,World
+skookumscript,2004,pl,2022,0,World
+socialite,2015,pl,2015,0,World
+SOQL,2006,queryLanguage,2006,0,World
+souffle,2019,pl,2019,0,World
+soul,2000,queryLanguage,2000,0,World
+squiggle,2015,pl,2015,0,World
+sub,2013,plzoo,2013,0,World
+tern,2019,pl,2019,0,World
+terse,1986,assembly,1996,0,World
+tetra,2017,pl,2017,0,World
+texpr,2013,pl,2021,0,World
+thorn,2014,pl,2016,0,World
+tilton,2000,pl,2000,0,World
+typedefs,2017,grammarLanguage,2022,0,World
+Zoem,2005,pl,2005,0,World
+AIR,2016,ir,2016,0,World
+BUSH,2002,pl,2002,0,Canada
+chirp,2008,visual,2008,0,United States
+cloe,2018,pl,2018,0,World
+comm,2013,plzoo,2013,0,Slovenia
+CorelScript,1994,pl,1994,0,United States
+crack,2011,pl,2011,0,Unknown
+cran-pm,1993,packageManager,1993,0,Austria
+Descript,2018,pl,2018,0,United States
+D++,1999,pl,1999,0,United States
+DRAGOON,1989,pl,1989,0,Italy
+Emacs Lisp Package Archive,2016,packageManager,2016,0,United States
+envoy-app,2017,application,2022,0,Various
+flux-lang,2006,pl,2006,0,United States
+forthnet-pm,2010,packageManager,2010,0,Germany
+fox,2017,pl,2021,0,World
+GSQL,2015,pl,2015,0,United States
+Hex-Rays,2005,decompiler,2022,0,Belgium
+JSGF,1998,pl,1998,0,United States
+lambda,2013,plzoo,2013,0,Slovenia
+levy,2013,plzoo,2013,0,Slovenia
+loglo,2020,pl,2020,0,Canada
+Maplesoft Application Center,2004,packageManager,2004,0,Canada
+miniml,2013,plzoo,2013,0,Slovenia
+New AWK,1993,pl,1993,0,United States
+nimble-pm,2016,packageManager,2016,0,Various
+oforth,2009,pl,2009,0,Germany
+orca-lang,2014,pl,2014,0,Unknown
+polly,2016,template,2016,0,Unknown
+poly,2013,plzoo,2013,0,Slovenia
+popcorn-linux,1994,os,2012,0,United States
+PyPI,2015,packageManager,2015,0,Various
+raptor,2015,visual,2015,0,United States
+RQL,2017,pl,2017,0,World
+ru,2015,pl,2021,0,World
+shill,2014,pl,2014,0,World
+Smithy,2016,pl,2016,0,World
+SOSL,2006,queryLanguage,2006,0,World
+spark-pm,2014,packageManager,2022,0,World
+stringbean,2016,pl,2022,0,World
+subscript,2012,pl,2012,0,World
+Table Query Language,1997,queryLanguage,1997,0,World
+toadskin,2003,esolang,2003,0,World
+TWiki,1998,wikiMarkup,1998,0,World
+ugnis,2017,pl,2017,0,World
+Visual Logic,2005,visual,2022,0,World
+woofjs,2016,pl,2016,0,World
+xmpp-protocol,2003,protocol,2022,0,World
+Xoc,2008,compiler,2008,0,World
+zim-format,2009,binaryDataFormat,2022,0,World
+angr,2015,decompiler,2022,0,United States
+antha,2014,pl,2014,0,England
+arend,2019,pl,2019,0,Czech Republic
+Apache Arrow,2016,binaryDataFormat,2016,0,Various
+Binary Ninja,2015,decompiler,2022,0,United States
+bjou,2019,pl,2019,0,Unknown
+charly,2017,pl,2017,0,Switzerland
+circa,2012,pl,2020,0,United States
+cleanlang,2017,pl,2017,0,India
+cx,2015,pl,2021,0,Finland
+edgeql,2017,queryLanguage,2017,0,United States
+Elpi,2014,pl,2014,0,Unknown
+eno,2018,pl,2018,0,Unknown
+ForgeBox,2015,packageManager,2022,0,United States
+Ghidra,2019,decompiler,2022,0,United States
+glitch-editor,2017,editor,2022,0,United States
+GNS,2018,protocol,2018,0,Germany
+Header Dictionary Triples,2012,binaryDataFormat,2012,0,Spain
+helena,2017,pl,2017,0,United States
+hello,2015,pl,2015,0,World
+Hilltop,2018,pl,2018,0,Israel
+joker,2018,pl,2018,0,United States
+kate-editor,2000,editor,2022,0,Germany
+kima,2018,pl,2019,0,United Kingdom
+l,2013,pl,2013,0,Unknown
+min,2017,pl,2017,0,Italy
+neovim-editor,2015,editor,2022,0,Various
+neralie-format,2017,timeFormat,2017,0,Unknown
+none,2015,pl,2015,0,Germany
+Ordered graph data language,2002,textDataFormat,2002,0,Various
+onex,2014,application,2014,0,United Kingdom
+OpenSpice,2005,pl,2005,0,United Kingdom
+par,2018,pl,2018,0,United States
+pisc,2017,pl,2017,0,United States
+plink-bim-format,2007,textDataFormat,2007,0,Various
+plink-fam-format,2007,textDataFormat,2007,0,United States
+potential,2010,pl,2010,0,United States
+prodel,2014,pl,2014,0,Japan
+sdf-format,2012,xmlFormat,2022,0,World
+statebox,2008,visual,2022,0,World
+syndicate,2016,pl,2022,0,World
+Tea,2019,library,2019,0,World
+Typst,2022,textMarkup,2022,0,Germany
+urn,2017,pl,2022,0,World
+C∀,2018,pl,2018,0,Canada and China
+chartio-app,2010,application,2022,0,United States
+chocolatey-pm,2011,packageManager,2022,0,United States
+Clausal Language,1997,pl,1997,0,Slovakia
+ctr,2017,pl,2018,0,Unknown
+Dimensional Script,2012,notation,2022,0,China
+Fawlty,2006,pl,2006,0,United States
+goby,2017,pl,2017,0,Japan and Germany and United Kingdom and United States
+Hex,2014,packageManager,2022,0,Poland and Sweden and United States
+kayia,1999,pl,1999,0,Czech Republic
+ki,2014,pl,2014,0,Italy
+libsvm-format,2011,textDataFormat,2011,0,Taiwan
+luarocks-pm,2007,packageManager,2022,0,United States and Australia and Brazil
+mathematica-packagedata-pm,2015,packageManager,2022,0,Unknown
+merd,2002,pl,2002,0,France
+morfa,2015,pl,2015,0,Unknown
+nectar,2016,pl,2016,0,Spain
+np,2013,pl,2013,0,Germany
+NU-Prolog,1988,pl,1988,0,Australia
+panther-lang,2010,pl,2022,0,Various
+paxScript,2011,pl,2011,0,United States
+pliant,1999,pl,2001,0,France
+plink-map-format,2007,textDataFormat,2007,0,United States
+shakti,2019,pl,2022,0,World
+skew,2015,pl,2015,0,United States
+T3X,1995,pl,2022,0,World
+tiddler,2004,pl,2022,0,World
+Alma,1997,pl,1997,0,World
+AlpHard,1996,pl,1996,0,World
+BABEL,1990,pl,1990,0,Spain and Germany
+COPE,1977,pl,1977,0,Australia
+cT,1989,pl,1989,0,United States
+EDUCE,1986,pl,1986,0,Germany
+Friendly Enough Expression Language,2015,queryLanguage,2015,0,Germany
+gnu-rtl,1987,ir,1987,0,United States
+INQUIRE,1969,queryLanguage,1969,0,United States
+Lighttpd configuration file,2003,configFormat,2003,0,Germany
+MADCAP VI,1972,pl,1972,0,United States
+McLeyvier Command Language,1982,pl,1982,0,United States
+Modified Integration Digital Analog Simulator,1963,pl,1963,0,United States
+O++,1989,pl,1989,0,United States
+order,2003,pl,2003,0,United Kingdom
+Perfectscript,1995,pl,1995,0,World
+PO,2000,pl,2000,0,Italy
+PROSPER,1989,pl,1989,0,Poland and United States
+SBA,1977,pl,1977,0,World
+School,1990,pl,1990,0,World
+SNQL: A Social Network Query and Transformation Language,2011,queryLanguage,2011,0,World
+Spill,1997,pl,1997,0,World
+UnQL,2011,queryLanguage,2011,0,World
+WebGPU Shading Language,2020,pl,2020,0,World
+XE,1988,pl,1988,0,World
+XQL,1998,queryLanguage,1998,0,Japan
+Cish,2022,pl,2022,0,United States
+SIMAN,1983,pl,1983,0,World
+Zeta,2008,pl,2008,0,World
+SNOBOL3,1996,pl,1996,0,World
+Vienna Definition Language,1965,pl,1965,0,World
+CDL,1995,pl,1995,0,Germany
+FORTRAN 77,1977,pl,1977,0,United States
+ACCENT,1990,pl,1990,0,World
+Argos,1992,pl,1992,0,France
+BridgeTalk,1987,pl,1987,0,United States
+DDF,2016,dataNotation,2016,0,World
+DEMETER,1995,pl,1995,0,United States
+Dribble,2003,pl,2003,0,The Netherlands and United Kingdom
+ETC,1971,pl,1971,0,United States
+Fable,1983,pl,1983,0,United States
+Generic Expression Language,2008,textMarkup,2008,0,United States
+GLOSS,1971,pl,1971,0,United States
+Herbrand,1995,pl,1995,0,World
+JACL,1997,pl,1997,0,Germany
+KB,1990,pl,1990,0,United States
+LESK,1975,pl,1975,0,Canada
+Lisp Object-Oriented Programming System,1983,pl,1983,0,United States
+MENDEL,1985,pl,1985,0,Japan
+nML,1991,pl,1991,0,Germany
+Patchwork,1996,pl,1996,0,United States
+PLAN2D,1976,pl,1976,0,Germany
+Pluk,1995,pl,1995,0,The Netherlands
+Prolog Pack,2012,packageManager,2012,0,The Netherlands
+RLISP,1970,pl,1970,0,Former USSR or Russia
+SCROLL,1970,pl,1970,0,World
+sh,1971,pl,1971,0,World
+Tick C,1997,pl,1997,0,World
+Tiki Wiki Markup,2002,wikiMarkup,2002,0,World
+topaz,2011,pl,2011,0,World
+torchscript,2018,pl,2018,0,World
+Tutorial D,1994,queryLanguage,1994,0,World
+AMTRAN,1966,pl,1966,0,United States
+ANNA,1987,pl,1987,0,United States and Germany and Norway
+APL-GPSS,1988,pl,1988,0,The Netherlands
+aQasm,2017,assembly,2017,0,World
+Arc Assembly,1947,assembly,1947,0,United Kingdom
+bawk,1994,pl,1994,0,United States
+BIRD,2021,pl,2021,0,Czech Republic
+CDL++,1999,pl,1999,0,Germany
+CMIX,1980,pl,1980,0,United States
+COMMEN,1967,pl,1967,0,United States
+cooC,2000,pl,2000,0,Japan
+TypeScript Type Declarations,2012,headerLang,2012,0,United States
+EXPLAN,1994,pl,1994,0,Italy
+EXPLOR,1972,pl,1972,0,United States
+FORTRAN assembly program,1959,assembly,1959,0,United States
+FAR,2000,pl,2000,0,United States
+flowlog,2014,pl,2014,0,United States
+Giotto,2001,pl,2001,0,United States
+Hadoop Distributed File System,2011,filesystem,2011,0,United States
+Heron,2008,pl,2008,0,Unknown
+hoot-smalltalk,2018,pl,2018,0,United States
+IBEX,2002,pl,2002,0,United States
+IFO,1987,pl,1987,0,United States
+Knowledge Acquisition and Representation Language,1993,pl,1993,0,Germany
+L6,1963,pl,1963,0,United States
+LISP 1.5,1959,pl,1959,0,Canada
+Lorel,1974,pl,1974,0,Japan
+MADCAP,1960,pl,1960,0,United States
+MAPS,1993,pl,1993,0,United States
+MOOSE,1994,pl,1994,0,United States
+MSL,1977,pl,1977,0,United States
+NAKL,1982,pl,1982,0,United States
+NODAL,1972,pl,1972,0,Switzerland
+o2,1989,pl,1989,0,France
+OOPS+,1988,pl,1988,0,The Netherlands and Belgium
+PACTOLUS,1964,pl,1964,0,United States
+Pascal-XSC,1991,pl,1991,0,Germany
+Petr,1999,pl,1999,0,Czech Republic
+PopAsm,2003,pl,2003,0,Unknown
+PUFFT,1965,pl,1965,0,United States
+quexal,2007,esolang,2007,0,United States
+RATSNO,1977,pl,1977,0,United States
+Rapid Development and Maintenance Language,2005,pl,2005,0,United States
+rds-format,2011,binaryDataFormat,2011,0,United States
+Real-Time Concurrent C,1991,pl,1991,0,United States
+Real-Time Mentat,1989,pl,1989,0,United States
+Regina,2001,pl,2001,0,United States
+REGULUS,1977,pl,1977,0,Canada
+RPL,1988,queryLanguage,1988,0,United States
+RPT,1961,pl,1961,0,England
+SHADOW,1958,pl,1958,0,World
+SHEEP,1978,pl,1978,0,World
+SLANG,1960,pl,1960,0,World
+SPADE,2018,pl,2018,0,World
+SquidConf,1996,configFormat,1996,0,World
+TAO,1983,pl,1983,0,World
+Verse,2022,pl,2022,0,World
+Water,2002,template,2002,0,World
+xs,2019,pl,2019,0,World
+3D Logo,1986,pl,1986,0,World
+ABLE,1981,pl,1981,0,World
+ADAM,1964,pl,1964,0,World
+ALPAK,1963,pl,1963,0,World
+APACHE,1961,pl,1961,0,United States
+APL/HP,1986,pl,1986,0,Australia
+Arctic,1984,pl,1984,0,United States
+ARTSPEAK,1974,pl,1974,0,United States
+ASHMEDAI,1967,pl,1967,0,United States
+ASPOL,1973,pl,1973,0,United States
+Atomos,2006,pl,2006,0,United States
+Aurora,1988,pl,1988,0,Hungary
+AUTOLOFT,1962,pl,1962,0,United States
+Automator,2005,pl,2005,0,United States
+AUTOmatic PROgramming of Machine Tools,1961,pl,1961,0,United States
+B-LINE,1968,pl,1968,0,United States
+BACK,1988,pl,1988,0,Germany
+BaLinda Lisp,1996,pl,1996,0,Singapore
+baltazar,1993,pl,1993,0,The Czech Republic
+Barrel,1980,pl,1980,0,United States
+BASEBALL,1961,pl,1961,0,United States
+BASEL,1968,pl,1968,0,United States
+BEEF,1961,pl,1961,0,United States
+Berkeley DB,1991,library,1991,0,United States
+BETA Project,1961,grammarLanguage,1961,0,Russia
+Biferno,2003,pl,2003,0,World
+BIGMAC,1981,pl,1981,0,United States
+bigWig format,2009,binaryDataFormat,2009,0,United States
+BIGWIG,1998,pl,1998,0,Denmark
+Birkbeck Assembly,1947,assembly,1947,0,England
+BLAZE 2,1989,pl,1989,0,United States
+BrouHaHa,1987,pl,1987,0,England
+C flat,1991,pl,1991,0,United States
+CafeObj,1997,pl,1997,0,Japan
+CAJOLE,1978,pl,1978,0,England
+CCal,1987,pl,1987,0,United States
+CIRCAL,1985,pl,1985,0,Scotland
+CLANGER,1995,pl,1995,0,United Kingdom
+ClassiC,1998,pl,1998,0,United Kingdom
+CLEAR,1976,pl,1976,0,Scotland
+Coherent Parallel C,1988,pl,1988,0,United States
+COL,1989,pl,1989,0,France
+Combined Log Format,2002,textDataFormat,2002,0,World
+COMFY,1997,pl,1997,0,United States
+COMPUTEST,1964,pl,1964,0,United States
+COMSKEE,1973,pl,1973,0,Unknown
+Concurrent C++,1988,pl,1988,0,United States
+Concurrent Prolog,1983,pl,1983,0,Italy
+CONLAN,1980,pl,1980,0,United States and France and Germany and Japan
+Connection Machine LISP,1986,pl,1986,0,United States
+CONSIM,1977,pl,1977,0,United States
+CONSTRAINTS,1978,pl,1978,0,United States
+Consul,1981,pl,1981,0,United States
+CST,1988,pl,1988,0,United States
+CUBE,1992,pl,1992,0,United States
+CUPID,1975,pl,1975,0,United States
+DAMN,1970,pl,1970,0,United States
+DEBL,1988,pl,1988,0,United States
+DECLARE,1997,pl,1997,0,United Kingdom
+DEL,1971,pl,1971,0,United States
+Delirium,1991,pl,1991,0,United States
+Delta Prolog,1984,pl,1984,0,Canada and Portugal
+DIALOG,1966,pl,1966,0,United States
+DICE,1991,pl,1991,0,United States
+DIET,1975,pl,1975,0,Canada
+Dipe-R,2002,pl,2002,0,Netherlands
+DISC,1989,pl,1989,0,Italy
+DISPEL,1981,pl,1981,0,United States
+DNA,1980,pl,1980,0,United States
+$,1983,pl,1983,0,United States
+DOPL,1982,pl,1982,0,Australia
+DUAL,1953,pl,1953,0,United States
+Durra,1986,pl,1986,0,Switzerland
+Elegant,1987,pl,1987,0,The Netherlands
+ELLPACK,1983,pl,1983,0,United States
+EMMA,1999,pl,1999,0,Austria
+Eva,1990,pl,1990,0,France
+EXEL,1973,pl,1973,0,France
+Extended Pascal,1987,pl,1987,0,United States
+FLIC,1987,pl,1987,0,United Kingdom
+FlowNet,1993,protocol,1993,0,United States
+FORK,1992,pl,1992,0,Germany
+FORTRANSIT,1956,pl,1956,0,United States
+FRANK,1985,pl,1985,0,Canada
+Frenetic,2011,pl,2011,0,United States
+Fresco,1993,pl,1993,0,United States
+Galileo,1983,pl,1983,0,Italia
+GCLA II,1992,pl,1992,0,Sweden
+GEM,1985,pl,1985,0,United States
+GCC GENERIC,2003,ir,2003,0,United States
+Gerald,1989,pl,1989,0,United Kingdom
+GERMINAL,1974,pl,1974,0,France
+Glish,1993,pl,1993,0,United States
+Golog,1993,pl,1993,0,Romania and Canada
+GOQL,1997,pl,1997,0,Cyprus
+GOSPEL,1977,pl,1977,0,United States
+GPS,1957,pl,1957,0,United States
+GPSS/85,1985,pl,1985,0,United States
+Grapheasy,1975,pl,1975,0,United States
+Green,1998,pl,1998,0,Brazil
+GROOVE,1970,pl,1970,0,United States
+Hancock,1999,pl,1999,0,United States
+HARVEY,1972,pl,1972,0,United States
+HELPER,1969,pl,1969,0,United States
+henk,1997,pl,1997,0,Scotland and The Netherlands and United States
+Hi-Visual,1992,pl,1992,0,Japan
+Holo,2001,pl,2001,0,United States and Brazil
+Hybrid,1987,pl,1987,0,Switzerland
+HyCom,1975,pl,1975,0,Argentina
+Ibuki CL,1992,pl,1992,0,Japan
+ICML,2008,xmlFormat,2008,0,World
+ILU,1994,pl,1994,0,United States
+ILX,2002,pl,2002,0,United Kingdom
+IMAGE,1975,pl,1975,0,Canada
+imf,2008,textDataFormat,2008,0,United States
+Ina Jo,1985,pl,1985,0,United States
+INC,1987,pl,1987,0,United States
+INFOLOG,1986,pl,1986,0,Portugal
+INSIGHT,1983,pl,1983,0,United States
+INTERACTIVE,1983,pl,1983,0,United States
+ISAC,2003,pl,2003,0,United States
+JavaML,2000,pl,2000,0,United States
+JOSIE,1991,pl,1991,0,United States
+Joyce,1987,pl,1987,0,United States
+JOYCE+,1990,pl,1990,0,Colombia
+JPL,1991,pl,1991,0,United States
+JR,2004,pl,2004,0,United States
+KATE,1979,pl,1979,0,United Kingdom
+Keep It Short and Simple,1959,pl,1959,0,United States
+KL1,1988,pl,1988,0,Japan
+Klaim,1997,pl,1997,0,Italy
+KRIS,1991,pl,1991,0,Germany
+LAMINA,1988,pl,1988,0,United States
+Language for Class Description,1964,pl,1964,0,United States
+LAP,1987,pl,1987,0,France
+LARIS,2000,pl,2000,0,The Netherlands
+LASS,1982,pl,1982,0,Ireland
+LDL,1984,pl,1984,0,Israel
+Lemick,2004,pl,2004,0,United Kingdom
+LG,1969,pl,1969,0,Canada
+Lisptalk,1988,pl,1988,0,China
+LNF,1985,pl,1985,0,United States
+LO,1990,pl,1990,0,Germany
+LOGAL,1977,pl,1977,0,United States
+LOGLISP,1980,pl,1980,0,United States
+LOGOL,1968,pl,1968,0,Ukraine and Poland
+LogoWriter,1986,pl,1986,0,United States
+LOL,1994,queryLanguage,1994,0,Canada
+LOOPN++,2000,pl,2000,0,Australia
+LORE,1985,pl,1985,0,United States
+Lucid representations,1991,pl,1991,0,United States
+Lygon,1995,pl,1995,0,Australia
+MIT Algebraic Compiler,1957,pl,1957,0,United States
+MADS,1964,pl,1964,0,United States
+Magic Paper,1963,pl,1963,0,United States
+MAPQUERY,1982,pl,1982,0,Switzerland
+MARSYAS,1970,pl,1970,0,United States
+MAVIS,1992,pl,1992,0,United States
+MELD,1989,pl,1989,0,United States
+META/PLUS,1971,pl,1971,0,United States
+MetaH,1988,pl,1988,0,United States
+Microsoft Equation Editor,1993,application,2007,0,World
+Modula-2+,1984,pl,1984,0,Canada
+Modula-3*,1993,pl,1993,0,Germany
+Morphe,1992,pl,1992,0,Japan
+MPSX,1978,pl,1978,0,United States
+MUSYS,1969,pl,1969,0,England
+N-Prolog,1985,pl,1985,0,United Kingdom and Germany
+Nail,1986,pl,1986,0,United States
+NetBasic,1999,pl,1999,0,United States
+Netscript,2016,pl,2016,0,United States
+NIL,1983,pl,1983,0,United States
+npy,2008,binaryDataFormat,2008,0,Various
+NSL,1991,pl,1991,0,United States
+NUA-Prolog,1991,pl,1991,0,Australia
+NUT,1986,pl,1986,0,Sweden
+O,1986,pl,1986,0,France and United States
+OFL,1995,pl,1995,0,France
+OLDAS,1968,pl,1968,0,United States
+OLIVER,1976,pl,1976,0,United States
+olog,1997,pl,1997,0,Canada
+OMAR,1999,pl,1999,0,United States
+One-man-language,1977,pl,1977,0,Canada
+OOLP,1989,pl,1989,0,United States
+OOPS,1986,pl,1986,0,The Netherlands and Belgium
+OpenAda,2000,pl,2000,0,United States and United Kingdom
+Orient84/K,1986,pl,1986,0,Japan
+Object-oriented Structured Query Language,1990,queryLanguage,1990,0,United States
+P/CL,1984,pl,1984,0,The Netherlands
+PACT IA,1957,pl,1957,0,United States
+Paragon,1991,pl,1991,0,United States
+Pascal-FC,1990,pl,1990,0,United Kingdom
+PASCAL-I,1980,pl,1980,0,United States
+Pascal-S,1975,pl,1975,0,Switzerland
+PHOCUS,1987,pl,1987,0,Germany
+PICASSO,1988,pl,1988,0,United States
+PIE,1988,pl,1988,0,United States
+PIN,1975,pl,1975,0,United States
+PIT,1958,pl,1958,0,United States
+PIXIN,1974,pl,1974,0,United Kingdom
+PL/I-FORMAC,1968,pl,1968,0,United States
+PL/LL,1983,pl,1983,0,Sweden
+PL4,1974,pl,1974,0,Canada
+PLACA,1993,pl,1993,0,United States
+POSE,1967,pl,1967,0,United States
+PRIZ,1983,pl,1983,0,Former Union of Soviet Socialist Republics or Estonia
+ProFIT,1994,pl,1994,0,Germany
+Progol,1993,pl,1993,0,Germany
+PROPHET,1974,pl,1974,0,United States
+proto-GNOSIS,1987,pl,1987,0,Former West Germany or Germany
+ProVerif,2014,pl,2014,0,France
+Proxy,1992,pl,1992,0,United States
+Py,1991,pl,1991,0,United States
+python-cl-compiler,1991,compiler,1991,0,United States
+QAS,1978,pl,1978,0,United States
+QUADRIL,1976,pl,1976,0,United States
+Quanta,2003,pl,2003,0,United Kingdom
+Quick Macros,1997,pl,1997,0,Lithuania
+QUILT,1970,pl,1970,0,United States
+RACK,1990,pl,1990,0,United States
+RC++,2001,pl,2001,0,United States and United Kingdom
+rdata-format,2000,binaryDataFormat,2000,0,Various
+Real-Time Euclid,1986,pl,1986,0,United States
+Rebus,1982,pl,1982,0,United States
+Refined C,1984,pl,1984,0,United States
+REL English,1975,pl,1975,0,United States
+REL,1968,pl,1968,0,United States
+Relix,1984,pl,1984,0,Canada
+Reuse Description Language,2005,pl,2005,0,Brazil and Canada
+RoboTalk,1985,pl,1985,0,United States
+ROS Message,2010,idl,2010,0,World
+Statemate,1998,pl,1998,0,World
+Unicode,1955,pl,1955,0,World
+Virt,1998,pl,1998,0,World
+appcode-editor,2016,editor,2016,0,World
+brackets-editor,2012,editor,2012,0,World
+clion-editor,2015,editor,2015,0,World
+code-blocks-editor,2005,editor,2005,0,World
+codelite-editor,2006,editor,2006,0,World
+Schrödinger's Equation,1925,equation,1925,0,World
+sourcelair-editor,2011,editor,2011,0,World
+Siri,1991,pl,1991,0,World
+Socrata Query Language,2012,queryLanguage,2012,0,World
+synergist,1986,pl,1986,0,World
+uscript,2016,notation,2016,0,World
+uscript2,2018,notation,2018,0,World
+2lisp,1982,pl,1982,0,World
+arbortext-command-language,2009,pl,2009,0,World
+Argon,2022,pl,2022,0,World
+concordance,1994,pl,1994,0,World
+CSV++,2016,dataNotation,2016,0,World
+gedit-editor,1999,editor,1999,0,United States
+intellijidea-editor,2001,editor,2001,0,Czech Republic
+komodo-editor,2007,editor,2007,0,Canada
+LinkText,2022,pl,2022,0,World
+pycharm-editor,2016,editor,2016,0,Czechia
+runescript,2001,pl,2001,0,World
+shiv,2018,pl,2018,0,World
+Simple Stackless Lisp,2022,pl,2022,0,World
+sqlite-storage-format,2000,binaryDataFormat,2000,0,World
+sugarj,2012,grammarLanguage,2012,0,World
+TeaSharp,2022,pl,2022,0,World
+ACSI-Matic,1959,pl,1959,0,World
+adam-standard,2009,standard,2009,0,World
+ALEPH,1992,pl,1992,0,World
+ALGOL 68-RT,1979,pl,1979,0,World
+ALJABR,1991,pl,1991,0,World
+Altibase,1999,database,1999,0,South Korea
+amalthea,2002,pl,2002,0,World
+Amazon DynamoDB,2012,database,2012,0,United States
+Amazon RDS,2009,database,2009,0,United States
+AMTRAN 70,1969,pl,1969,0,World
+Apache Derby,2004,database,2004,0,United States
+Apache Phoenix,2014,database,2014,0,United States
+APLO,1989,pl,1989,0,World
+ArangoDB,2011,database,2011,0,Germany
+ARTA,1970,pl,1970,0,World
+AUTOCODER II,1958,assembly,1958,0,United States
+BEAM Bytecode,2017,bytecode,2017,0,Hungary
+BeeBasic,2013,pl,2013,0,World
+BER,1988,pl,1988,0,World
+BullFrog,2005,esolang,2005,0,World
+Celsius WebScript,2006,pl,2006,0,World
+Cigale,1986,pl,1986,0,World
+COGO,1962,pl,1962,0,United States
+ConCurr,1979,pl,1979,0,Unknown
+Couchbase Mobile,2010,database,2010,0,United States
+Couchbase,2011,database,2011,0,United States
+Cymbal,1999,pl,1999,0,World
+Decision Model & Notation,2015,notation,2015,0,World
+DinnerBell,1990,pl,1990,0,World
+EqL,1989,pl,1989,0,World
+EXAPT,1967,pl,1967,0,Germany
+Firebase Realtime Database,2011,database,2011,0,United States
+Google Cloud SQL,2011,database,2011,0,United States
+Greenplum,2005,database,2005,0,United States
+IBM DB2,1983,database,1983,0,United States
+InfluxDB,2013,database,2013,0,United States
+InterBase,1985,database,1985,0,United States
+InterSystems Caché,1997,database,1997,0,United States
+ji,2019,pl,2019,0,Israel
+kernel-e,1994,pl,1994,0,United States
+MariaDB ColumnStore,2016,database,2016,0,Finland
+MarkLogic,2001,database,2001,0,United States
+Memcached,2003,database,2003,0,United States
+Microsoft Access,1992,database,1992,0,United States
+Microsoft Azure Cosmos DB,2017,database,2017,0,United States
+Microsoft SQL Server,1989,database,1989,0,United States
+MODEL-K,1993,pl,1993,0,World
+Mushroom,1988,pl,1988,0,Unknown
+NEBULA,1960,pl,1960,0,United Kingdom
+Neo4j,2007,database,2007,0,Sweden
+oniguruma,2002,queryLanguage,2002,0,Denmark
+Oracle,1979,database,1979,0,United States
+OrientDB,2010,database,2010,0,Italy
+PCLOS,1993,pl,1993,0,World
+PGen,2015,grammarLanguage,2015,0,Various
+IBM Programming Language/Advanced Systems,1976,pl,1976,0,United States
+ROSCOE,1979,pl,1979,0,World
+Rosetta SMALLTALK,1979,pl,1979,0,World
+Rosette,2000,pl,2000,0,World
+RPG III,1968,pl,1968,0,World
+RT-ASLAN,1986,pl,1986,0,World
+RT-CDL,1989,pl,1989,0,World
+RT-Z,1999,pl,1999,0,World
+Ruri,2000,pl,2000,0,World
+SAAL,1966,assembly,1966,0,World
+SAC-1,1967,pl,1967,0,World
+SAC-2,1969,pl,1969,0,World
+Sampletalk,1991,pl,1991,0,World
+SAP HANA,2010,database,2010,0,Germany
+SARTEX,1985,pl,1985,0,World
+Sassy,1999,pl,1999,0,World
+SAUSTALL,1982,pl,1982,0,World
+SB-ONE,1990,pl,1990,0,World
+SCALPEL,1971,pl,1971,0,World
+SCAT,1957,assembly,1957,0,World
+SCHEMAL,1983,pl,1983,0,World
+SCIL-VP,1992,pl,1992,0,World
+Sclipting,2011,esolang,2011,0,World
+Scratchpad II,1980,pl,1980,0,World
+SCREAMER,1993,pl,1993,0,World
+Scrimshaw,1993,pl,1993,0,World
+ScriptX,1995,pl,1995,0,World
+SDMS,2001,pl,2001,0,World
+SEGRAS,1985,pl,1985,0,World
+SEMANOL,1969,pl,1969,0,World
+Seque,1988,pl,1988,0,World
+SEQUEL 2,1976,pl,1976,0,World
+Sequential Pascal,1970,pl,1970,0,World
+SESPATH,1985,pl,1985,0,World
+SESPOOL,1977,pl,1977,0,World
+SetLog,1991,pl,1991,0,World
+SEVAL,1981,pl,1981,0,World
+Seymour,1989,pl,1989,0,World
+ShapeUp,1984,pl,1984,0,World
+Shared Prolog,1990,pl,1990,0,World
+SheerPower 4GL,2006,pl,2006,0,World
+SI Library,1998,pl,1998,0,World
+SIDOPS+,1997,pl,1997,0,World
+SIGMA 76,1976,pl,1976,0,World
+SIMAN IV,1990,pl,1990,0,World
+SIMCAL,1986,pl,1986,0,World
+SIMDIS,1985,pl,1985,0,World
+SIMFACTORY,1990,pl,1990,0,World
+SIML/I,1979,pl,1979,0,World
+SIMNET,1988,pl,1988,0,World
+SIMPAS,1980,pl,1980,0,World
+SimpleScript,2013,pl,2013,0,World
+SIMUL,1973,pl,1973,0,World
+SIMULA 67,1967,pl,1967,0,World
+Sketchpad III,1966,pl,1966,0,World
+SL5,1975,pl,1975,0,World
+SLAM II,1980,pl,1980,0,World
+SLEUTH,1962,assembly,1962,0,World
+SLPL,1976,pl,1976,0,World
+SMALGOL,1961,pl,1961,0,World
+Small Euclid,1988,pl,1988,0,World
+SMALL-X,1985,pl,1985,0,World
+Smalltalk-76,1976,pl,1976,0,World
+Smalltalk-80,1980,pl,1980,0,World
+SmallVDM,1993,pl,1993,0,World
+SMoLCS,1986,pl,1986,0,World
+SNOBAT,1976,pl,1976,0,World
+Soar Markup Language,2014,xmlFormat,2014,0,World
+SOLMAR,1978,pl,1978,0,World
+SORCA,1983,pl,1983,0,World
+SPECL,1973,pl,1973,0,World
+SPECOL,1968,pl,1968,0,World
+SPIL,1973,pl,1973,0,World
+spir-v,2015,ir,2015,0,World
+SPLAW,1998,pl,1998,0,World
+Symbolic Programming System,1959,pl,1959,0,World
+sqlar-format,2014,binaryDataFormat,2014,0,World
+SQURL,1981,pl,1981,0,World
+STAGE2,1970,pl,1970,0,World
+Standard Lisp,1979,pl,1979,0,World
+STAPLE,1975,pl,1975,0,World
+*Prolog,1989,pl,1989,0,World
+status-quo-script,2001,pl,2001,0,World
+StoneCutter,2020,grammarLanguage,2020,0,World
+STRCMACS,1977,pl,1977,0,World
+STREMA,1976,pl,1976,0,World
+STRESS,1963,pl,1963,0,World
+STRUDL,1965,pl,1965,0,World
+SW2,1986,pl,1986,0,World
+SYNGLISH,1980,pl,1980,0,World
+SYNPROC,1970,pl,1970,0,World
+SYNTOL,1960,pl,1960,0,World
+TABLOG,1984,pl,1984,0,World
+TABSOL,1960,pl,1960,0,World
+TABTRAN,1967,pl,1967,0,World
+TAC,1959,pl,1959,0,World
+Tarmac,1990,pl,1990,0,World
+Taxis,1980,pl,1980,0,World
+tcc,1997,pl,1997,0,World
+TCOZ,2002,pl,2002,0,World
+TCSP,1995,pl,1995,0,World
+TDFL,1990,pl,1990,0,World
+TDMS,1970,pl,1970,0,World
+telefile-assembly,1952,assembly,1952,0,World
+TELSIM,1966,pl,1966,0,World
+Templar,1993,pl,1993,0,World
+Temporal Prolog,1983,pl,1983,0,World
+Teradata Aster,2005,database,2005,0,United States
+Teradata,1979,database,1979,0,United States
+TFL,1996,pl,1996,0,World
+The Message System,1967,pl,1967,0,World
+THREADED LISTS,1959,pl,1959,0,World
+TICS,1973,pl,1973,0,World
+TiDB,2015,database,2015,0,China
+Timed CSP,1986,pl,1986,0,World
+Tinkertoy,1988,pl,1988,0,World
+TOOLBUS,1998,pl,1998,0,World
+TPDL*,1991,pl,1991,0,World
+Trafola-H,1991,pl,1991,0,World
+Traits,1982,pl,1982,0,World
+TRAMP,1968,pl,1968,0,World
+TRANQUIL,1966,pl,1966,0,World
+Transforma,1985,pl,1985,0,World
+TREET,1964,pl,1964,0,World
+triroff,1983,pl,1983,0,World
+TSL,1985,pl,1985,0,World
+TSQL2,1996,pl,1996,0,World
+Turing Plus,1987,pl,1987,0,World
+turnstile-plus,2020,grammarLanguage,2020,0,World
+Tyco,1998,pl,1998,0,World
+TyRuBa,1998,pl,1998,0,World
+U-Datalog,1997,pl,1997,0,World
+UAN,1990,pl,1990,0,World
+Ubik,2000,pl,2000,0,World
+UFL,1986,pl,1986,0,World
+UFO,1992,pl,1992,0,World
+UMTA,1974,pl,1974,0,World
+UNICORN,1986,pl,1986,0,World
+UNISIM,1964,pl,1964,0,World
+UNRAVEL,1973,pl,1973,0,World
+USSA,1992,pl,1992,0,World
+Utopia 84,1979,pl,1979,0,World
+V-Promela,1999,pl,1999,0,World
+VAL II,1983,pl,1983,0,World
+VARLIST,1975,pl,1975,0,World
+Vector PASCAL,1998,pl,1998,0,World
+VENUS,1967,pl,1967,0,World
+Vienna Fortran,1992,pl,1992,0,World
+VIPTRAN,1973,pl,1973,0,World
+Viron,1983,pl,1983,0,World
+VisaVis,1994,pl,1994,0,World
+Visual Eiffel,1993,pl,1993,0,World
+Visual Occam,1997,pl,1997,0,World
+VIVA,1990,pl,1990,0,World
+viz,1990,pl,1990,0,World
+VPL,1991,pl,1991,0,World
+VSPL,2000,pl,2000,0,World
+VULCAN,1987,pl,1987,0,World
+WCL,1991,pl,1991,0,World
+WebL,2000,pl,2000,0,World
+Whirlwind,1951,pl,1951,0,World
+WRITEACOURSE,1968,pl,1968,0,World
+WYLBUR,1973,pl,1973,0,World
+X-KLAIM,2000,pl,2000,0,World
+X11-Basic,1991,pl,1991,0,World
+xADL,2000,pl,2000,0,World
+XCY,1980,pl,1980,0,World
+XML-GL,1998,queryLanguage,1998,0,World
+The Algebra,2001,grammarLanguage,2001,0,World
+XPOP,1964,pl,1964,0,World
+XSIM,1977,pl,1977,0,World
+XTRAN,1958,pl,1958,0,World
+YugabyteDB,2018,database,2018,0,United States
+ZCCS,1997,pl,1997,0,World
+ZGRASS,1978,pl,1978,0,World
+1.pak,1973,pl,1973,0,World
+2OBJ,1995,pl,1995,0,World
+3-LISP,1982,pl,1982,0,World
+3DComposer,1999,pl,1999,0,World
+3RIP,1977,pl,1977,0,World
+ABAL,1974,pl,1974,0,World
+ABCL/c+,1988,pl,1988,0,World
+ABCL/f,1994,pl,1994,0,World
+ABC++,1994,pl,1994,0,World
+Abstracto,1979,pl,1979,0,World
+AC Toolbox,1992,pl,1992,0,World
+ACL,1972,pl,1972,0,World
+Acore,1988,pl,1988,0,World
+ACORN,1990,pl,1990,0,World
+ACOS,1988,pl,1988,0,World
+ACSL,1979,pl,1979,0,World
+ACT ONE,1983,pl,1983,0,World
+Actalk,1989,pl,1989,0,World
+Active Language I,1963,pl,1963,0,World
+Active-U-Datalog,1997,pl,1997,0,World
+Actus,1979,pl,1979,0,World
+Ada 95,1995,pl,1995,0,World
+Ada 9X,1988,pl,1988,0,World
+Ada/TL,1990,pl,1990,0,World
+ADABTPL,1987,pl,1987,0,World
+Adagio,2007,pl,2007,0,World
+Adaplex,1983,pl,1983,0,World
+Aditi,1992,pl,1992,0,World
+AED,1963,pl,1963,0,World
+AEPL,1971,pl,1971,0,World
+AESOP,1967,pl,1967,0,World
+Agent-K,1994,pl,1994,0,World
+AGL,1975,pl,1975,0,World
+AIDA,1986,pl,1986,0,World
+AKL,1991,pl,1991,0,World
+ALADIN,1971,pl,1971,0,World
+Alambik,2011,pl,2011,0,World
+ALBA,1993,pl,1993,0,World
+Aldat,1989,pl,1989,0,World
+Aldwych,2000,pl,2000,0,World
+ALEC,1967,pl,1967,0,World
+Algebraic Compiler,1958,pl,1958,0,World
+ALGEM,1966,pl,1966,0,World
+ALGERNON,1990,pl,1990,0,World
+ALGOL-E,1972,pl,1972,0,World
+ALGY,1961,pl,1961,0,World
+Alma-O,1998,pl,1998,0,World
+ALMIR,1968,pl,1968,0,World
+Alonzo,1994,pl,1994,0,World
+AlphaPop,1986,pl,1986,0,World
+ALTAC,1959,pl,1959,0,World
+Amanda,1988,pl,1988,0,World
+AMBIT/G,1968,pl,1968,0,World
+AMBIT/L,1970,pl,1970,0,World
+AMPPL-II,1969,pl,1969,0,World
+Andorra,1988,pl,1988,0,World
+AUTOCODER III,1958,assembly,1958,0,United States
+axcess,1983,pl,1983,0,United States
+Bison++,1998,grammarLanguage,1998,0,United States
+Blade,2022,pl,2022,0,Nigeria
+Bolin,2022,pl,2022,0,Canada
+brooks-programming-language,2003,pl,2003,0,Germany
+Candy Codes,2022,barCodeFormat,2022,0,United States
+Cedar,1983,pl,1983,0,World
+checkout,2011,assembly,2011,0,Unknown
+Chicon,1998,pl,1998,0,China
+CONA,1977,pl,1977,0,United Kingdom
+Cosmos,2022,pl,2022,0,Unknown
+CVL,1993,pl,1993,0,World
+dalvik-bytecode,2008,bytecode,2008,0,World
+Data Package,2007,jsonFormat,2007,0,United Kingdom
+Distributed Smalltalk,1980,pl,1980,0,World
+DM-1,1967,pl,1967,0,World
+dsym,2011,binaryDataFormat,2011,0,United States
+ebg,1999,pl,1999,0,World
+Elasticsearch Query DSL,2010,queryLanguage,2010,0,United States
+english-programming-language,1973,pl,1973,0,United States
+ESP,1983,pl,1983,0,Japan
+EXTRAN,1978,pl,1978,0,World
+filetab-d,1978,pl,1978,0,United States
+floorplan,2019,pl,2019,0,United States
+forest-database,2011,application,2011,0,United States
+FORTRAN III,1958,pl,1958,0,United States
+FORTRAN IV,1962,pl,1962,0,United States
+GAEA,1998,pl,1998,0,World
+Gaiman,2022,pl,2022,0,Poland
+hackppl,2019,pl,2019,0,United States
+HAYSTAQ,1959,queryLanguage,1959,0,United States
+ibm-system-38-language,1978,pl,1978,0,United States
+iota,1985,pl,1985,0,Japan
+Just,2021,pl,2021,0,United States
+kaukatcr,2018,pl,2018,0,United States
+Konna,2021,pl,2021,0,Unknown
+lambda-obliv,2020,pl,2020,0,United States
+Low Level Lisp,2014,pl,2014,0,United Kingdom
+local,2019,pl,2019,0,United States
+metalex,2002,xmlFormat,2002,0,The Netherlands and Italy
+microPLANNER,1970,pl,1970,0,United States
+modl,1987,pl,1987,0,United States
+N,1990,pl,1990,0,France
+Noms GraphQL,2017,queryLanguage,2017,0,United States
+NJCL,1974,pl,1974,0,World
+Navigational User's Language,1976,pl,1976,0,Canada
+OMNITAB II,1970,pl,1970,0,United States
+OMNITAB,1963,pl,1963,0,United States
+Oxide,2021,pl,2021,0,Russia
+Parse Tree Notation,1994,grammarLanguage,1994,0,Australia
+Pegasus AUTOCODE,1959,pl,1959,0,United Kingdom
+Peridot,2022,pl,2022,0,Unknown
+PL/S-II,1974,pl,1974,0,United States
+PL/S,1968,pl,1968,0,United States
+PL-X,1994,pl,1994,0,United States
+Pλ⍵NK,2020,pl,2020,0,Belgium
+Protosynthex,1964,pl,1964,0,United States
+Pygmalion,1974,visual,1974,0,United States
+QUIKTRAN,1964,pl,1964,0,United States
+RAND-ABEL,1990,pl,1990,0,World
+RAPIDWRITE,1962,pl,1962,0,United Kingdom
+RPG II,1965,pl,1965,0,World
+RUNCIBLE,1958,pl,1958,0,World
+RUSSELL,1970,pl,1970,0,World
+RUTH,1987,pl,1987,0,World
+SA,1977,pl,1977,0,World
+SALE,1959,pl,1959,0,World
+SALEM,1967,pl,1967,0,World
+Sapphire,2008,pl,2008,0,World
+Sather-K,1995,pl,1995,0,World
+Scenic,2019,pl,2019,0,World
+SCOOP,1988,pl,1988,0,World
+SEARCH,1973,pl,1973,0,World
+SIMODULA,1988,pl,1988,0,World
+Sim++,1991,pl,1991,0,World
+Siprol,1980,pl,1980,0,World
+SKIL,1996,pl,1996,0,World
+SKY,2000,pl,2000,0,World
+SL,1988,pl,1988,0,World
+SLIPS,1984,pl,1984,0,World
+SLOG,1985,pl,1985,0,World
+Smalltalk/V,1986,pl,1986,0,World
+SMART,1964,pl,1964,0,World
+SMDL,2010,pl,2010,0,World
+SMOKE,1992,pl,1992,0,World
+SMSL,1995,pl,1995,0,World
+Snostorm,1984,pl,1984,0,World
+Symbolic Optimal Assembly Program,1955,assembly,1955,0,World
+SoQL,2009,queryLanguage,2009,0,World
+Spec,1990,pl,1990,0,World
+SPRINT,1967,pl,1967,0,World
+SQLMP,1991,pl,1991,0,World
+SQUARE,1975,pl,1975,0,World
+SR,1988,pl,1988,0,World
+STOICAL,2000,pl,2000,0,World
+StreamIt,1992,pl,1992,0,World
+Sue,1971,pl,1971,0,World
+SUMMER,1980,pl,1980,0,World
+SuperForth,2022,pl,2022,0,World
+SUPERMAC,1979,pl,1979,0,World
+SVL,1994,pl,1994,0,World
+SYMBAL,1972,pl,1972,0,World
+SymbMath,1999,pl,1999,0,World
+SYNTEX,1972,pl,1972,0,World
+TACTICS,1972,pl,1972,0,World
+TALE,1986,pl,1986,0,World
+TALL,1962,pl,1962,0,World
+TeLa,2000,pl,2000,0,World
+TEMPO,1995,pl,1995,0,World
+TOMAL,1975,pl,1975,0,World
+TRACE,1967,pl,1967,0,World
+TRANSCODE,1953,pl,1953,0,World
+TRANSLANG,1970,pl,1970,0,World
+TRIO,1990,pl,1990,0,World
+TRIPLE,2002,pl,2002,0,World
+TS,1988,pl,1988,0,World
+TWO-D,1971,pl,1971,0,World
+twoducks,2006,esolang,2006,0,World
+UC,1995,pl,1995,0,World
+VEX,1995,notation,1995,0,World
+Visual,2000,pl,2000,0,World
+WIZOR,1962,pl,1962,0,World
+Xmind Format,2007,xmlFormat,2007,0,World
+ycp,2005,pl,2005,0,World
+yoga,2020,pl,2020,0,World
+Zed,1978,pl,1978,0,World
+zish,2017,dataNotation,2017,0,United Kingdom
+A51 Assembly,1988,assembly,1988,0,World
+Aardappel,1997,pl,1997,0,World
+ABC ALGOL,1973,pl,1973,0,World
+Actors,1971,pl,1971,0,World
+ADES II,1955,pl,1955,0,World
+ADES,1955,pl,1955,0,World
+ADLIB,1980,pl,1980,0,World
+AIDS,1970,pl,1970,0,World
+ALDES,1976,pl,1976,0,World
+ALLO,1995,pl,1995,0,World
+ALPS,1988,pl,1988,0,World
+Amber,1984,pl,1984,0,World
+AMBUSH,1971,pl,1971,0,World
+AMPPL-I,1968,pl,1968,0,World
+Amulet,1996,pl,1996,0,World
+And/Or,1980,pl,1980,0,United States
+Andante,1980,pl,1980,0,United States and Sweden
+Andorra-I,1991,pl,1991,0,Portugal and England
+ANS MUMPS,1977,pl,1977,0,United States
+ANSI BASIC,1980,pl,1980,0,United States
+APAR,1958,pl,1958,0,United States
+APAREL,1969,pl,1969,0,United States
+APL/Z80,1979,pl,1979,0,United States
+APLGOL-2,1973,pl,1973,0,United States
+APLGOL,1972,pl,1972,0,United States
+APOSTLE,1996,pl,1996,0,United Kingdom
+APPL/A,1995,pl,1995,0,United States
+APPLOG,1986,pl,1986,0,Israel
+APROL,1998,pl,1998,0,United States
+AQL,1977,pl,1977,0,Italy
+Aquarius Prolog,1989,pl,1989,0,United States and France
+ARABLAN,1995,pl,1995,0,Bahrain
+ARCHI,1986,pl,1986,0,United States
+Arjuna,1989,pl,1989,0,United Kingdom
+ARK,2002,pl,2002,0,United Kingdom
+Armani,1999,pl,1999,0,United States
+ASF+SDF,1993,pl,1993,0,Netherlands
+ASPEN,1977,pl,1977,0,United States
+associons,1972,pl,1972,0,The Netherlands
+Asspegique,1985,pl,1985,0,France
+ASTLOG,1997,pl,1997,0,United States
+ATOL,1979,pl,1979,0,United Kingdom
+AUTASIM,1974,pl,1974,0,United States
+AUTODRAFT,1965,pl,1965,0,United States
+AUTOGRP,1972,pl,1972,0,United States
+AUTOMAST,1966,pl,1966,0,United States
+Avalon/Common LISP,1990,pl,1990,0,United States
+B4Tran,1975,pl,1975,0,United States
+BALG,1975,pl,1975,0,Germany
+BALM,1969,pl,1969,0,United States
+BALSA,1998,pl,1998,0,England
+Baltík,1996,pl,1996,0,The Czech Republic
+Bartok,2001,pl,2001,0,United States
+Basic PDP-1 Lisp,1963,pl,1963,0,United States
+BASIL,1979,pl,1979,0,United States
+BC NELIAC,1962,pl,1962,0,United States
+BDL,1987,pl,1987,0,United States
+BEDSOCS,1973,pl,1973,0,United States
+BESYS,1958,pl,1958,0,Unknown
+Beta-Prolog,1992,pl,1992,0,Japan
+BGRAF2,1975,pl,1975,0,Israel
+BHSL,1966,pl,1966,0,United States
+Bigloo,1995,pl,1995,0,France
+BIOMOD,1970,pl,1970,0,United States
+BIOSSIM,1978,pl,1978,0,United States
+BLAZE,1985,pl,1985,0,United States
+BLOOMS,1997,pl,1997,0,Italy
+BMD,1961,pl,1961,0,United States
+Bob,1991,pl,1991,0,United States
+BOIL,1998,pl,1998,0,Germany
+Booster,1989,pl,1989,0,The Netherlands
+Borneo,1998,pl,1998,0,United States
+Bounce,1994,pl,1994,0,World
+Boxer,1985,pl,1985,0,United States
+BPL,1978,pl,1978,0,United Kingdom
+Basic Petri Net Programming Notation,1992,pl,1992,0,Germany and United Kingdom
+Brisk,1995,pl,1995,0,England
+BSML,1996,pl,1996,0,United States and China
+BSP,1989,pl,1989,0,Canada and England
+BUGSYS,1964,pl,1964,0,United States
+Butterfly Common LISP,1993,pl,1993,0,United States
+ByteLisp,1965,pl,1965,0,United States
+C Header Files,1972,headerLang,1972,0,World
+CABAL,1997,pl,1997,0,England
+Cactus,1998,pl,1998,0,Greece
+cado-systems-technical-information,1973,pl,1973,0,Ireland
+CAGES,1973,pl,1973,0,United States
+CAISYS,1973,pl,1973,0,United States
+CAMAC,1979,pl,1979,0,United States
+CAMIL,1978,pl,1978,0,United States
+Cantor,1987,pl,1987,0,United States
+Common Authentication Protocol Specification Language,1996,pl,1996,0,United States
+Capsule,1981,pl,1981,0,United States
+CASSANDRE,1967,pl,1967,0,France
+Catalysis,1998,pl,1998,0,United States
+CAYLEY,1975,pl,1975,0,Australia
+CCEL,1993,pl,1993,0,United States
+Cedar Fortran,1984,pl,1984,0,United States
+CELIP,1990,pl,1990,0,Germany
+CELLSIM,1973,pl,1973,0,United States
+Ceprol,1985,pl,1985,0,Germany
+CHAMP,1968,pl,1968,0,United States
+CHARM++,1993,pl,1993,0,United States
+Charrette Ada,1980,pl,1980,0,United States
+CHARYBDIS,1967,pl,1967,0,United States
+ChemTrains,1992,pl,1992,0,United States
+Chronolog,1985,pl,1985,0,Australia
+ChronologMC,1996,pl,1996,0,Australia
+ChronologZ,1993,pl,1993,0,Australia and Canada
+cimfast,1991,pl,1991,0,United States
+CIMS PL/I,1970,pl,1970,0,United States
+CL-I,1960,pl,1960,0,United States
+Clascal,1983,pl,1983,0,United States
+Classic-Ada,1992,pl,1992,0,United States
+Clear Language for Expressing Orders,1963,pl,1963,0,United Kingdom
+CLeogo,1998,pl,1998,0,New Zealand
+CLEOPATRA,1973,pl,1973,0,United States
+CLOVER,1996,pl,1996,0,United Kingdom
+CLP*,1989,pl,1989,0,United States
+CMN,1990,pl,1990,0,Various countries in Western Europe
+COBLOC,1964,pl,1964,0,United States
+CODIL,1970,pl,1970,0,United Kingdom
+CogMap,1992,pl,1992,0,United Kingdom
+COLASL,1962,pl,1962,0,United States
+COLD-K,1989,pl,1989,0,The Netherlands
+Complex-Prolog,1989,pl,1989,0,Italy
+Computer Compiler,1969,pl,1969,0,United States
+COMSL,1970,pl,1970,0,United States
+ConC,1991,pl,1991,0,United States
+Concert/C,1993,pl,1993,0,United States
+CONCUR,1981,pl,1981,0,United States
+Concurrent Pascal,1972,pl,1972,0,United States
+conGolog,1994,pl,1994,0,Canada
+ConMan,1988,pl,1988,0,United States
+CONNIVER,1973,pl,1973,0,United States
+ConstraintLisp,1992,pl,1992,0,Singapore
+CONTRANS,1960,pl,1960,0,United States
+COPAS,1981,pl,1981,0,United Kingdom
+CORAL 64,1964,pl,1964,0,United Kingdom
+Coral++,1993,pl,1993,0,United States
+CORC,1963,pl,1963,0,United States
+CosmicOS,2000,pl,2000,0,United States
+COSMO,2001,pl,2001,0,Czech Republic
+CQLF,1982,pl,1982,0,United States
+CQL++,1992,pl,1992,0,United States
+CSMP,1965,pl,1965,0,The Netherlands
+CSP-OZ-DC,2002,pl,2002,0,Germany
+CSP-OZ,1997,pl,1997,0,Germany
+CSSA,1979,pl,1979,0,Germany
+Culler-Fried System,1961,pl,1961,0,United States
+CuPit-2,1997,pl,1997,0,Germany
+cuscus,2019,pl,2019,0,United Kingdom
+CypherText,1970,pl,1970,0,United States
+D4,2001,queryLanguage,2001,0,World
+DAG,1989,pl,1989,0,United States
+DAP-Algol,1985,pl,1985,0,England
+DartCVL,1995,pl,1995,0,United States
+DATA-TEXT,1967,pl,1967,0,United States
+DATAN,1966,pl,1966,0,United States
+DEACON,1962,pl,1962,0,United States
+DeBuMa,1988,pl,1988,0,France
+DEM,1996,pl,1996,0,Japan
+DESCRIPTRAN,1963,pl,1963,0,United States
+DETAB/65,1964,pl,1964,0,United States
+DETAB-X,1960,pl,1960,0,United States
+DETAP,1965,pl,1965,0,United States
+Deva,1993,pl,1993,0,Germany
+DFL,1983,pl,1983,0,United States
+DIAMAG,1966,pl,1966,0,France
+DIGRAF,1977,pl,1977,0,United States
+Diplans,1988,pl,1988,0,United States
+Distributed Processes,1978,pl,1978,0,United States
+DITRAN,1967,pl,1967,0,United States
+DITROFF/FFORTID,1985,pl,1985,0,Israel
+DITROFF,1982,pl,1982,0,United States and Israel
+DMAP,1975,pl,1975,0,United States
+DOE Macsyma,1984,pl,1984,0,United States
+DOLPHIN,1970,pl,1970,0,England
+DOWL,1993,pl,1993,0,Germany
+DPRL,1990,pl,1990,0,United States
+DRL,1997,pl,1997,0,Spain
+DROL,2000,pl,2000,0,Japan
+DSL/90,1965,pl,1965,0,United States
+DYSTAL,1965,pl,1965,0,United States
+EAS-E,1983,pl,1983,0,United States
+EASL,1966,pl,1966,0,United States
+EASY ENGLISH,1968,pl,1968,0,United States
+Eclectic CSP,2000,pl,2000,0,United Kingdom
+ECT,1971,pl,1971,0,Canada and Australia
+Edinburgh LCF,1979,pl,1979,0,Poland
+EDSAC Initial Orders,1948,assembly,1948,0,United Kingdom
+EDSIM,1977,pl,1977,0,United Kingdom
+EDUCE*,1990,pl,1990,0,Germany
+EGS4,1985,pl,1985,0,Canada
+EL1,1970,pl,1970,0,United States
+Ellie,1990,pl,1990,0,Denmark
+ELMOL,1970,pl,1970,0,United States
+Emily,1970,os,1970,0,United States
+EPILOG,1981,pl,1981,0,Portugal
+EQLog,1986,pl,1986,0,United States
+EQUATE,1991,pl,1991,0,United States
+ERROL,1983,pl,1983,0,Israel
+Ethereum Virtual Machine,2015,vm,2015,0,Canada
+Etude,1979,pl,1979,0,United States
+FAC,1986,pl,1986,0,Unknown
+FAD,1987,pl,1987,0,France and United States
+FCPU,1970,pl,1970,0,Sweden
+Fickle,2000,pl,2000,0,Italy and United Kingdom
+FLENG++,1989,pl,1989,0,United States
+flexbuffers,2014,idl,2014,0,United States
+Flora,1995,pl,1995,0,France
+foogol,1985,pl,1985,0,Germany
+FORAL LP,1978,pl,1978,0,United States
+FORAL,1975,pl,1975,0,United States
+FORALL,1980,pl,1980,0,Australia
+Fork95,1995,pl,1995,0,Germany
+FORMS/3,1990,pl,1990,0,United States
+Fortran 8x,1989,pl,1989,0,United States
+FORTRAN CEP,1963,pl,1963,0,Italy
+Fortran D,1991,pl,1991,0,United States
+FORTRAN II,1958,pl,1958,0,United States
+Fortran M,1992,pl,1992,0,United States
+FP2,1986,pl,1986,0,France
+FRAN,1997,pl,1997,0,United States
+g-2,1992,pl,1992,0,United States
+Gargoyle,1964,pl,1964,0,Norway
+GASP II,1967,pl,1967,0,United States
+GAT,1959,pl,1959,0,United States
+GaussFit,1986,pl,1986,0,United States
+GCP,1985,pl,1985,0,Sweden
+GDPL,1984,pl,1984,0,United States
+Gedanken,1969,pl,1969,0,United States
+Generic Haskell,2000,pl,2000,0,Sweden and Netherlands and United Kingdom
+GENTRAN 90,1990,pl,1990,0,The Netherlands
+GENTRAN,1984,pl,1984,0,The Netherlands
+GCC GIMPLE,2003,ir,2003,0,United States
+gitignore,2005,configFormat,2005,0,World
+GKS,1983,pl,1983,0,United States
+GLIDE,1977,pl,1977,0,United States
+GLU,1995,pl,1995,0,United States
+Glue-Nail,1991,pl,1991,0,Canada and South Africa
+GPDS,1970,pl,1970,0,United States
+GPGS,1977,pl,1977,0,The Netherlands and United States
+GPSS/360,1967,pl,1967,0,United States
+GPSS FORTRAN,1976,pl,1976,0,Germany
+GQL,1980,pl,1980,0,United Kingdom
+GRAD Assistant,1965,pl,1965,0,United States
+GraphLog,1988,pl,1988,0,Canada
+GRAPHOS,1972,pl,1972,0,Israel
+Graqula,1993,pl,1993,0,United States and South Korea
+GROUPLOG,2000,pl,2000,0,Portugal
+GSBL,1988,pl,1988,0,Spain
+GVL,1990,pl,1990,0,Canada and Germany
+GXL,2000,pl,2000,0,Canada and Germany
+Gypsy,1976,pl,1976,0,United States
+Hank,1996,pl,1996,0,England
+Haskell#,1991,pl,1991,0,Brazil
+HASL,1982,pl,1982,0,Canada
+HERAKLIT,1987,pl,1987,0,Germany
+Hermes,1990,pl,1990,0,Canada
+HiQ,1998,pl,1998,0,United States
+HMSL,1980,pl,1980,0,United States
+HOL,1985,pl,1985,0,United Kingdom
+HOLCF,1994,pl,1994,0,Germany
+honu,2012,pl,2012,0,United States
+HP-PASCAL,1984,pl,1984,0,United States
+HPRL,1982,pl,1982,0,United States
+HSL,1991,pl,1991,0,United States
+HSML,1998,pl,1998,0,Canada
+HTEL,1999,pl,1999,0,Denmark
+HYPAC,1970,pl,1970,0,United States
+Hyperflow,1993,pl,1993,0,United States
+Hyperlisp,1971,pl,1971,0,United States
+Hyperlog,1996,pl,1996,0,United Kingdom
+HYTRAN,1963,pl,1963,0,United States
+IAM,1968,pl,1968,0,United States
+IB-Templog,1987,pl,1987,0,Taiwan or R.O.C
+IBM Logo,1983,pl,1983,0,United States
+Integrated Civil Engineering System,1961,standard,1961,0,United States
+ICETRAN,1965,pl,1965,0,United States
+ICOT,1995,pl,1995,0,South Korea
+IMP72,1972,pl,1972,0,United States
+Industrial Modeling and Programming Language,2019,pl,2019,0,United States
+INMAGIC,1983,pl,1983,0,United States
+Inscan,1968,pl,1968,0,United States
+INTERCELLAS,1977,pl,1977,0,Hungary
+InterCONS,1995,pl,1995,0,United States
+Interlisp-VAX,1981,pl,1981,0,United States
+IPL-V,1957,pl,1957,0,United States
+IQF,1975,pl,1975,0,United States
+Isabelle-91,1991,pl,1991,0,United Kingdom
+Isabelle/HOL,1997,pl,1997,0,Australia and Germany
+ISIS,1995,pl,1995,0,United States
+ISPL,1971,pl,1971,0,United States
+IVTRAN,1966,pl,1966,0,United States
+JACAL,2008,pl,2008,0,United States
+jBC,1989,pl,1989,0,Switzerland
+JFugue,2002,pl,2002,0,United States
+JMSL,1986,pl,1986,0,United States
+JOSS II,1965,pl,1965,0,United States
+JSyn,2010,pl,2010,0,United States
+Juno,1985,pl,1985,0,United States
+KAIL,1976,pl,1976,0,United States
+Kaleidoquery,1998,pl,1998,0,United Kingdom
+Kaleidoscope'90,1990,pl,1990,0,United States and Canada
+Kaleidoscope'91,1991,pl,1991,0,United States
+KEE,1984,pl,1984,0,United States
+KEK-NODAL,1985,pl,1985,0,Japan
+kew,2004,pl,2004,0,United Kingdom
+KeyKit,1995,pl,1995,0,United States
+Kiev,2002,pl,2002,0,Unknown
+King Kong,1991,pl,1991,0,United States
+KL-ONE,1977,pl,1977,0,Sweden
+KLIPA,1960,pl,1960,0,Poland
+KRL-0,1977,pl,1977,0,United States
+KRS,1987,pl,1987,0,Canada
+KRYPTON,1983,pl,1983,0,United States
+Kvikkalkul,2003,pl,2003,0,Sweden
+Kylix,2000,pl,2000,0,United States
+LABTRAN,1972,pl,1972,0,United States
+Larch,1985,pl,1985,0,United States
+LAURE,1989,pl,1989,0,France
+LCF,1972,pl,1972,0,United States and Scotland
+LCL,1991,pl,1991,0,United States
+LDL1,1987,pl,1987,0,United States
+LEGOL,1974,pl,1974,0,England
+Leogo,1997,pl,1997,0,New Zealand
+Leopard,2007,pl,2007,0,Unknown
+LGDF,1986,pl,1986,0,United States
+Libra,2020,pl,2020,0,Australia
+Lincoln Reckoner,1965,pl,1965,0,United States
+Lingua Graphica,1992,pl,1992,0,United States
+LiSEB,1994,pl,1994,0,Italy
+LISP A,1968,pl,1968,0,Sweden
+LOCS,1965,pl,1965,0,United States
+Logicon,1986,pl,1986,0,Canada
+LOGIST,1980,pl,1980,0,France
+Logres,1990,queryLanguage,1990,0,Italy
+LogScheme,1990,pl,1990,0,United States
+Lola-2,1994,pl,1994,0,Switzerland
+LOTIS,1969,pl,1969,0,Switzerland
+LOTOS,1989,pl,1989,0,Spain
+LPL,1973,pl,1973,0,United States
+LRLTRAN,1968,pl,1968,0,United States
+Lucinda,1991,pl,1991,0,England
+M-LISP,1991,pl,1991,0,United States
+MacAims,1968,pl,1968,0,United States
+MACE,1989,pl,1989,0,United States
+Machiavelli,1989,pl,1989,0,United States
+Macro SPITBOL,1971,pl,1971,0,United States and England
+Magma2,1984,pl,1984,0,Italy
+magritte,2019,pl,2019,0,Japan
+MALUS,1970,pl,1970,0,United States
+ManuScript,2009,pl,2009,0,United States
+MAP,1960,assembly,1960,0,World
+Marlais,1995,pl,1995,0,Unknown
+Mary/2,1984,pl,1984,0,United States
+MASIM,1985,pl,1985,0,Austria
+Mathsy,1980,pl,1980,0,United States
+MATRIX PASCAL,1983,pl,1983,0,United States
+MCOBOL,1980,pl,1980,0,United Kingdom
+MDBS-QRS,1981,queryLanguage,1981,0,United States
+MEDIC,1980,pl,1980,0,Italy
+Megalog,1991,pl,1991,0,Germany
+Mercury Programming System,1960,pl,1960,0,United States
+Meroon,1991,pl,1991,0,France
+Meta-Assembler,1977,assembly,1977,0,United States
+META/LISP,1970,pl,1970,0,United States
+MetaML,1997,pl,1997,0,United States
+METAPI,1967,pl,1967,0,United States
+METASIM,1973,pl,1973,0,United States
+METATEM,1989,pl,1989,0,United Kingdom
+Micro-flowcharts,1959,pl,1959,0,United States
+MICRODARE,1979,pl,1979,0,United States
+microTAL,1981,pl,1981,0,United States
+MiKe,2022,pl,2022,0,United States
+Mini-ML,1986,pl,1986,0,United States
+MINION,1989,pl,1989,0,United States
+MINIVITAL,1974,pl,1974,0,United States
+MINOPT,1998,pl,1998,0,United States
+MIRAGER,1971,pl,1971,0,United States
+Miranim,1985,pl,1985,0,Canada
+MIRFAC,1962,pl,1962,0,United Kingdom
+Mizar,1973,pl,1973,0,Canada
+MLISP2,1972,pl,1972,0,United States
+mmsearch,2001,pl,2001,0,Switzerland
+MOBL,1960,pl,1960,0,United States
+MODCAP,1978,pl,1978,0,United States
+MODLISP,1980,pl,1980,0,United States
+MODSIM III,1996,pl,1996,0,United States
+Modula-P,1992,pl,1992,0,Germany
+Modula/R,1983,pl,1983,0,Switzerland
+Modular Prolog,1992,pl,1992,0,United Kingdom
+Molog,1987,pl,1987,0,France
+MORPHISM,1965,pl,1965,0,France
+MOUSE4,1978,pl,1978,0,United States
+Moxie,1984,pl,1984,0,United States
+MPGS,1972,pl,1972,0,Japan
+MRDB,1976,pl,1976,0,United States
+MS2,1967,pl,1967,0,United States
+MSG.84,1985,pl,1985,0,United States
+muFP,1984,pl,1984,0,United Kingdom
+Mul-T,1989,pl,1989,0,United States
+Multigame,1994,pl,1994,0,The Netherlands
+MUMS,1976,pl,1976,0,Austria
+MUNIN,1989,pl,1989,0,Denmark
+MuSimp,1978,pl,1978,0,United States
+MVL,1993,pl,1993,0,United States
+NAPSS,1965,pl,1965,0,United States
+NARPL,1989,pl,1989,0,United States
+Nassi-Shneiderman charts,1972,pl,1972,0,United States
+NSS,1999,binaryDataFormat,1999,0,United States
+NDL,2007,pl,2007,0,United States
+NEATER 2,1968,linter,1968,0,United States
+Ness,1989,pl,1989,0,United States
+Netform,1974,pl,1974,0,The Netherlands
+Network Control Language,1978,pl,1978,0,United States
+NeuronC,1992,pl,1992,0,United States
+NFQL,1989,pl,1989,0,United States
+NIKL,1986,pl,1986,0,United States
+NOAH,1982,pl,1982,0,Former West Germany or Federal Republic of Germany
+Noodle,1993,pl,1993,0,United States
+NOP-2,2001,pl,2001,0,Austria
+NPL,1963,pl,1963,0,United States
+Numerica,1997,pl,1997,0,United States
+Oaklisp,1986,pl,1986,0,United States
+oasis-operating-system,1977,os,1977,0,United States
+OBJ2,1984,pl,1984,0,United States
+Objectcharts,1992,pl,1992,0,Germany
+ObjectWorld,1993,pl,1993,0,Austria
+ObjVProlog,1989,pl,1989,0,France and Canada
+OBSCURE,1985,pl,1985,0,Germany
+Occam 2,1987,pl,1987,0,United Kingdom
+Octopus,1993,pl,1993,0,Australia
+O'Haskell,2002,pl,2002,0,United States
+OLGA,1985,pl,1985,0,Canada
+OLI,1997,pl,1997,0,Hong Kong (SAR) and United Kingdom
+OMNIMARK,1980,pl,1980,0,Canada
+OMNITAB 80,1980,pl,1980,0,United States
+OOPAL,2002,pl,2002,0,Switzerland
+OpenMusic,2019,pl,2019,0,France
+OPS-3,1965,pl,1965,0,United States
+OPS,1970,pl,1970,0,United States
+OREGANO,1969,pl,1969,0,United States
+Orlog,1992,pl,1992,0,United States and Canada
+OSIRIS,1970,pl,1970,0,United States
+OSL/2,1970,pl,1970,0,United States
+Ottawa Euclid,1984,pl,1984,0,Canada
+Otter,1988,pl,1988,0,United States
+OWL DL,2007,xmlFormat,2007,0,United States
+P-Prolog,1986,pl,1986,0,Japan
+P-TAC,1989,pl,1989,0,United States
+P3L,1998,pl,1998,0,Italy
+PACOL,1974,pl,1974,0,United States
+PADL-1,1978,pl,1978,0,United States
+PaiLisp,1986,pl,1986,0,United States
+Palingol,1996,pl,1996,0,France
+PANCODE,1982,pl,1982,0,Canada
+PANON-1,1963,pl,1963,0,Italy
+PANON-1B,1965,pl,1965,0,Italy
+Parallel ELLPACK,1983,pl,1983,0,United States
+Parallel Pascal,1984,pl,1984,0,United States
+ParaLog_e,1997,pl,1997,0,Brazil
+ParMod,1987,pl,1987,0,Germany
+Pascal Plus,1979,pl,1979,0,N. Ireland
+Pascal-SC,1982,pl,1982,0,Germany
+PASION,1986,pl,1986,0,Mexico
+PASRO,1985,pl,1985,0,Germany
+Path Pascal,1978,pl,1978,0,United States
+PCN,1992,pl,1992,0,United States
+PCOL,1986,pl,1986,0,The Netherlands
+pC++,1991,pl,1991,0,France and United States
+Partial Differential Equation Language,1968,pl,1968,0,United States
+PDL/Ada,1981,pl,1981,0,United States
+PDL,1973,pl,1973,0,United States
+Pebble,1984,pl,1984,0,United States and Scotland
+PEI,1994,pl,1994,0,France
+PEP,1984,pl,1984,0,The Netherlands
+PFORT,1975,pl,1975,0,United States
+Pfortran,1992,pl,1992,0,United States
+pGOLOG,2000,pl,2000,0,Germany
+PHYSICTRAN,1971,pl,1971,0,France
+Pi Calculus,1991,pl,1991,0,France
+PICTOL,1975,pl,1975,0,United States
+PICTUREBALM,1980,pl,1980,0,United States
+PiLib,2002,pl,2002,0,Switzerland
+PL/EXUS,1973,pl,1973,0,United States
+PLANIT,1967,pl,1967,0,United States
+PLANNER-73,1973,pl,1973,0,United States
+Playground,1989,pl,1989,0,United States
+Pocket Smalltalk,1999,pl,1999,0,Canada
+POGOL,1973,pl,1973,0,United States
+POLAC,1975,pl,1975,0,United States
+Polylith,1983,pl,1983,0,United States
+PolyP,1997,pl,1997,0,Sweden
+PolyTOIL,1994,pl,1994,0,Canada
+POPSY,1986,pl,1986,0,Germany
+PORT-ALG,1973,pl,1973,0,United States
+PRAXIS,1980,pl,1980,0,United States
+PRESTO,1987,pl,1987,0,United States
+Principle of sufficient reason,1975,pl,1975,0,United States
+PRISM,1983,pl,1983,0,United States
+Prisma Schema Language,2019,idl,2019,0,Germany
+PROCOL,1991,pl,1991,0,The Netherlands
+PROGRES,1991,pl,1991,0,Germany
+Prolog-D-Linda,1990,pl,1990,0,Australia
+Prolog-ELF,1985,pl,1985,0,Japan
+Prolog III,1984,pl,1984,0,France
+Prolog/KR,1984,pl,1984,0,Japan
+Prolog-Linda,1989,pl,1989,0,Australia
+PROPLAN,1977,pl,1977,0,United States
+PROTOS-L,1989,pl,1989,0,Germany
+PROW,1969,pl,1969,0,United States
+pSather,1991,pl,1991,0,Germany
+PSG,1969,pl,1969,0,United States
+PSL,1979,pl,1979,0,United States
+PT,1983,pl,1983,0,World
+PUMPKIN,1974,pl,1974,0,United States
+Q-GERT,1979,pl,1979,0,United States
+QA4,1967,pl,1967,0,United State
+QLISP,1988,pl,1988,0,United States
+Qunity,2022,pl,2022,0,United States
+Quty,1984,pl,1984,0,Japan
+rbasic,1985,pl,1985,0,United States
+REC/SM,1980,pl,1980,0,United States
+RECOL,1963,pl,1963,0,United States
+REF-ARF,1970,pl,1970,0,United States
+RefLisp,1988,pl,1988,0,United States
+REGENT,1971,pl,1971,0,Germany
+Relationlog,2001,pl,2001,0,Canada
+RELFUN,1986,pl,1986,0,Germany
+RF-Maple,1984,pl,1984,0,Canada
+RHET,1990,pl,1990,0,United States
+RIGAL,1987,pl,1987,0,Former USSR or Latvia
+ROL,1996,pl,1996,0,Canada
+ROL2,1999,pl,1999,0,Canada
+S-Snobol,1978,pl,1978,0,World
+SHOE,2000,pl,2000,0,World
+SIL,1990,pl,1990,0,World
+sina,1989,pl,1989,0,World
+SSL,1994,protocol,1994,0,World
+Static Typescript,2019,pl,2019,0,World
+SURGE,1958,pl,1958,0,World
+taktentus,2015,esolang,2015,0,World
+VoxML,1998,pl,1998,0,World
+Very Tiny Language,1976,pl,1976,0,World
+wizml,1997,pl,1997,0,World
+Wolontis-Bell Interpreter,1955,pl,1955,0,World
+xl,1977,pl,1977,0,World
+XQL,1999,queryLanguage,1999,0,World
