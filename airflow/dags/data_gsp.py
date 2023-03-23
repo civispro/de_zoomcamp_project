@@ -29,7 +29,7 @@ dataset_file = "pldb.csv"
 dataset_url = f"https://raw.githubusercontent.com/civispro/de_zoomcamp_project/main/{dataset_file}"
 path_to_local_home = os.environ.get("AIRFLOW_HOME", pathlib.Path().resolve())
 parquet_file = dataset_file.replace('.csv', '.parquet')
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "cred.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = ".cred.json"
 
 
 def format_to_parquet(src_file):
