@@ -96,8 +96,6 @@ def upload_to_gcs(bucket, object_name, local_file):
     storage.blob._DEFAULT_CHUNKSIZE = 5 * 1024 * 1024  # 5 MB
     # End of Workaround
 
-    #upload_local_directory_to_gcs(local_path, bucket, BUCKET_FOLDER_DIR)
-
     client = storage.Client()
     bucket = client.bucket(bucket)
 
