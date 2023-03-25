@@ -19,6 +19,9 @@ Some of the questions answered (taken from google cloud page):
 
 ## Dataset
 
+The dataset contains information on over 4000 programming languages. Which include facts about the language such as what year it was created, What is its rank, and other parameters that you will come to know once you explore the dataset.
+
+[Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/programming-language-database) 
 
 ## Conclusion
 
@@ -80,8 +83,15 @@ airflow scheduler
 
 ```   
 ###### Put GCP credentials "cred.json" to the folder named airflow
-  
 
+#### Sign up on [dbt cloud](https://www.getdbt.com/) and use dbt folder from this repo
+```bash
+dbt build
+```   
+#### Run Metabase in docker to vizualize data
+```bash
+docker run -d -p 3000:3000 --name metabase metabase/metabase
+```
 
 ## Dashboard
 
