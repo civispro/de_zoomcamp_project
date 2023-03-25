@@ -36,47 +36,35 @@ Python, Apache Airflow, Apache Spark with PySpark, dbt, Google Cloud Platform, M
 
 ## Installation
 
-Clone repo to your computer
+#### Clone repo to your computer
   ```bash
   git clone https://github.com/civispro/de_zoomcamp_project.git
   cd de_zoomcamp_project
 ```
-Setup [connection to google cloud](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup)  and aplly terraform  
-
+#### Setup [connection to google cloud](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_1_basics_n_setup) and aplly terraform  
 ```bash
 gcloud auth application-default login
 terraform init
 terraform plan
 terraform apply
 ```
-
-[Install spark](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_5_batch_processing/setup/linux.md) 
-  
-    
-  
-  
-  
+#### [Install Apache Spark with PySpark](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_5_batch_processing/setup/linux.md)  
 ```bash
 conda install  setuptools  
-
 ```  
-  
-  
-  
-  
-Install airflow
+   
+#### Install Apache Spark
   
 ```bash
 export AIRFLOW_HOME=/de_zoomcamp_project/airflow    
 cd
 nano .bashrc 
 ```  
- Добовляем в .bashrc 
+###### add to .bashrc 
 ```bash
 export AIRFLOW_HOME=/de_zoomcamp_project/airflow
 ```   
-Сохраняем и выходим  
- 
+###### save and exit 
 ```bash
 cd /de_zoomcamp_project/airflow
 pip install 'apache-airflow==2.5.1'  --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.5.1/constraints-3.9.txt"
@@ -90,14 +78,12 @@ airflow users create \
 airflow webserver -p 8080
 airflow scheduler
 
-
-```  
-  
-Кладем ключ гугла cred.json в папку airflow
+```   
+###### Put GCP credentials "cred.json" to the folder named airflow
   
 
 
 ## Dashboard
 
-![Снимок экрана от 2023-03-23 16-47-20](https://user-images.githubusercontent.com/123605185/227710734-0ea83474-41fc-40d7-906f-2d997486ee42.png)
+![Dashboard](https://user-images.githubusercontent.com/123605185/227710734-0ea83474-41fc-40d7-906f-2d997486ee42.png)
 
