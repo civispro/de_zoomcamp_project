@@ -1,16 +1,38 @@
-# ✨ Welcome to my data engenering zoomcamp project
+# 🔢 History of programming languages
 
-This project analyze popularity of prrogramming languages
+Data Engineering project to demonstrate pipelines for Data Engineering Zoomcamp. 
+
+
+
+## Problem
+
+This project aims to show some interesting statistics of the Stack-Overflow's public dataset in BigQuery.
+
+Some of the questions answered (taken from google cloud page):
+
+    What is the percentage of questions that have been answered over the years?
+    What is the reputation and badge count of users across different tenures on StackOverflow?
+    What are 10 of the “easier” gold badges to earn?
+    Which day of the week has most questions answered within an hour?
+
+
+
+## Dataset
+
+
+## Conclusion
+
+
+
+## Dashboard
+
+![Dashboard](https://user-images.githubusercontent.com/123605185/227710734-0ea83474-41fc-40d7-906f-2d997486ee42.png)
+
 
 
 ## Tech Stack
 
 Python, Apache Airflow, Apache Spark with PySpark, dbt, Google Cloud Platform, Metabase
-
-
-## Screenshots
-
-![Снимок экрана от 2023-03-23 16-47-20](https://user-images.githubusercontent.com/123605185/227710734-0ea83474-41fc-40d7-906f-2d997486ee42.png)
 
 ## Installation
 
@@ -75,4 +97,7 @@ airflow scheduler
   
 
 
+## Dashboard
+
+![Снимок экрана от 2023-03-23 16-47-20](https://user-images.githubusercontent.com/123605185/227710734-0ea83474-41fc-40d7-906f-2d997486ee42.png)
 
