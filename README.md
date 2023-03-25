@@ -6,14 +6,14 @@ Data Engineering project to demonstrate pipelines for Data Engineering Zoomcamp.
 
 ## Problem
 
-This project aims to show some interesting statistics of the Stack-Overflow's public dataset in BigQuery.
+This project aims to show some interesting statistics of history of programming languages.
 
-Some of the questions answered (taken from google cloud page):
+Some of the questions answered:
 
-    What is the percentage of questions that have been answered over the years?
-    What is the reputation and badge count of users across different tenures on StackOverflow?
-    What are 10 of the “easier” gold badges to earn?
-    Which day of the week has most questions answered within an hour?
+    What is the number of programming languages appeared per year?
+    What is the number of GitHub repos with each programming language?
+    What is the number of programming languages died per year?
+    Ratio of dead and alive programming languages?
 
 
 
@@ -22,9 +22,6 @@ Some of the questions answered (taken from google cloud page):
 The dataset contains information on over 4000 programming languages. Which include facts about the language such as what year it was created, What is its rank, and other parameters that you will come to know once you explore the dataset.
 
 [Kaggle](https://www.kaggle.com/datasets/sujaykapadnis/programming-language-database) 
-
-## Conclusion
-
 
 
 ## Dashboard
