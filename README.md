@@ -50,10 +50,10 @@ terraform apply
 ```
 #### [Install Apache Spark with PySpark](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/week_5_batch_processing/setup/linux.md)  
 ```bash
-conda install  setuptools  
+conda install setuptools  
 ```  
    
-#### Install Apache Spark
+#### Install Apache Airflow
   
 ```bash
 export AIRFLOW_HOME=/de_zoomcamp_project/airflow    
