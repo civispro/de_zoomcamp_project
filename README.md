@@ -12,8 +12,7 @@ This project analyze popularity of prrogramming languages
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Снимок экрана от 2023-03-23 16-47-20](https://user-images.githubusercontent.com/123605185/227710734-0ea83474-41fc-40d7-906f-2d997486ee42.png)
 
 ## Installation
 
