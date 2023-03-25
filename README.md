@@ -5,9 +5,7 @@ This project analyze popularity of prrogramming languages
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+Python, Apache Airflow, Apache Spark with PySpark, dbt, Google Cloud Platform, Metabase
 
 
 ## Screenshots
